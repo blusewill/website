@@ -6,14 +6,79 @@ theme = "LoveIt"
 # website title
 title = "blusewill's Official Website"
 
-# language code ["en", "zh-TW"]
+# language code ["en", "zh-tw"]
 languageCode = "en"
-# language name ["English", "中文"]
+# language name ["English", "繁體中文"]
 languageName = "English"
 # whether to include Chinese/Japanese/Korean
-hasCJKLanguage = false
+hasCJKLanguage = true
 
-# default amount of posts in each pages
+# determines default content language ["en", "zh-cn", "fr", "pl", ...]
+defaultContentLanguage = "en"
+
+[languages]
+  [languages.en]
+    weight = 1
+    title = "blusewill's Official Website"
+    languageCode = "en"
+    languageName = "English"
+  [languages.zh-tw]
+    weight = 2
+    title = "小品大大的網站"
+    languageCode = "zh-tw"
+    languageName = "繁體中文"
+    hasCJKLanguage = true
+    [[languages.zh-tw.menu.main]]
+      weight = 1
+      identifier = "posts"
+      pre = ""
+      post = ""
+      name = "文章"
+      url = "posts/"
+      title = ""
+    [[languages.zh-tw.menu.main]]
+    weight = 1
+    identifier = "推特"
+    name = "推特"
+    url = "https://twitter.com/bluesewill"
+    [[languages.zh-tw.menu.main]]
+    weight = 1
+    identifier = "YouTube"
+    name = "YouTube"
+    url = "https://youtube.com/@blusewill"
+    [[languages.zh-tw.menu.main]]
+    weight = 1
+    identifier = "Gumroad"
+    name = "商店"
+    url = "https://gumroad.com/blusewill"
+    [[languages.zh-tw.menu.main]]
+    weight = 1
+    identifier = "StreamElements"
+    name = "斗內"
+    url = "https://streamelements.com/blusewill/tip"
+    [[languages.zh-tw.menu.main]]
+    weight = 1
+    identifier = "Source Code"
+    name = "網站原始碼"
+    url = "https://github.com/blusewill/website"
+    [[languages.zh-tw.menu.main]]
+    weight = 1
+    identifier = "圖奇"
+    name = "Twitch"
+    url = "https://twitch.tv/blusewill"
+    # Home page profile
+    [languages.zh-tw.params.home.profile]
+      enable = true
+      # Gravatar Email for preferred avatar in home page
+      gravatarEmail = ""
+      # URL of avatar shown in home page
+      avatarURL = "/img/pfp.png"
+      # {{< version 0.2.7 changed >}} title shown in home page (HTML format is supported)
+      title = "小品大大"
+      # subtitle shown in home page (HTML format is supported)
+      subtitle = "YouTuber | 直播主 | 旋風忍者配樂剪輯員 | 不會3D建模的3D建模師 | Linux使用者"
+      typeit = true
+
 paginate = 12
 # google analytics code [UA-XXXXXXXX-X]
 #googleAnalytics = ""
@@ -74,6 +139,11 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     identifier = "Source Code"
     name = "Website Source Code"
     url = "https://github.com/blusewill/website"
+  [[menu.main]]
+    weight = 1
+    identifier = "Twitch"
+    name = "Twitch"
+    url = "https://twitch.tv/blusewill"
 
 [params]
   # site default theme ["auto", "light", "dark"]
@@ -88,7 +158,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   # website title for Open Graph and Twitter Cards
   title = "blusewill's Official Website"
   # website description for RSS, SEO, Open Graph and Twitter Cards
-  description = "YouTuber | Streamer | Ninjago Soundtrack Editor | Bad 3D Modeler"
+  description = "YouTuber | Streamer | Ninjago Soundtrack Editor | Aspiring 3D Modeler"
   # website images for Open Graph and Twitter Cards
 # images = ["img/pfp.png"]
 
@@ -198,7 +268,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # {{< version 0.2.7 changed >}} title shown in home page (HTML format is supported)
       title = "blusewill"
       # subtitle shown in home page (HTML format is supported)
-      subtitle = "YouTuber | Streamer | Ninjago Soundtrack Editor | Bad 3D Modeler"
+      subtitle = "YouTuber | Streamer | Ninjago Soundtrack Editor | Aspiring 3D Modeler | Linux User"
       # whether to use typeit animation for subtitle
       typeit = true
       # whether to show social links

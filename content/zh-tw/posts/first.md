@@ -1,9 +1,9 @@
 ---
-title: "My First Post"
+title: "第一個貼文"
 subtitle: ""
 date: 2020-03-04T15:58:26+08:00
 lastmod: 2020-03-04T15:58:26+08:00
-draft: true
+draft: false
 author: "blusewill"
 authorLink: "https://blusewill.ml"
 description: ""
@@ -58,3 +58,6 @@ seo:
   images: []
   # ...
 ---
+
+# 歡迎來到我的網站
+當你看到這個文章的時候，我可能已經花了N個小時把這個網站的中文用好了
