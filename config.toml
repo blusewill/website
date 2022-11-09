@@ -26,6 +26,7 @@ defaultContentLanguage = "en"
     weight = 2
     title = "小品大大的網站"
     languageCode = "zh-tw"
+    contentDir = "/content/zh-tw"
     languageName = "繁體中文"
     hasCJKLanguage = true
     [[languages.zh-tw.menu.main]]
@@ -34,7 +35,7 @@ defaultContentLanguage = "en"
       pre = ""
       post = ""
       name = "文章"
-      url = "posts/"
+      url = "zh-tw/posts/"
       title = ""
     [[languages.zh-tw.menu.main]]
     weight = 1
@@ -264,7 +265,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # Gravatar Email for preferred avatar in home page
       gravatarEmail = ""
       # URL of avatar shown in home page
-      avatarURL = "/img/pfp.png"
+      avatarURL = "img/pfp.png"
       # {{< version 0.2.7 changed >}} title shown in home page (HTML format is supported)
       title = "blusewill"
       # subtitle shown in home page (HTML format is supported)
