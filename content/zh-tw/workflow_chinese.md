@@ -59,9 +59,8 @@ seo:
   # ...
 ---
 # GitHub 最近活動紀錄
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=blusewill&show_icons=true&theme=tokyonight" />
-</a></p>
+
+![](https://github-readme-stats.vercel.app/api?username=blusewill&show_icons=true&theme=tokyonight&bg_color=00000000)
 
 ---
 
