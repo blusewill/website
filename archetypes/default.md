@@ -1,8 +1,8 @@
 ---
-title: "My First Post"
+title: "{{ replace .Name "-" " " | title }}"
 subtitle: ""
-date: 2020-03-04T15:58:26+08:00
-lastmod: 2020-03-04T15:58:26+08:00
+date: {{ .Date }}
+lastmod: {{ .Date }}
 draft: true
 author: "blusewill"
 authorLink: "https://blusewill.ml"

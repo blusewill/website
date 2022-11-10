@@ -67,6 +67,12 @@ defaultContentLanguage = "en"
     identifier = "圖奇"
     name = "Twitch"
     url = "https://twitch.tv/blusewill"
+    [[languages.zh-tw.menu.main]]
+    weight = 1
+    identifier = "Github Workflow"
+    name = "工作環境"
+    url = "/workflow_chinese/"
+
     # Home page profile
     [languages.zh-tw.params.home.profile]
       enable = true
@@ -145,7 +151,11 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     identifier = "Twitch"
     name = "Twitch"
     url = "https://twitch.tv/blusewill"
-
+  [[menu.main]]
+    weight = 1
+    identifier = "Github Workflow"
+    name = "Workflow"
+    url = "/workflow/"
 [params]
   # site default theme ["auto", "light", "dark"]
   defaultTheme = "auto"

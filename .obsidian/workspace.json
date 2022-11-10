@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "3fceb437dac632d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "95306e057672a474",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6eea708bf85bd049",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/workflow.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ef0569fe8fbe2972",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ce6e01ee968022a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2540205a47e1e4ca",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "08860a9ea693992c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1e50778d7933f239",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b8c3554fef7f15f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "8327993e54f54e95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a80b261ed6ab012b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/workflow.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bacea0b3829d7015",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/workflow.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b8c5016b4119abbe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "aa72886f9022a677",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/workflow.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6eea708bf85bd049",
+  "lastOpenFiles": [
+    "archetypes/default.md",
+    "content/workflow.md"
+  ]
+}
