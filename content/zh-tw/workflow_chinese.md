@@ -66,11 +66,11 @@ seo:
 
 # 寫程式時間紀錄
 
-![](https://wakatime.com/share/@2be298e9-735d-4bcb-940f-92569bb0fae1/3ca2e625-0568-4a1a-a056-72eec5708d43.svg)
+![](https://wakatime.com/share/@2be298e9-735d-4bcb-940f-92569bb0fae1/c027a6ec-6b20-4713-a406-2539603cafeb.svg)
 
 ---
 # 最近常寫的程式語言
-![](https://wakatime.com/share/@2be298e9-735d-4bcb-940f-92569bb0fae1/9b159012-c00d-4024-8594-b4b8b85cef2e.svg)
+![](https://wakatime.com/share/@2be298e9-735d-4bcb-940f-92569bb0fae1/b8937680-afa8-4f52-8680-9ddcab15af00.svg)
 
 ---
 # 常用編輯器
