@@ -66,7 +66,7 @@ seo:
 
 # 寫程式時間紀錄
 
-![](https://wakatime.com/share/@2be298e9-735d-4bcb-940f-92569bb0fae1/c027a6ec-6b20-4713-a406-2539603cafeb.svg)
+![](https://wakatime.com/share/@2be298e9-735d-4bcb-940f-92569bb0fae1/3db5c72c-742f-4935-844a-a626f39dd1ac.svg)
 
 ---
 # 最近常寫的程式語言
