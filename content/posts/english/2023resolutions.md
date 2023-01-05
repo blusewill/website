@@ -82,6 +82,8 @@ So it's time to Setup New Resolutions
 - [ ] Unlock Twitch Affiliate
 - [ ] Live 2D/3D Model
 - [ ] thisisnotblusewill Wolf Live 2D Model
+
+
 if Arata and Ngreimond coming to Taiwan
 - [ ] Meet Arataclocksworth
 - [ ] Meet Ngreimond
