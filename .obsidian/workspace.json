@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/chinese/mpd.zh-tw.md",
+                "file": "content/posts/english/2023resolutions.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/chinese/mpd.zh-tw.md",
+                "file": "content/posts/english/2023resolutions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/chinese/mpd.zh-tw.md",
+                "file": "content/posts/english/2023resolutions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/chinese/mpd.zh-tw.md"
+                "file": "content/posts/english/2023resolutions.md"
               }
             }
           }
@@ -136,17 +136,27 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2540205a47e1e4ca",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ab33516d8daf9df5",
   "lastOpenFiles": [
-    "content/posts/chinese/first.zh-tw.md",
+    "content/posts/english/first.en.md",
+    "content/zh-tw/workflow_chinese.md",
+    "content/posts/english/2023resolutions.md",
+    "Untitled.canvas",
     "content/posts/chinese/mpd.zh-tw.md",
+    "content/posts/chinese/first.zh-tw.md",
     "media/b8937680-afa8-4f52-8680-9ddcab15af00.svg",
     "media/3db5c72c-742f-4935-844a-a626f39dd1ac.svg",
     "media/e5f27e70-be64-44f1-80c4-5c22d4f1c6a1.svg",
-    "media/f4975f3c-44ab-412e-b599-8847ac8ecd22.svg",
-    "media/Hugo_Theme_LoveIt.png",
-    "media/Hugo_主题_LoveIt.png",
-    "media/Minion.png",
-    "media/mpddevil.png"
+    "media/f4975f3c-44ab-412e-b599-8847ac8ecd22.svg"
   ]
 }
