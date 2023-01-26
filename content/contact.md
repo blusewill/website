@@ -79,7 +79,7 @@ My Email is : [blusewillstudio@protonmail.com](mailto:blusewillstudio@protonmail
 
 ## Discord
 
-小品大大#2858 (Main) <br/>
+blusewill aka. Justawildwolf#2858 (Main) <br/>
 Or <br/>
 BlusewillStudio#3936 (Alt)
 
