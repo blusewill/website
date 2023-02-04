@@ -70,3 +70,11 @@ seo:
 # 我還可以去以前的網站嘛?
 
 **可以**點擊[這裡](https://old.blusewill.ml)前往
+
+<script src="https://utteranc.es/client.js"
+        repo="blusewill/website"
+        issue-term="title"
+        theme="photon-dark"
+        crossorigin="anonymous"
+        async>
+</script>

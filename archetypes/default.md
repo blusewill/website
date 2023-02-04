@@ -58,3 +58,13 @@ seo:
   images: []
   # ...
 ---
+
+
+
+<script src="https://utteranc.es/client.js"
+        repo="blusewill/website"
+        issue-term="title"
+        theme="photon-dark"
+        crossorigin="anonymous"
+        async>
+</script>

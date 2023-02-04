@@ -79,7 +79,7 @@ defaultContentLanguage = "en"
       # Gravatar Email for preferred avatar in home page
       gravatarEmail = ""
       # URL of avatar shown in home page
-      avatarURL = "/img/pfp.png"
+      avatarURL = "/img/pfp.webp"
       # {{< version 0.2.7 changed >}} title shown in home page (HTML format is supported)
       title = "小品大大"
       # subtitle shown in home page (HTML format is supported)
@@ -275,7 +275,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # Gravatar Email for preferred avatar in home page
       gravatarEmail = ""
       # URL of avatar shown in home page
-      avatarURL = "img/pfp.png"
+      avatarURL = "img/pfp.webp"
       # {{< version 0.2.7 changed >}} title shown in home page (HTML format is supported)
       title = "blusewill"
       # subtitle shown in home page (HTML format is supported)
