@@ -39,9 +39,9 @@ defaultContentLanguage = "en"
       title = ""
     [[languages.zh-tw.menu.main]]
     weight = 1
-    identifier = "推特"
-    name = "推特"
-    url = "https://twitter.com/bluesewill"
+    identifier = "Mastodon"
+    name = "Mastodon"
+    url = "https://mastodon.social/@bluesewill"
     [[languages.zh-tw.menu.main]]
     weight = 1
     identifier = "YouTube"
@@ -123,9 +123,9 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     title = ""
   [[menu.main]]
     weight = 1
-    identifier = "Twitter"
-    name = "Twitter"
-    url = "https://twitter.com/bluesewill"
+    identifier = "Mastodon"
+    name = "Mastodon"
+    url = "https://mastodon.social/@bluesewill"
   [[menu.main]]
     weight = 1
     identifier = "YouTube"

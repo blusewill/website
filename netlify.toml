@@ -1,0 +1,29 @@
+[[redirects]]
+  from = "https://blusewill.ml/twitch"
+  to = "https://twitch.tv/blusewill"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://blusewill.ml/youtube"
+  to = "https://www.youtube.com/channel/UC1Fa_Q0ysOfZhe2HWPi6dZw"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://blusewill.ml/twittermain"
+  to = "https://twitter.com/bluesewill"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://blusewill.ml/twitterwolf"
+  to = "https://twitter.com/justawildwolf"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://blusewill.ml/mastodon"
+  to = "https://mastodon.social/@bluesewill"
+  status = 301
+  force = true

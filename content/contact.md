@@ -69,6 +69,9 @@ Well I accept all kinds of thing you send to me but **PLEASE PLEASE** don't send
 
 My Email is : [blusewillstudio@protonmail.com](mailto:blusewillstudio@protonmail.com)
 
+## Mastodon
+[@bluesewill@mastodon.social](https://mastodon.social/@bluesewill)
+
 ## Twitter
 
 [@bluesewill](https://twitter.com/bluesewill)

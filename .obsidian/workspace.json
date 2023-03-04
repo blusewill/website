@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/english/2023resolutions.md",
+                "file": "content/posts/chinese/qutting-twitter.zh-tw.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/english/2023resolutions.md",
+                "file": "content/posts/chinese/qutting-twitter.zh-tw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/english/2023resolutions.md",
+                "file": "content/posts/chinese/qutting-twitter.zh-tw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/english/2023resolutions.md"
+                "file": "content/posts/chinese/qutting-twitter.zh-tw.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "ab33516d8daf9df5",
   "lastOpenFiles": [
+    "content/posts/english/2023resolutions.md",
     "content/posts/english/first.en.md",
     "content/zh-tw/workflow_chinese.md",
-    "content/posts/english/2023resolutions.md",
     "Untitled.canvas",
     "content/posts/chinese/mpd.zh-tw.md",
     "content/posts/chinese/first.zh-tw.md",
