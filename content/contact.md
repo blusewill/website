@@ -60,7 +60,7 @@ seo:
 ---
 # READ THIS BEFORE SEND ANYTHING
 
-Well I accept all kinds of thing you send to me but **PLEASE PLEASE** don't send anything that is **homophobic** or something that is **NSFW** trust me you will get **INSTANT BLOCKED** or **IGNORE** by me so please use **your mind before send anything**
+Well I accept all kinds of thing you send to me but **PLEASE PLEASE** don't send anything that is **homophobic** or something that is **NSFW** trust me you will get **INSTANT BLOCKED** or **GET IGNORED** by me so please **USE your mind before send anything**
 
 
 # Contact information

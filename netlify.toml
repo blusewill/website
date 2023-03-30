@@ -27,3 +27,11 @@
   to = "https://mastodon.social/@bluesewill"
   status = 301
   force = true
+
+[[redirects]]
+  from = "https://blusewill.ml/plurk"
+  to = "https://www.plurk.com/blusewillLIVE"
+  status = 301
+  force = true
+
+
