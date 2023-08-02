@@ -41,7 +41,7 @@ share:
   enable: true
   # ...
 comment:
-  enable: false
+  enable: true
   # ...
 library:
   css:
@@ -678,11 +678,3 @@ audio_output {
 這就是我平常怎麼播音樂的，雖說架起來麻煩但是用起來是真的好用的
 
 那mpd也可以做到很多事，像是可以跟一個OBS的插件Tuna用在一起，就可以在上面看到正在播放的音樂，我這還只是簡單用用而已，還不是非常進階的用法，如果你們有非常進階的mpd使用方法也可以在Twitter上面@bluesewill讓我知道拉，這邊是blusewill_Guide我們下次再見 :D
-
-<script src="https://utteranc.es/client.js"
-        repo="blusewill/website"
-        issue-term="title"
-        theme="photon-dark"
-        crossorigin="anonymous"
-        async>
-</script>

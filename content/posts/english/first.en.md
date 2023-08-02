@@ -41,7 +41,7 @@ share:
   enable: true
   # ...
 comment:
-  enable: false
+  enable: true
   # ...
 library:
   css:
@@ -70,12 +70,4 @@ why I replace my Website to another Theme ~~(Actual reason is I didn't want to D
 
 # Can I still Visit the Old Website??
 
-**YES** you can visit on [Here](https://old.blusewill.ml) 
-
-<script src="https://utteranc.es/client.js"
-        repo="blusewill/website"
-        issue-term="title"
-        theme="photon-dark"
-        crossorigin="anonymous"
-        async>
-</script>
+**YES** you can visit on [Here](https://lambent-dango-0a57d4.netlify.app/) 

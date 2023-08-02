@@ -86,10 +86,4 @@ Twitter的API真的變得非常的不穩定，就像某一次我在追蹤一位�
 
 
 那Mastodon是一個去中心化P2P的平台，而且也有很多你在Twitter上看不到的功能
-<script src="https://utteranc.es/client.js"
-        repo="blusewill/website"
-        issue-term="title"
-        theme="photon-dark"
-        crossorigin="anonymous"
-        async>
-</script>
+

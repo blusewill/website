@@ -438,14 +438,14 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       fullscreen = true
     # {{< version 0.2.0 changed >}} social share links in post page
     [params.page.share]
-      enable = true
+      enable = false
       Twitter = true
       Facebook = true
       Linkedin = false
       Whatsapp = false
       Pinterest = false
       Tumblr = false
-      HackerNews = true
+      HackerNews = false
       Reddit = false
       VK = false
       Buffer = false
@@ -454,7 +454,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       Instapaper = false
       Pocket = false
       Flipboard = false
-      Weibo = true
+      Weibo = false
       Blogger = false
       Baidu = false
       Odnoklassniki = false
@@ -524,11 +524,11 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         enable = false
       # {{< version 0.2.5 >}} {{< link "https://utteranc.es/" "utterances" >}} comment config
       [params.page.comment.utterances]
-        enable = false
+        enable = true
         # owner/repo
-        repo = ""
-        issueTerm = "pathname"
-        label = ""
+        repo = "blusewill/website"
+        issueTerm = "title"
+        label = "post"
         lightTheme = "github-light"
         darkTheme = "github-dark"
       # giscus comment config (https://giscus.app/)

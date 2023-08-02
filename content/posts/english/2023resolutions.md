@@ -41,7 +41,7 @@ share:
   enable: true
   # ...
 comment:
-  enable: false
+  enable: true
   # ...
 library:
   css:
@@ -90,12 +90,3 @@ if Arata and Ngreimond coming to Taiwan
 
 
 And basically that's all of the resolutions Although I have a very low hope it can complete most of them, but wishes is wishes, it will never be possible to finish all of them, but sometimes you can't tell it's might be possible.
-
-
-<script src="https://utteranc.es/client.js"
-        repo="blusewill/website"
-        issue-term="title"
-        theme="photon-dark"
-        crossorigin="anonymous"
-        async>
-</script>

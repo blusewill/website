@@ -41,7 +41,7 @@ share:
   enable: true
   # ...
 comment:
-  enable: false
+  enable: true
   # ...
 library:
   css:
@@ -59,12 +59,3 @@ seo:
   # ...
 ---
 
-
-
-<script src="https://utteranc.es/client.js"
-        repo="blusewill/website"
-        issue-term="title"
-        theme="photon-dark"
-        crossorigin="anonymous"
-        async>
-</script>
