@@ -157,7 +157,6 @@ such as `model` `translate/transcribe` `language` and more!
 
 And your file should be generated in Generated Folder!
 
-## Walkthrough Video
-<iframe width="420" height="315"
-src="https://youtu.be/-Iep2_q6cyo">
-</iframe>
+# Walkthrough Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Iep2_q6cyo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
