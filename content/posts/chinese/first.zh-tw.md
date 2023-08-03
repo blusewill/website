@@ -5,7 +5,7 @@ date: 2020-03-04T15:58:26+08:00
 lastmod: 2020-03-04T15:58:26+08:00
 draft: false
 author: "小品大大"
-authorLink: "https://blusewill.ml"
+authorLink: "https://www.buymeacoffee.com/blusewill"
 description: "為什麼在3個月內換主體了?"
 license: ""
 images: []

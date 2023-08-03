@@ -77,11 +77,11 @@ First thing you want to select is your Download Method, We have 3 ways to let yo
 
 You can use your favorite to Download it such as Google Drive | anonfiles | Direct Download (**NOT RECOMMENDED**)
 
-![Download Method](/content/img/ytvideo-whisper/2023-07-20_19-01.png)
+![Download Method](img/ytvideo-whisper/2023-07-20_19-01.png)
 
 And the Next thing you want to do is change the Settings
 
-![Settings](/content/img/ytvideo-whisper/2023-07-20_19-07.png)
+![Settings](img/ytvideo-whisper/2023-07-20_19-07.png)
 
 Don't be panic when you see these options
 
@@ -113,7 +113,7 @@ After all of the Settings has been setup, next we are going to do is check your 
 
 Go to `Runtime` -> `Change Runtime type` to check your GPU is enabled or not.
 
-![Runtime Type](/content/img/ytvideo-whisper/2023-07-20_19-28.png)
+![Runtime Type](img/ytvideo-whisper/2023-07-20_19-28.png)
 
 Make sure change the GPU type to T4 to Enable it (Free Version)
 

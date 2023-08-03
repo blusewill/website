@@ -5,7 +5,7 @@ date: 2023-02-19T01:29:31+08:00
 lastmod: 2023-02-19T01:29:31+08:00
 draft: true
 author: "blusewill"
-authorLink: "https://blusewill.ml"
+authorLink: "https://www.buymeacoffee.com/blusewill"
 description: "Mastodon真的是一個更好的地方嗎?"
 license: ""
 images: []
