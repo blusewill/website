@@ -5,7 +5,7 @@ date: 2023-01-05T22:42:20+08:00
 lastmod: 2023-01-05T22:42:20+08:00
 draft: false
 author: "blusewill"
-authorLink: "https://blusewill.ml"
+authorLink: "https://www.buymeacoffee.com/blusewill"
 description: ""
 license: ""
 images: []

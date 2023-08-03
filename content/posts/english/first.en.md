@@ -5,7 +5,7 @@ date: 2020-03-04T15:58:26+08:00
 lastmod: 2020-03-04T15:58:26+08:00
 draft: false
 author: "blusewill"
-authorLink: "https://blusewill.ml"
+authorLink: "https://www.buymeacoffee.com/blusewill"
 description: "Why I created a new website in 3 months?"
 license: ""
 images: []

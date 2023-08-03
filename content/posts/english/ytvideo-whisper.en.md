@@ -5,7 +5,7 @@ date: 2023-08-03T13:45:44+08:00
 lastmod: 2023-08-03T13:45:44+08:00
 draft: false
 author: "blusewill"
-authorLink: "https://blusewill.ml"
+authorLink: "https://www.buymeacoffee.com/blusewill"
 description: "The Project that uses Whisper Project to Transcript/Translate File"
 license: ""
 images: []
