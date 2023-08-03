@@ -3,7 +3,6 @@ title: "Auto Subtitle Generator"
 subtitle: ""
 date: 2023-08-03T13:45:44+08:00
 lastmod: 2023-08-03T13:45:44+08:00
-:
 draft: false
 author: "blusewill"
 authorLink: "https://blusewill.ml"
@@ -157,3 +156,8 @@ And you will need to use the arrow key to select your options
 such as `model` `translate/transcribe` `language` and more!
 
 And your file should be generated in Generated Folder!
+
+## Walkthrough Video
+<iframe width="420" height="315"
+src="https://youtu.be/-Iep2_q6cyo">
+</iframe>
