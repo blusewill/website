@@ -1,9 +1,10 @@
 ---
 title: "Auto Subtitle Generator"
 subtitle: ""
-date: 2023-06-02T17:34:00+08:00
-lastmod: 2023-06-02T17:34:00+08:00
-draft: true
+date: 2023-08-03T13:45:44+08:00
+lastmod: 2023-08-03T13:45:44+08:00
+:
+draft: false
 author: "blusewill"
 authorLink: "https://blusewill.ml"
 description: "The Project that uses Whisper Project to Transcript/Translate File"
@@ -130,19 +131,29 @@ First because of Windows Version of Python can't use GPU (Haven't setup a conda 
 First what you have to do is Clone the ytvideo-whisper Projct by typing
 
 ```
-git clone https://github.com/blusewill/ytvideo-whisper
+git clone https://github.com/blusewill/ytvideo-whisper && cd ytvideo-whisper
 ```
 
-And install all of the package using pip
+And you have to install Python 3 
 
 ```
-pip install -r requirement.txt
+sudo apt install python3 python3-pip
+```
+
+Also install the Requirement Python Package by using pip
+
+```
+pip3 install -r requirement.txt
 ```
 
 After all of the Package got installed you have to do is type this command
 ```
 python3 start.py
 ```
+Now Paste your YouTube Video! For Example ``https://youtu.be/-Iep2_q6cyo``
 
-To start Generating the Subtitle
+And you will need to use the arrow key to select your options
 
+such as `model` `translate/transcribe` `language` and more!
+
+And your file should be generated in Generated Folder!
