@@ -82,6 +82,7 @@ They Fixed Load Screen Problem Which you won't see X when you load in Twitter.
 1. They Haven't Fix the TweetDeck Problem of XPro and X favicon of it.
 1. When you Switch Account the logo will revert back (X Be Gone also have this Problem)
 1. It won't replace the X in popup window
+
 ![popup window](https://i.imgur.com/iAEnIK2.png)
 
 But All of these things can be resolved in Future Update And I see GoodbyeX has more active development than X Be Gone 
