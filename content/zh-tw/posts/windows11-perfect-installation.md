@@ -78,7 +78,7 @@ seo:
 
 但是最近因為國外YouTuber ThioJoe 的提及讓大部分的人都知道了這個技巧。
 
-{{< tweet user="thiojoe" id="1686565269907636224" >}}
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Did you know you can install Windows 11 without any bloatware simply by selecting &quot;English (World)&quot; as the Time &amp; Currency format at the initial install? <a href="https://t.co/l5Mwr2pgmP">pic.twitter.com/l5Mwr2pgmP</a></p>&mdash; ThioJoe (@thiojoe) <a href="https://twitter.com/thiojoe/status/1686565269907636224?ref_src=twsrc%5Etfw">August 2, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 所以我們要把`世界與貨幣格式`改成`英文(世界)`這樣就可以減少你要刪除垃圾軟體的時間了。
 
