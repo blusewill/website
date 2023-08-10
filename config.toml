@@ -20,13 +20,14 @@ defaultContentLanguage = "en"
   [languages.en]
     weight = 1
     title = "blusewill's Official Website"
-    languageCode = "en"
+    languageCode = "en-US"
+    contentDir = "content/en"
     languageName = "English"
   [languages.zh-tw]
     weight = 2
     title = "小品大大的網站"
     languageCode = "zh-tw"
-    contentDir = "/content/zh-tw"
+    contentDir = "content/zh-tw"
     languageName = "繁體中文"
     hasCJKLanguage = true
     [[languages.zh-tw.menu.main]]
@@ -275,7 +276,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # Gravatar Email for preferred avatar in home page
       gravatarEmail = ""
       # URL of avatar shown in home page
-      avatarURL = "img/pfp.webp"
+      avatarURL = "en/img/pfp.webp"
       # {{< version 0.2.7 changed >}} title shown in home page (HTML format is supported)
       title = "blusewill"
       # subtitle shown in home page (HTML format is supported)
