@@ -1,0 +1,66 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Twitter - Tag - blusewill&#39;s Official Website</title>
+        <link>https://chimerical-halva-267111.netlify.app/tags/twitter/</link>
+        <description>Twitter - Tag - blusewill&#39;s Official Website</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-US</language><managingEditor>blusewillstudio@protonmail.com (blusewill)</managingEditor>
+            <webMaster>blusewillstudio@protonmail.com (blusewill)</webMaster><lastBuildDate>Fri, 04 Aug 2023 15:19:19 &#43;0800</lastBuildDate><atom:link href="https://chimerical-halva-267111.netlify.app/tags/twitter/" rel="self" type="application/rss+xml" /><item>
+    <title>GoodbyeX</title>
+    <link>https://chimerical-halva-267111.netlify.app/goodbyex/</link>
+    <pubDate>Fri, 04 Aug 2023 15:19:19 &#43;0800</pubDate>
+    <author>blusewill</author>
+    <guid>https://chimerical-halva-267111.netlify.app/goodbyex/</guid>
+    <description><![CDATA[<p>Recently I made a article about <a href="https://chimerical-halva-267111.netlify.app/x-be-gone/" target="_blank" rel="noopener noreffer ">X Be Gone</a></p>
+<p>Which I talking about some issues they have to fix.</p>
+<p>But Recently I found out that <a href="https://github.com/fnleaksandinfo/GoodbyeX" target="_blank" rel="noopener noreffer ">GoodbyeX</a> is a Better alternative to X Be Gone</p>
+<h2 id="installation">Installation</h2>
+<p>Last time I talk about you have to install manually through source on X Be Gone but GoodbyeX have a Chrome Web Store Page that you just only have to click once and forgot forever</p>
+<h3 id="chrome">Chrome</h3>
+<p><a href="https://chrome.google.com/webstore/detail/goodbyex/cafaialogfdbacbbhgjohmkocpkcnfjf" target="_blank" rel="noopener noreffer ">https://chrome.google.com/webstore/detail/goodbyex/cafaialogfdbacbbhgjohmkocpkcnfjf</a></p>
+<h3 id="firefox">Firefox</h3>
+<p><a href="https://addons.mozilla.org/en-US/firefox/addon/goodbyex" target="_blank" rel="noopener noreffer ">https://addons.mozilla.org/en-US/firefox/addon/goodbyex</a></p>
+<h2 id="why-use-goodbyex">Why use GoodbyeX?</h2>
+<p>Last time when I am talking about some issues about X Be Gone&rsquo;s issues. One of them actually fixed in this Extension</p>
+<p>They Fixed Load Screen Problem Which you won&rsquo;t see X when you load in Twitter.</p>
+<h2 id="same-issues">Same issues</h2>
+<ol>
+<li>They Haven&rsquo;t Fix the TweetDeck Problem of XPro and X favicon of it.</li>
+<li>When you Switch Account the logo will revert back (X Be Gone also have this Problem)</li>
+<li>It won&rsquo;t replace the X in popup window</li>
+</ol>
+<p></p>
+<p>But All of these things can be resolved in Future Update And I see GoodbyeX has more active development than X Be Gone</p>
+<p>So whatever which project do you like Go Ahead and Check them out!</p>
+]]></description>
+</item>
+<item>
+    <title>X Be Gone</title>
+    <link>https://chimerical-halva-267111.netlify.app/x-be-gone/</link>
+    <pubDate>Thu, 03 Aug 2023 06:30:51 &#43;0800</pubDate>
+    <author>blusewill</author>
+    <guid>https://chimerical-halva-267111.netlify.app/x-be-gone/</guid>
+    <description><![CDATA[<p>So Twitter have their New logo and Name Called &ldquo;X&rdquo;</p>
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">The vision for X has been unfolding over the last 9 months – and there’s so much more on the horizon. Today we’re taking a moment to celebrate the progress and thank our teams and all our partners. <a href="https://t.co/azXPbe8IpO">https://t.co/azXPbe8IpO</a></p>&mdash; X (@X) <a href="https://twitter.com/X/status/1686854990864764929?ref_src=twsrc%5Etfw">August 2, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<p>In this website Article I am going to show you how can you change it from &ldquo;X&rdquo; to Twitter</p>
+<h2 id="installation">Installation</h2>
+<p>Here is the installation of the extension</p>
+<h3 id="firefox">Firefox</h3>
+<p>Firefox User is probably the most easiest one which you have to do is go to Firefox Add-on and install this <a href="https://addons.mozilla.org/en-US/firefox/addon/x-be-gone/" target="_blank" rel="noopener noreffer ">Extension</a> after the Installation go to <a href="https://twitter.com/" target="_blank" rel="noopener noreffer ">twitter</a> and you should see it switch to twitter instead of X</p>
+<h3 id="chromium-based-browser">Chromium Based Browser</h3>
+<p>So if you are using Chrome/Brave that is based on Chromium you have to install manually through the <a href="https://github.com/emvi/xbegone" target="_blank" rel="noopener noreffer ">Source</a></p>
+<p>Click on <code>&lt; &gt; Code</code> and Download zip and Extracted into a Folder</p>
+<p>Now go to Extension Tab by typing <code>chrome://extensions</code> in the URL bar</p>
+<p>And you will see <code>Developer Mode</code> on the Top Right Corner, Enable it.</p>
+<p>Click <code>Load Unpacked</code> on the left and open the Extracted Folder</p>
+<p>And you should have revert back to the original twitter instead of &ldquo;X&rdquo;</p>
+<h2 id="issues-about-this-extension">Issues about this Extension</h2>
+<p>Well there is still something needs to be fixed in this extension</p>
+<p>like it won&rsquo;t replace the X on TweetDeck, and the loading screen will still show X</p>
+<p>but is better then having it all to be X</p>
+<p>Now having fun to have that Bird Back!</p>
+<h1 id="video-walkthrough">Video Walkthrough</h1>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FbyV0TwL-wg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+]]></description>
+</item>
+</channel>
+</rss>

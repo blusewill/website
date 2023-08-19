@@ -1,0 +1,93 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Pyhton - Tag - blusewill&#39;s Official Website</title>
+        <link>https://chimerical-halva-267111.netlify.app/tags/pyhton/</link>
+        <description>Pyhton - Tag - blusewill&#39;s Official Website</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-US</language><managingEditor>blusewillstudio@protonmail.com (blusewill)</managingEditor>
+            <webMaster>blusewillstudio@protonmail.com (blusewill)</webMaster><lastBuildDate>Thu, 03 Aug 2023 13:45:44 &#43;0800</lastBuildDate><atom:link href="https://chimerical-halva-267111.netlify.app/tags/pyhton/" rel="self" type="application/rss+xml" /><item>
+    <title>Auto Subtitle Generator</title>
+    <link>https://chimerical-halva-267111.netlify.app/ytvideo-whisper/</link>
+    <pubDate>Thu, 03 Aug 2023 13:45:44 &#43;0800</pubDate>
+    <author>blusewill</author>
+    <guid>https://chimerical-halva-267111.netlify.app/ytvideo-whisper/</guid>
+    <description><![CDATA[<p>Tired of being type all of the subtitles by your self?</p>
+<p>Well <a href="https://github.com/blusewill/ytvideo-whisper" target="_blank" rel="noopener noreffer ">ytvideo-whisper</a> is here to help!</p>
+<h2 id="usage">Usage</h2>
+<p>There is Various of Different Usage Depends on your self</p>
+<p>No matter you want to use Your own Server or Computer or the Google Colab Service</p>
+<p>We all got you Covered!</p>
+<h3 id="google-colab">Google Colab</h3>
+<p><a href="https://colab.research.google.com/github/blusewill/ytvideo-whisper/blob/master/ytvideo_whisper.ipynb" target="_blank" rel="noopener noreffer ">Click This to Run in Google Colab</a></p>
+<p>First thing you want to select is your Download Method, We have 3 ways to let you download your srt file</p>
+<p>You can use your favorite to Download it such as Google Drive | anonfiles | Direct Download (<strong>NOT RECOMMENDED</strong>)</p>
+<p></p>
+<p>And the Next thing you want to do is change the Settings</p>
+<p></p>
+<p>Don&rsquo;t be panic when you see these options</p>
+<p>It&rsquo;s Very Easy to Understand all of these options with the easy way to explain it.</p>
+<hr>
+<p><code>YouTube_Video_Link</code> You Have to Put your Video Link here.</p>
+<p><code>new_filename</code> The filename of the subtitle file.</p>
+<p><code>language</code> The language that is going to be Transcribe/Translate. If you want to Let it auto detect the Video language leave it blank.</p>
+<p><code>task</code> Do you want to Translate this Video or Transcribe this Video if you want to Translate <code>language</code> is a must option.</p>
+<p><code>Generate_Plain_Document</code> If will Generate a txt file along with the Subtitle File</p>
+<p><code>shutdown_after_complete</code> Shutdown the Google Colab Container After finishing Generating Subtitle</p>
+<p><code>model_user</code> The Model you are going to use. In my test I can use Medium in most of the time.</p>
+<p><code>enable_cookies</code> This will let you grab the Private Video in YouTube. You might have to use some tool like <a href="https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg" target="_blank" rel="noopener noreffer ">EditThisCookie</a> or <a href="https://addons.mozilla.org/en-US/firefox/addon/cookie-editor/?utm_source=addons.mozilla.org&amp;utm_medium=referral&amp;utm_content=search" target="_blank" rel="noopener noreffer ">Cookie-Editor</a></p>
+<p><strong>Not Recommended</strong> to use your main account to do this. If you want to keep the Video Private Best way is set to <strong>unlisted Video</strong> instead of Private Video</p>
+<hr>
+<p>After all of the Settings has been setup, next we are going to do is check your GPU in Google Colab is enabled or not.</p>
+<p>Go to <code>Runtime</code> -&gt; <code>Change Runtime type</code> to check your GPU is enabled or not.</p>
+<p></p>
+<p>Make sure change the GPU type to T4 to Enable it (Free Version)</p>
+<p>And now click <code>Runtime</code> -&gt; <code>Run All</code> to Finish the setup</p>
+<p>And After a Moment your File Should be on <code>Google Drive</code> -&gt; <code>Whisper</code> -&gt; <code>Result</code> Folder</p>
+<p>If is anonfile there will a link at <code>If Google Drive Gets Disabled</code> Section</p>
+<h3 id="local-version">local Version</h3>
+<p>First because of Windows Version of Python can&rsquo;t use GPU (Haven&rsquo;t setup a conda setup process) So at here I will demo it by using Ubuntu Server 22.04</p>
+<p>First what you have to do is Clone the ytvideo-whisper Projct by typing</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">git clone https://github.com/blusewill/ytvideo-whisper &amp;&amp; cd ytvideo-whisper
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>And you have to install Python 3</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">sudo apt install python3 python3-pip
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>Also install the Requirement Python Package by using pip</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">pip3 install -r requirement.txt
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>After all of the Package got installed you have to do is type this command</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">python3 start.py
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>Now Paste your YouTube Video! For Example <code>https://youtu.be/-Iep2_q6cyo</code></p>
+<p>And you will need to use the arrow key to select your options</p>
+<p>such as <code>model</code> <code>translate/transcribe</code> <code>language</code> and more!</p>
+<p>And your file should be generated in Generated Folder!</p>
+<h1 id="walkthrough-video">Walkthrough Video</h1>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Iep2_q6cyo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+]]></description>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,8 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Categories - 分類 - 小品大大的網站</title>
+        <link>https://chimerical-halva-267111.netlify.app/zh-tw/categories/</link>
+        <description>Categories - 分類 - 小品大大的網站</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-tw</language><managingEditor>blusewillstudio@protonmail.com (blusewill)</managingEditor>
+            <webMaster>blusewillstudio@protonmail.com (blusewill)</webMaster><atom:link href="https://chimerical-halva-267111.netlify.app/zh-tw/categories/" rel="self" type="application/rss+xml" /></channel>
+</rss>

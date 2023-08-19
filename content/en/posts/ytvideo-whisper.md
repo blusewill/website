@@ -81,7 +81,7 @@ You can use your favorite to Download it such as Google Drive | anonfiles | Dire
 
 And the Next thing you want to do is change the Settings
 
-![Settings](content/en/img/ytvideo-whisper/2023-07-20_19-07.png)
+![Settings](img/ytvideo-whisper/2023-07-20_19-07.png)
 
 Don't be panic when you see these options
 

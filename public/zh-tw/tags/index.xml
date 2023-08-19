@@ -1,0 +1,48 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tags - 標籤 - 小品大大的網站</title>
+        <link>https://chimerical-halva-267111.netlify.app/zh-tw/tags/</link>
+        <description>Tags - 標籤 - 小品大大的網站</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-tw</language><managingEditor>blusewillstudio@protonmail.com (blusewill)</managingEditor>
+            <webMaster>blusewillstudio@protonmail.com (blusewill)</webMaster><lastBuildDate>Thu, 10 Aug 2023 12:41:19 &#43;0800</lastBuildDate><atom:link href="https://chimerical-halva-267111.netlify.app/zh-tw/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>Windows</title>
+    <link>https://chimerical-halva-267111.netlify.app/zh-tw/tags/windows/</link>
+    <pubDate>Thu, 10 Aug 2023 12:41:19 &#43;0800</pubDate>
+    <author>blusewill</author>
+    <guid>https://chimerical-halva-267111.netlify.app/zh-tw/tags/windows/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>重灌</title>
+    <link>https://chimerical-halva-267111.netlify.app/zh-tw/tags/%E9%87%8D%E7%81%8C/</link>
+    <pubDate>Thu, 10 Aug 2023 12:41:19 &#43;0800</pubDate>
+    <author>blusewill</author>
+    <guid>https://chimerical-halva-267111.netlify.app/zh-tw/tags/%E9%87%8D%E7%81%8C/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>mpd</title>
+    <link>https://chimerical-halva-267111.netlify.app/zh-tw/tags/mpd/</link>
+    <pubDate>Mon, 28 Nov 2022 23:49:14 &#43;0800</pubDate>
+    <author>blusewill</author>
+    <guid>https://chimerical-halva-267111.netlify.app/zh-tw/tags/mpd/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>music</title>
+    <link>https://chimerical-halva-267111.netlify.app/zh-tw/tags/music/</link>
+    <pubDate>Mon, 28 Nov 2022 23:49:14 &#43;0800</pubDate>
+    <author>blusewill</author>
+    <guid>https://chimerical-halva-267111.netlify.app/zh-tw/tags/music/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>setup</title>
+    <link>https://chimerical-halva-267111.netlify.app/zh-tw/tags/setup/</link>
+    <pubDate>Mon, 28 Nov 2022 23:49:14 &#43;0800</pubDate>
+    <author>blusewill</author>
+    <guid>https://chimerical-halva-267111.netlify.app/zh-tw/tags/setup/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>

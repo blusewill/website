@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="en-US">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="robots" content="noodp" />
+        <title>Auto Subtitle Generator - blusewill&#39;s Official Website</title><meta name="Description" content="The Project that uses Whisper Project to Transcript/Translate File"><meta property="og:title" content="Auto Subtitle Generator" />
+<meta property="og:description" content="The Project that uses Whisper Project to Transcript/Translate File" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://chimerical-halva-267111.netlify.app/ytvideo-whisper/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2023-08-03T13:45:44+08:00" />
+<meta property="article:modified_time" content="2023-08-03T13:45:44+08:00" /><meta property="og:site_name" content="blusewill&#39;s Official Website" />
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Auto Subtitle Generator"/>
+<meta name="twitter:description" content="The Project that uses Whisper Project to Transcript/Translate File"/>
+<meta name="application-name" content="blusewill&#39;s Website">
+<meta name="apple-mobile-web-app-title" content="blusewill&#39;s Website"><meta name="theme-color" content="#ffffff"><meta name="msapplication-TileColor" content="#da532c"><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"><link rel="manifest" href="/site.webmanifest"><link rel="canonical" href="https://chimerical-halva-267111.netlify.app/ytvideo-whisper/" /><link rel="prev" href="https://chimerical-halva-267111.netlify.app/x-be-gone/" /><link rel="next" href="https://chimerical-halva-267111.netlify.app/goodbyex/" /><link rel="stylesheet" href="/css/style.min.css"><link rel="preload" href="/lib/fontawesome-free/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+        <noscript><link rel="stylesheet" href="/lib/fontawesome-free/all.min.css"></noscript><link rel="preload" href="/lib/animate/animate.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+        <noscript><link rel="stylesheet" href="/lib/animate/animate.min.css"></noscript><script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "BlogPosting",
+        "headline": "Auto Subtitle Generator",
+        "inLanguage": "en-US",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https:\/\/chimerical-halva-267111.netlify.app\/ytvideo-whisper\/"
+        },"genre": "posts","keywords": "Whisper, AI, Pyhton","wordcount":  516 ,
+        "url": "https:\/\/chimerical-halva-267111.netlify.app\/ytvideo-whisper\/","datePublished": "2023-08-03T13:45:44+08:00","dateModified": "2023-08-03T13:45:44+08:00","publisher": {
+            "@type": "Organization",
+            "name": ""},"author": {
+                "@type": "Person",
+                "name": "blusewill"
+            },"description": "The Project that uses Whisper Project to Transcript/Translate File"
+    }
+    </script></head>
+    <body data-header-desktop="fixed" data-header-mobile="auto"><script type="text/javascript">(window.localStorage && localStorage.getItem('theme') ? localStorage.getItem('theme') === 'dark' : ('auto' === 'auto' ? window.matchMedia('(prefers-color-scheme: dark)').matches : 'auto' === 'dark')) && document.body.setAttribute('theme', 'dark');</script>
+
+        <div id="mask"></div><div class="wrapper"><header class="desktop" id="header-desktop">
+    <div class="header-wrapper">
+        <div class="header-title">
+            <a href="/" title="blusewill&#39;s Official Website">blusewill&#39;s Website</a>
+        </div>
+        <div class="menu">
+            <div class="menu-inner"><a class="menu-item" href="https://streamelements.com/blusewill/tip" rel="noopener noreffer" target="_blank"> Donate </a><a class="menu-item" href="https://mastodon.social/@bluesewill" rel="noopener noreffer" target="_blank"> Mastodon </a><a class="menu-item" href="/posts/"> Posts </a><a class="menu-item" href="https://gumroad.com/blusewill" rel="noopener noreffer" target="_blank"> Store </a><a class="menu-item" href="https://twitch.tv/blusewill" rel="noopener noreffer" target="_blank"> Twitch </a><a class="menu-item" href="https://github.com/blusewill/website" rel="noopener noreffer" target="_blank"> Website Source Code </a><a class="menu-item" href="/workflow/"> Workflow </a><a class="menu-item" href="https://youtube.com/@blusewill" rel="noopener noreffer" target="_blank"> YouTube </a><span class="menu-item delimiter"></span><span class="menu-item search" id="search-desktop">
+                        <input type="text" placeholder="Search titles or contents..." id="search-input-desktop">
+                        <a href="javascript:void(0);" class="search-button search-toggle" id="search-toggle-desktop" title="Search">
+                            <i class="fas fa-search fa-fw" aria-hidden="true"></i>
+                        </a>
+                        <a href="javascript:void(0);" class="search-button search-clear" id="search-clear-desktop" title="Clear">
+                            <i class="fas fa-times-circle fa-fw" aria-hidden="true"></i>
+                        </a>
+                        <span class="search-button search-loading" id="search-loading-desktop">
+                            <i class="fas fa-spinner fa-fw fa-spin" aria-hidden="true"></i>
+                        </span>
+                    </span><a href="javascript:void(0);" class="menu-item theme-switch" title="Switch Theme">
+                    <i class="fas fa-adjust fa-fw" aria-hidden="true"></i>
+                </a><a href="javascript:void(0);" class="menu-item language" title="Select Language">
+                    <i class="fa fa-globe" aria-hidden="true"></i>                      
+                    <select class="language-select" id="language-select-desktop" onchange="location = this.value;"><option value="/ytvideo-whisper/" selected>English</option></select>
+                </a></div>
+        </div>
+    </div>
+</header><header class="mobile" id="header-mobile">
+    <div class="header-container">
+        <div class="header-wrapper">
+            <div class="header-title">
+                <a href="/" title="blusewill&#39;s Official Website">blusewill&#39;s Website</a>
+            </div>
+            <div class="menu-toggle" id="menu-toggle-mobile">
+                <span></span><span></span><span></span>
+            </div>
+        </div>
+        <div class="menu" id="menu-mobile"><div class="search-wrapper">
+                    <div class="search mobile" id="search-mobile">
+                        <input type="text" placeholder="Search titles or contents..." id="search-input-mobile">
+                        <a href="javascript:void(0);" class="search-button search-toggle" id="search-toggle-mobile" title="Search">
+                            <i class="fas fa-search fa-fw" aria-hidden="true"></i>
+                        </a>
+                        <a href="javascript:void(0);" class="search-button search-clear" id="search-clear-mobile" title="Clear">
+                            <i class="fas fa-times-circle fa-fw" aria-hidden="true"></i>
+                        </a>
+                        <span class="search-button search-loading" id="search-loading-mobile">
+                            <i class="fas fa-spinner fa-fw fa-spin" aria-hidden="true"></i>
+                        </span>
+                    </div>
+                    <a href="javascript:void(0);" class="search-cancel" id="search-cancel-mobile">
+                        Cancel
+                    </a>
+                </div><a class="menu-item" href="https://streamelements.com/blusewill/tip" title="" rel="noopener noreffer" target="_blank">Donate</a><a class="menu-item" href="https://mastodon.social/@bluesewill" title="" rel="noopener noreffer" target="_blank">Mastodon</a><a class="menu-item" href="/posts/" title="">Posts</a><a class="menu-item" href="https://gumroad.com/blusewill" title="" rel="noopener noreffer" target="_blank">Store</a><a class="menu-item" href="https://twitch.tv/blusewill" title="" rel="noopener noreffer" target="_blank">Twitch</a><a class="menu-item" href="https://github.com/blusewill/website" title="" rel="noopener noreffer" target="_blank">Website Source Code</a><a class="menu-item" href="/workflow/" title="">Workflow</a><a class="menu-item" href="https://youtube.com/@blusewill" title="" rel="noopener noreffer" target="_blank">YouTube</a><a href="javascript:void(0);" class="menu-item theme-switch" title="Switch Theme">
+                <i class="fas fa-adjust fa-fw" aria-hidden="true"></i>
+            </a><a href="javascript:void(0);" class="menu-item" title="Select Language">
+                    <i class="fa fa-globe fa-fw" aria-hidden="true"></i>
+                    <select class="language-select" onchange="location = this.value;"><option value="/ytvideo-whisper/" selected>English</option></select>
+                </a></div>
+    </div>
+</header><div class="search-dropdown desktop">
+        <div id="search-dropdown-desktop"></div>
+    </div>
+    <div class="search-dropdown mobile">
+        <div id="search-dropdown-mobile"></div>
+    </div><main class="main">
+                <div class="container"><div class="toc" id="toc-auto">
+            <h2 class="toc-title">Contents</h2>
+            <div class="toc-content" id="toc-content-auto"></div>
+        </div><article class="page single"><h1 class="single-title animate__animated animate__flipInX">Auto Subtitle Generator</h1><div class="post-meta">
+            <div class="post-meta-line"><span class="post-author"><a href="https://www.buymeacoffee.com/blusewill" title="Author" target="_blank" rel="noopener noreffer author" class="author"><i class="fas fa-user-circle fa-fw" aria-hidden="true"></i>blusewill</a></span></div>
+            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw" aria-hidden="true"></i>&nbsp;<time datetime="2023-08-03">2023-08-03</time>&nbsp;<i class="fas fa-pencil-alt fa-fw" aria-hidden="true"></i>&nbsp;516 words&nbsp;
+                <i class="far fa-clock fa-fw" aria-hidden="true"></i>&nbsp;3 minutes&nbsp;</div>
+        </div><div class="details toc" id="toc-static"  data-kept="true">
+                <div class="details-summary toc-title">
+                    <span>Contents</span>
+                    <span><i class="details-icon fas fa-angle-right" aria-hidden="true"></i></span>
+                </div>
+                <div class="details-content toc-content" id="toc-content-static"><nav id="TableOfContents">
+  <ul>
+    <li><a href="#usage">Usage</a>
+      <ul>
+        <li><a href="#google-colab">Google Colab</a></li>
+        <li><a href="#local-version">local Version</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav></div>
+            </div><div class="content" id="content"><p>Tired of being type all of the subtitles by your self?</p>
+<p>Well <a href="https://github.com/blusewill/ytvideo-whisper" target="_blank" rel="noopener noreffer ">ytvideo-whisper</a> is here to help!</p>
+<h2 id="usage">Usage</h2>
+<p>There is Various of Different Usage Depends on your self</p>
+<p>No matter you want to use Your own Server or Computer or the Google Colab Service</p>
+<p>We all got you Covered!</p>
+<h3 id="google-colab">Google Colab</h3>
+<p><a href="https://colab.research.google.com/github/blusewill/ytvideo-whisper/blob/master/ytvideo_whisper.ipynb" target="_blank" rel="noopener noreffer ">Click This to Run in Google Colab</a></p>
+<p>First thing you want to select is your Download Method, We have 3 ways to let you download your srt file</p>
+<p>You can use your favorite to Download it such as Google Drive | anonfiles | Direct Download (<strong>NOT RECOMMENDED</strong>)</p>
+<p><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="content/en/img/ytvideo-whisper/2023-07-20_19-01.png"
+        data-srcset="content/en/img/ytvideo-whisper/2023-07-20_19-01.png, content/en/img/ytvideo-whisper/2023-07-20_19-01.png 1.5x, content/en/img/ytvideo-whisper/2023-07-20_19-01.png 2x"
+        data-sizes="auto"
+        alt="content/en/img/ytvideo-whisper/2023-07-20_19-01.png"
+        title="Download Method" /></p>
+<p>And the Next thing you want to do is change the Settings</p>
+<p><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="content/en/img/ytvideo-whisper/2023-07-20_19-07.png"
+        data-srcset="content/en/img/ytvideo-whisper/2023-07-20_19-07.png, content/en/img/ytvideo-whisper/2023-07-20_19-07.png 1.5x, content/en/img/ytvideo-whisper/2023-07-20_19-07.png 2x"
+        data-sizes="auto"
+        alt="content/en/img/ytvideo-whisper/2023-07-20_19-07.png"
+        title="Settings" /></p>
+<p>Don&rsquo;t be panic when you see these options</p>
+<p>It&rsquo;s Very Easy to Understand all of these options with the easy way to explain it.</p>
+<hr>
+<p><code>YouTube_Video_Link</code> You Have to Put your Video Link here.</p>
+<p><code>new_filename</code> The filename of the subtitle file.</p>
+<p><code>language</code> The language that is going to be Transcribe/Translate. If you want to Let it auto detect the Video language leave it blank.</p>
+<p><code>task</code> Do you want to Translate this Video or Transcribe this Video if you want to Translate <code>language</code> is a must option.</p>
+<p><code>Generate_Plain_Document</code> If will Generate a txt file along with the Subtitle File</p>
+<p><code>shutdown_after_complete</code> Shutdown the Google Colab Container After finishing Generating Subtitle</p>
+<p><code>model_user</code> The Model you are going to use. In my test I can use Medium in most of the time.</p>
+<p><code>enable_cookies</code> This will let you grab the Private Video in YouTube. You might have to use some tool like <a href="https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg" target="_blank" rel="noopener noreffer ">EditThisCookie</a> or <a href="https://addons.mozilla.org/en-US/firefox/addon/cookie-editor/?utm_source=addons.mozilla.org&amp;utm_medium=referral&amp;utm_content=search" target="_blank" rel="noopener noreffer ">Cookie-Editor</a></p>
+<p><strong>Not Recommended</strong> to use your main account to do this. If you want to keep the Video Private Best way is set to <strong>unlisted Video</strong> instead of Private Video</p>
+<hr>
+<p>After all of the Settings has been setup, next we are going to do is check your GPU in Google Colab is enabled or not.</p>
+<p>Go to <code>Runtime</code> -&gt; <code>Change Runtime type</code> to check your GPU is enabled or not.</p>
+<p><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="content/en/img/ytvideo-whisper/2023-07-20_19-28.png"
+        data-srcset="content/en/img/ytvideo-whisper/2023-07-20_19-28.png, content/en/img/ytvideo-whisper/2023-07-20_19-28.png 1.5x, content/en/img/ytvideo-whisper/2023-07-20_19-28.png 2x"
+        data-sizes="auto"
+        alt="content/en/img/ytvideo-whisper/2023-07-20_19-28.png"
+        title="Runtime Type" /></p>
+<p>Make sure change the GPU type to T4 to Enable it (Free Version)</p>
+<p>And now click <code>Runtime</code> -&gt; <code>Run All</code> to Finish the setup</p>
+<p>And After a Moment your File Should be on <code>Google Drive</code> -&gt; <code>Whisper</code> -&gt; <code>Result</code> Folder</p>
+<p>If is anonfile there will a link at <code>If Google Drive Gets Disabled</code> Section</p>
+<h3 id="local-version">local Version</h3>
+<p>First because of Windows Version of Python can&rsquo;t use GPU (Haven&rsquo;t setup a conda setup process) So at here I will demo it by using Ubuntu Server 22.04</p>
+<p>First what you have to do is Clone the ytvideo-whisper Projct by typing</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">git clone https://github.com/blusewill/ytvideo-whisper &amp;&amp; cd ytvideo-whisper
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>And you have to install Python 3</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">sudo apt install python3 python3-pip
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>Also install the Requirement Python Package by using pip</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">pip3 install -r requirement.txt
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>After all of the Package got installed you have to do is type this command</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">python3 start.py
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>Now Paste your YouTube Video! For Example <code>https://youtu.be/-Iep2_q6cyo</code></p>
+<p>And you will need to use the arrow key to select your options</p>
+<p>such as <code>model</code> <code>translate/transcribe</code> <code>language</code> and more!</p>
+<p>And your file should be generated in Generated Folder!</p>
+<h1 id="walkthrough-video">Walkthrough Video</h1>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Iep2_q6cyo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div><div class="post-footer" id="post-footer">
+    <div class="post-info">
+        <div class="post-info-line">
+            <div class="post-info-mod">
+                <span>Updated on 2023-08-03</span>
+            </div></div>
+        <div class="post-info-line">
+            <div class="post-info-md"><span>
+                            <a class="link-to-markdown" href="/ytvideo-whisper/index.md" target="_blank">Read Markdown</a>
+                        </span></div>
+            <div class="post-info-share">
+                <span><a href="javascript:void(0);" title="Share on Twitter" data-sharer="twitter" data-url="https://chimerical-halva-267111.netlify.app/ytvideo-whisper/" data-title="Auto Subtitle Generator" data-hashtags="Whisper,AI,Pyhton"><i class="fab fa-twitter fa-fw" aria-hidden="true"></i></a><a href="javascript:void(0);" title="Share on Facebook" data-sharer="facebook" data-url="https://chimerical-halva-267111.netlify.app/ytvideo-whisper/" data-hashtag="Whisper"><i class="fab fa-facebook-square fa-fw" aria-hidden="true"></i></a><a href="javascript:void(0);" title="Share on Line" data-sharer="line" data-url="https://chimerical-halva-267111.netlify.app/ytvideo-whisper/" data-title="Auto Subtitle Generator"><i data-svg-src="/lib/simple-icons/icons/line.min.svg" aria-hidden="true"></i></a></span>
+            </div>
+        </div>
+    </div>
+
+    <div class="post-info-more">
+        <section class="post-tags"><i class="fas fa-tags fa-fw" aria-hidden="true"></i>&nbsp;<a href="/tags/whisper/">Whisper</a>,&nbsp;<a href="/tags/ai/">AI</a>,&nbsp;<a href="/tags/pyhton/">Pyhton</a></section>
+        <section>
+            <span><a href="javascript:void(0);" onclick="window.history.back();">Back</a></span>&nbsp;|&nbsp;<span><a href="/">Home</a></span>
+        </section>
+    </div>
+
+    <div class="post-nav"><a href="/x-be-gone/" class="prev" rel="prev" title="X Be Gone"><i class="fas fa-angle-left fa-fw" aria-hidden="true"></i>X Be Gone</a>
+            <a href="/goodbyex/" class="next" rel="next" title="GoodbyeX">GoodbyeX<i class="fas fa-angle-right fa-fw" aria-hidden="true"></i></a></div>
+</div>
+<div id="comments"><div id="utterances" class="comment"></div><noscript>
+                Please enable JavaScript to view the comments powered by <a href="https://utteranc.es/">utterances</a>.
+            </noscript></div></article></div>
+            </main><footer class="footer">
+        <div class="footer-container"><div class="footer-line">Powered by <a href="https://gohugo.io/" target="_blank" rel="noopener noreffer" title="Hugo 0.115.0">Hugo</a> | Theme - <a href="https://github.com/dillonzq/LoveIt" target="_blank" rel="noopener noreffer" title="LoveIt 0.2.11"><i class="far fa-kiss-wink-heart fa-fw" aria-hidden="true"></i> LoveIt</a>
+                </div><div class="footer-line" itemscope itemtype="http://schema.org/CreativeWork"><i class="far fa-copyright fa-fw" aria-hidden="true"></i><span itemprop="copyrightYear">2017 - 2023</span><span class="author" itemprop="copyrightHolder">&nbsp;<a href="https://blusewill.ml" target="_blank">blusewill</a></span></div>
+        </div>
+    </footer></div>
+
+        <div id="fixed-buttons"><a href="#" id="back-to-top" class="fixed-button" title="Back to Top">
+                <i class="fas fa-arrow-up fa-fw" aria-hidden="true"></i>
+            </a><a href="#" id="view-comments" class="fixed-button" title="View Comments">
+                <i class="fas fa-comment fa-fw" aria-hidden="true"></i>
+            </a>
+        </div><link rel="stylesheet" href="/lib/lightgallery/css/lightgallery-bundle.min.css"><script type="text/javascript" src="/lib/autocomplete/autocomplete.min.js"></script><script type="text/javascript" src="/lib/lunr/lunr.min.js"></script><script type="text/javascript" src="/lib/lazysizes/lazysizes.min.js"></script><script type="text/javascript" src="/lib/lightgallery/lightgallery.min.js"></script><script type="text/javascript" src="/lib/lightgallery/plugins/thumbnail/lg-thumbnail.min.js"></script><script type="text/javascript" src="/lib/lightgallery/plugins/zoom/lg-zoom.min.js"></script><script type="text/javascript" src="/lib/clipboard/clipboard.min.js"></script><script type="text/javascript" src="/lib/sharer/sharer.min.js"></script><script type="text/javascript">window.config={"code":{"copyTitle":"Copy to clipboard","maxShownLines":50},"comment":{"utterances":{"darkTheme":"github-dark","issueTerm":"title","label":"post","lightTheme":"github-light","repo":"blusewill/website"}},"lightgallery":true,"search":{"highlightTag":"em","lunrIndexURL":"/index.json","maxResultLength":10,"noResultsFound":"No results found","snippetLength":30,"type":"lunr"}};</script><script type="text/javascript" src="/js/theme.min.js"></script></body>
+</html>

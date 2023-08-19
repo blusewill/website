@@ -1,0 +1,200 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - blusewill&#39;s Official Website</title>
+        <link>https://chimerical-halva-267111.netlify.app/posts/</link>
+        <description>All Posts | blusewill&#39;s Official Website</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-US</language><managingEditor>blusewillstudio@protonmail.com (blusewill)</managingEditor>
+            <webMaster>blusewillstudio@protonmail.com (blusewill)</webMaster><lastBuildDate>Fri, 04 Aug 2023 15:19:19 &#43;0800</lastBuildDate><atom:link href="https://chimerical-halva-267111.netlify.app/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>GoodbyeX</title>
+    <link>https://chimerical-halva-267111.netlify.app/goodbyex/</link>
+    <pubDate>Fri, 04 Aug 2023 15:19:19 &#43;0800</pubDate>
+    <author>blusewill</author>
+    <guid>https://chimerical-halva-267111.netlify.app/goodbyex/</guid>
+    <description><![CDATA[<p>Recently I made a article about <a href="https://chimerical-halva-267111.netlify.app/x-be-gone/" target="_blank" rel="noopener noreffer ">X Be Gone</a></p>
+<p>Which I talking about some issues they have to fix.</p>
+<p>But Recently I found out that <a href="https://github.com/fnleaksandinfo/GoodbyeX" target="_blank" rel="noopener noreffer ">GoodbyeX</a> is a Better alternative to X Be Gone</p>
+<h2 id="installation">Installation</h2>
+<p>Last time I talk about you have to install manually through source on X Be Gone but GoodbyeX have a Chrome Web Store Page that you just only have to click once and forgot forever</p>
+<h3 id="chrome">Chrome</h3>
+<p><a href="https://chrome.google.com/webstore/detail/goodbyex/cafaialogfdbacbbhgjohmkocpkcnfjf" target="_blank" rel="noopener noreffer ">https://chrome.google.com/webstore/detail/goodbyex/cafaialogfdbacbbhgjohmkocpkcnfjf</a></p>
+<h3 id="firefox">Firefox</h3>
+<p><a href="https://addons.mozilla.org/en-US/firefox/addon/goodbyex" target="_blank" rel="noopener noreffer ">https://addons.mozilla.org/en-US/firefox/addon/goodbyex</a></p>
+<h2 id="why-use-goodbyex">Why use GoodbyeX?</h2>
+<p>Last time when I am talking about some issues about X Be Gone&rsquo;s issues. One of them actually fixed in this Extension</p>
+<p>They Fixed Load Screen Problem Which you won&rsquo;t see X when you load in Twitter.</p>
+<h2 id="same-issues">Same issues</h2>
+<ol>
+<li>They Haven&rsquo;t Fix the TweetDeck Problem of XPro and X favicon of it.</li>
+<li>When you Switch Account the logo will revert back (X Be Gone also have this Problem)</li>
+<li>It won&rsquo;t replace the X in popup window</li>
+</ol>
+<p></p>
+<p>But All of these things can be resolved in Future Update And I see GoodbyeX has more active development than X Be Gone</p>
+<p>So whatever which project do you like Go Ahead and Check them out!</p>
+]]></description>
+</item>
+<item>
+    <title>Auto Subtitle Generator</title>
+    <link>https://chimerical-halva-267111.netlify.app/ytvideo-whisper/</link>
+    <pubDate>Thu, 03 Aug 2023 13:45:44 &#43;0800</pubDate>
+    <author>blusewill</author>
+    <guid>https://chimerical-halva-267111.netlify.app/ytvideo-whisper/</guid>
+    <description><![CDATA[<p>Tired of being type all of the subtitles by your self?</p>
+<p>Well <a href="https://github.com/blusewill/ytvideo-whisper" target="_blank" rel="noopener noreffer ">ytvideo-whisper</a> is here to help!</p>
+<h2 id="usage">Usage</h2>
+<p>There is Various of Different Usage Depends on your self</p>
+<p>No matter you want to use Your own Server or Computer or the Google Colab Service</p>
+<p>We all got you Covered!</p>
+<h3 id="google-colab">Google Colab</h3>
+<p><a href="https://colab.research.google.com/github/blusewill/ytvideo-whisper/blob/master/ytvideo_whisper.ipynb" target="_blank" rel="noopener noreffer ">Click This to Run in Google Colab</a></p>
+<p>First thing you want to select is your Download Method, We have 3 ways to let you download your srt file</p>
+<p>You can use your favorite to Download it such as Google Drive | anonfiles | Direct Download (<strong>NOT RECOMMENDED</strong>)</p>
+<p></p>
+<p>And the Next thing you want to do is change the Settings</p>
+<p></p>
+<p>Don&rsquo;t be panic when you see these options</p>
+<p>It&rsquo;s Very Easy to Understand all of these options with the easy way to explain it.</p>
+<hr>
+<p><code>YouTube_Video_Link</code> You Have to Put your Video Link here.</p>
+<p><code>new_filename</code> The filename of the subtitle file.</p>
+<p><code>language</code> The language that is going to be Transcribe/Translate. If you want to Let it auto detect the Video language leave it blank.</p>
+<p><code>task</code> Do you want to Translate this Video or Transcribe this Video if you want to Translate <code>language</code> is a must option.</p>
+<p><code>Generate_Plain_Document</code> If will Generate a txt file along with the Subtitle File</p>
+<p><code>shutdown_after_complete</code> Shutdown the Google Colab Container After finishing Generating Subtitle</p>
+<p><code>model_user</code> The Model you are going to use. In my test I can use Medium in most of the time.</p>
+<p><code>enable_cookies</code> This will let you grab the Private Video in YouTube. You might have to use some tool like <a href="https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg" target="_blank" rel="noopener noreffer ">EditThisCookie</a> or <a href="https://addons.mozilla.org/en-US/firefox/addon/cookie-editor/?utm_source=addons.mozilla.org&amp;utm_medium=referral&amp;utm_content=search" target="_blank" rel="noopener noreffer ">Cookie-Editor</a></p>
+<p><strong>Not Recommended</strong> to use your main account to do this. If you want to keep the Video Private Best way is set to <strong>unlisted Video</strong> instead of Private Video</p>
+<hr>
+<p>After all of the Settings has been setup, next we are going to do is check your GPU in Google Colab is enabled or not.</p>
+<p>Go to <code>Runtime</code> -&gt; <code>Change Runtime type</code> to check your GPU is enabled or not.</p>
+<p></p>
+<p>Make sure change the GPU type to T4 to Enable it (Free Version)</p>
+<p>And now click <code>Runtime</code> -&gt; <code>Run All</code> to Finish the setup</p>
+<p>And After a Moment your File Should be on <code>Google Drive</code> -&gt; <code>Whisper</code> -&gt; <code>Result</code> Folder</p>
+<p>If is anonfile there will a link at <code>If Google Drive Gets Disabled</code> Section</p>
+<h3 id="local-version">local Version</h3>
+<p>First because of Windows Version of Python can&rsquo;t use GPU (Haven&rsquo;t setup a conda setup process) So at here I will demo it by using Ubuntu Server 22.04</p>
+<p>First what you have to do is Clone the ytvideo-whisper Projct by typing</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">git clone https://github.com/blusewill/ytvideo-whisper &amp;&amp; cd ytvideo-whisper
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>And you have to install Python 3</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">sudo apt install python3 python3-pip
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>Also install the Requirement Python Package by using pip</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">pip3 install -r requirement.txt
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>After all of the Package got installed you have to do is type this command</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">python3 start.py
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>Now Paste your YouTube Video! For Example <code>https://youtu.be/-Iep2_q6cyo</code></p>
+<p>And you will need to use the arrow key to select your options</p>
+<p>such as <code>model</code> <code>translate/transcribe</code> <code>language</code> and more!</p>
+<p>And your file should be generated in Generated Folder!</p>
+<h1 id="walkthrough-video">Walkthrough Video</h1>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Iep2_q6cyo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+]]></description>
+</item>
+<item>
+    <title>X Be Gone</title>
+    <link>https://chimerical-halva-267111.netlify.app/x-be-gone/</link>
+    <pubDate>Thu, 03 Aug 2023 06:30:51 &#43;0800</pubDate>
+    <author>blusewill</author>
+    <guid>https://chimerical-halva-267111.netlify.app/x-be-gone/</guid>
+    <description><![CDATA[<p>So Twitter have their New logo and Name Called &ldquo;X&rdquo;</p>
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">The vision for X has been unfolding over the last 9 months – and there’s so much more on the horizon. Today we’re taking a moment to celebrate the progress and thank our teams and all our partners. <a href="https://t.co/azXPbe8IpO">https://t.co/azXPbe8IpO</a></p>&mdash; X (@X) <a href="https://twitter.com/X/status/1686854990864764929?ref_src=twsrc%5Etfw">August 2, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<p>In this website Article I am going to show you how can you change it from &ldquo;X&rdquo; to Twitter</p>
+<h2 id="installation">Installation</h2>
+<p>Here is the installation of the extension</p>
+<h3 id="firefox">Firefox</h3>
+<p>Firefox User is probably the most easiest one which you have to do is go to Firefox Add-on and install this <a href="https://addons.mozilla.org/en-US/firefox/addon/x-be-gone/" target="_blank" rel="noopener noreffer ">Extension</a> after the Installation go to <a href="https://twitter.com/" target="_blank" rel="noopener noreffer ">twitter</a> and you should see it switch to twitter instead of X</p>
+<h3 id="chromium-based-browser">Chromium Based Browser</h3>
+<p>So if you are using Chrome/Brave that is based on Chromium you have to install manually through the <a href="https://github.com/emvi/xbegone" target="_blank" rel="noopener noreffer ">Source</a></p>
+<p>Click on <code>&lt; &gt; Code</code> and Download zip and Extracted into a Folder</p>
+<p>Now go to Extension Tab by typing <code>chrome://extensions</code> in the URL bar</p>
+<p>And you will see <code>Developer Mode</code> on the Top Right Corner, Enable it.</p>
+<p>Click <code>Load Unpacked</code> on the left and open the Extracted Folder</p>
+<p>And you should have revert back to the original twitter instead of &ldquo;X&rdquo;</p>
+<h2 id="issues-about-this-extension">Issues about this Extension</h2>
+<p>Well there is still something needs to be fixed in this extension</p>
+<p>like it won&rsquo;t replace the X on TweetDeck, and the loading screen will still show X</p>
+<p>but is better then having it all to be X</p>
+<p>Now having fun to have that Bird Back!</p>
+<h1 id="video-walkthrough">Video Walkthrough</h1>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FbyV0TwL-wg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+]]></description>
+</item>
+<item>
+    <title>2023 Resolutions</title>
+    <link>https://chimerical-halva-267111.netlify.app/2023resolutions/</link>
+    <pubDate>Thu, 05 Jan 2023 22:42:20 &#43;0800</pubDate>
+    <author>blusewill</author>
+    <guid>https://chimerical-halva-267111.netlify.app/2023resolutions/</guid>
+    <description><![CDATA[<p>This page will be updated when I finish some of Resolutions in 2023</p>
+<h1 id="recap-2022-resolutions">Recap 2022 Resolutions</h1>
+<p>So I only have one Resolution in 2022, Which is</p>
+<ul>
+<li><i class="far fa-check-square fa-fw" aria-hidden="true"></i> Support WCC more</li>
+</ul>
+<p>and it&rsquo;s Completed YAY!</p>
+<h1 id="2023-resolutions">2023 Resolutions</h1>
+<p>So it&rsquo;s time to Setup New Resolutions</p>
+<ul>
+<li><i class="far fa-square fa-fw" aria-hidden="true"></i> Meet @AYASHI_V</li>
+<li><i class="far fa-square fa-fw" aria-hidden="true"></i> Buy Nintendo Switch</li>
+<li><i class="far fa-square fa-fw" aria-hidden="true"></i> Code more</li>
+<li><i class="far fa-square fa-fw" aria-hidden="true"></i> Finish my Workplace Website</li>
+<li><i class="far fa-square fa-fw" aria-hidden="true"></i> Stream more</li>
+<li><i class="far fa-square fa-fw" aria-hidden="true"></i> Upgrade my Workspace</li>
+<li><i class="far fa-square fa-fw" aria-hidden="true"></i> Unlock Twitch Affiliate</li>
+<li><i class="far fa-square fa-fw" aria-hidden="true"></i> Live 2D/3D Model</li>
+<li><i class="far fa-square fa-fw" aria-hidden="true"></i> thisisnotblusewill Wolf Live 2D Model</li>
+</ul>
+<p>if Arata and Ngreimond coming to Taiwan</p>
+<ul>
+<li><i class="far fa-square fa-fw" aria-hidden="true"></i> Meet Arataclocksworth</li>
+<li><i class="far fa-square fa-fw" aria-hidden="true"></i> Meet Ngreimond</li>
+</ul>
+<p>And basically that&rsquo;s all of the resolutions Although I have a very low hope it can complete most of them, but wishes is wishes, it will never be possible to finish all of them, but sometimes you can&rsquo;t tell it&rsquo;s might be possible.</p>
+]]></description>
+</item>
+<item>
+    <title>Welcome to blusewill&#39;s New Website</title>
+    <link>https://chimerical-halva-267111.netlify.app/first/</link>
+    <pubDate>Wed, 04 Mar 2020 15:58:26 &#43;0800</pubDate>
+    <author>blusewill</author>
+    <guid>https://chimerical-halva-267111.netlify.app/first/</guid>
+    <description><![CDATA[<p>Hello Welcome to blusewill&rsquo;s <strong>NEW</strong> Website this posts is why I use the New Theme instend of the PaperMod</p>
+<h1 id="why">Why?</h1>
+<p>Because when I am grabbing my website from GitHub and I installed the newest Hugo Version and it&rsquo;s decide to give me the Error so that&rsquo;s
+why I replace my Website to another Theme <del>(Actual reason is I didn&rsquo;t want to Debug the Website XD)</del></p>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">My Website is kinda broken? <a href="https://t.co/0zw0GwPrYd">pic.twitter.com/0zw0GwPrYd</a></p>&mdash; 小品大大 aka. Blusewill LIVE (@bluesewill) <a href="https://twitter.com/bluesewill/status/1589660183391014912?ref_src=twsrc%5Etfw">November 7, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<h1 id="can-i-still-visit-the-old-website">Can I still Visit the Old Website??</h1>
+<p><strong>YES</strong> you can visit on <a href="https://lambent-dango-0a57d4.netlify.app/" target="_blank" rel="noopener noreffer ">Here</a></p>
+]]></description>
+</item>
+</channel>
+</rss>
