@@ -55,9 +55,9 @@ defaultContentLanguage = "en"
     url = "https://gumroad.com/blusewill"
     [[languages.zh-tw.menu.main]]
     weight = 1
-    identifier = "StreamElements"
+    identifier = "Buy me a coffee"
     name = "斗內"
-    url = "https://streamelements.com/blusewill/tip"
+    url = "https://buymeacoffee.com/blusewill"
     [[languages.zh-tw.menu.main]]
     weight = 1
     identifier = "Source Code"
@@ -139,9 +139,9 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     url = "https://gumroad.com/blusewill"
   [[menu.main]]
     weight = 1
-    identifier = "StreamElements"
+    identifier = "Buy me a coffee"
     name = "Donate"
-    url = "https://streamelements.com/blusewill/tip"
+    url = "https://buymeacoffee.com/blusewill"
   [[menu.main]]
     weight = 1
     identifier = "Source Code"
