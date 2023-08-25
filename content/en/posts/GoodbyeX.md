@@ -4,59 +4,32 @@ subtitle: "An alternative to X Be Gone"
 date: 2023-08-04T15:19:19+08:00
 lastmod: 2023-08-04T15:19:19+08:00
 draft: false
-author: "blusewill"
-authorLink: "https://buymeacoffee.com/blusewill"
-description: ""
-license: ""
-images: []
-
-tags: [Twitter, X, Extension]
-categories: []
-
-featuredImage: ""
-featuredImagePreview: ""
-
-hiddenFromHomePage: true
+author:
+  name: blusewill
+  link: https://buymeacoffee.com/blusewill
+  email: blusewillstudio@pm.me
+  avatar:
+description:
+keywords:
+license:
+comment: true
+weight: 0
+tags:
+- Twitter
+- X
+- Extension
+categories:
+hiddenFromHomePage: true 
 hiddenFromSearch: false
-twemoji: false
-lightgallery: true
-ruby: true
-fraction: true
-fontawesome: true
-linkToMarkdown: true
-rssFullText: true
-
-toc:
-  enable: true
-  auto: true
-code:
-  copy: true
-  maxShownLines: 50
-math:
-  enable: false
-  # ...
-mapbox:
-  # ...
+summary:
+resources:
+toc: true
+math: false
+lightgallery: false
+password:
+message:
 share:
-  enable: true
-  # ...
-comment:
-  enable: true
-  # ...
-library:
-  css:
-    # someCSS = "some.css"
-    # located in "assets/"
-    # Or
-    # someCSS = "https://cdn.example.com/some.css"
-  js:
-    # someJS = "some.js"
-    # located in "assets/"
-    # Or
-    # someJS = "https://cdn.example.com/some.js"
-seo:
-  images: []
-  # ...
+    enable: true
 ---
 Recently I made a article about [X Be Gone](https://chimerical-halva-267111.netlify.app/x-be-gone/)
 

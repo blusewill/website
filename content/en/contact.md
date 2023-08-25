@@ -4,59 +4,30 @@ subtitle: "Chat with me please (I am just kidding)"
 date: 2022-11-20T21:20:32+08:00
 lastmod: 2022-11-20T21:20:32+08:00
 draft: false
-author: "blusewill"
-authorLink: "https://blusewill.ml"
-description: "How to contact blusewill?"
-license: ""
-images: []
-
-tags: []
-categories: []
-
-featuredImage: ""
-featuredImagePreview: ""
-
-hiddenFromHomePage: true
+author:
+  name: blusewill
+  link: https://buymeacoffee.com/blusewill
+  email: blusewillstudio@pm.me
+  avatar:
+description:
+keywords:
+license:
+comment: true
+weight: 0
+tags:
+categories:
+hiddenFromHomePage: true 
 hiddenFromSearch: false
-twemoji: false
-lightgallery: true
-ruby: true
-fraction: true
-fontawesome: true
-linkToMarkdown: true
-rssFullText: true
-
-toc:
-  enable: true
-  auto: true
-code:
-  copy: true
-  maxShownLines: 50
-math:
-  enable: false
-  # ...
-mapbox:
-  # ...
+summary:
+resources:
+toc: true
+math: false
+lightgallery: false
+password:
+message:
 share:
-  enable: true
-  # ...
-comment:
-  enable: false
-  # ...
-library:
-  css:
-    # someCSS = "some.css"
-    # located in "assets/"
-    # Or
-    # someCSS = "https://cdn.example.com/some.css"
-  js:
-    # someJS = "some.js"
-    # located in "assets/"
-    # Or
-    # someJS = "https://cdn.example.com/some.js"
-seo:
-  images: []
-  # ...
+    enable: true
+# See details front matter: https://fixit.lruihao.cn/documentation/content-management/introduction/#front-matter
 ---
 # READ THIS BEFORE SEND ANYTHING
 

@@ -26,9 +26,7 @@ fontawesome: true
 linkToMarkdown: true
 rssFullText: true
 
-toc:
-  enable: true
-  auto: true
+toc: true
 code:
   copy: true
   maxShownLines: 50

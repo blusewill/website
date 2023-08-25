@@ -5,7 +5,7 @@ date: {{ .Date }}
 lastmod: {{ .Date }}
 draft: true
 author: "blusewill"
-authorLink: "https://blusewill.ml"
+authorLink: "https://buymeacoffee.com/blusewill"
 description: ""
 license: ""
 images: []
