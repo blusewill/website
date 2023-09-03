@@ -2,7 +2,7 @@
 title: "Contact"
 subtitle: "Chat with me please (I am just kidding)"
 date: 2022-11-20T21:20:32+08:00
-lastmod: 2022-11-20T21:20:32+08:00
+lastmod: 2023-09-04T02:08:18+08:00
 draft: false
 author:
   name: blusewill
@@ -53,13 +53,19 @@ My Email is : [blusewillstudio@protonmail.com](mailto:blusewillstudio@protonmail
 
 ## Discord
 
-blusewill aka. Justawildwolf#2858 (Main) <br/>
+blusewill (Main) <br/>
 Or <br/>
-BlusewillStudio#3936 (Alt)
+nelsonbiker (Alt)
 
 ## Guilded
 
 [blusewill](https://guilded.gg/u/blusewillofficial)
+
+# [Phoenixim](https://phoenixim.ddns.net/) Server
+
+AOL Instant Messenger : blusewill [Click Here to Add to the Buddy List](aim:addbuddy?screenname=blusewill)
+
+Yahoo!Messenger : blusewill [Click Here to send me messages](ymsgr:sendim?blusewill)
 
 # Last thing
 
