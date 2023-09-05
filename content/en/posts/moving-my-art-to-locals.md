@@ -32,9 +32,7 @@ For my Art project and other stuffs will be available at there
 
 Also Some Behind Scenes!
 
-~~Now is currently at Pending which is still verifying the Community~~
-
-Update it has been Verified
+Now is currently at Pending which is still verifying the Community
 
 ![Moving to locals](/img/moving-locals/2023-09-05_07-53.png)
 
