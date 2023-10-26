@@ -1,5 +1,5 @@
 /schoollinux https://raw.githubusercontent.com/blusewill/SchoolLinux-v2/master/scripts/script-install.sh
-/schoollinux-dev https://raw.githubusercontent.com/blusewill/SchoolLinux-v2/dev/scripts/script-dev-install.sh
+/school-auto https://raw.githubusercontent.com/blusewill/SchoolLinux-v2/master/debian-auto.sh
 /plurk https://plurk.com/blusewillLIVE
 /mastodon https://mastodon.social/@bluesewill
 /twitch https://twitch.tv/blusewill
