@@ -171,7 +171,7 @@ Fabric伺服器擁有最簡單的架設，跟原版幾乎一樣
 
 下載完之後呢我們要在開一個新的文件`server.sh`
 
-輸入 `java -jar <伺服器檔案>`
+輸入 `java -jar <伺服器檔案> nogui`
 
 之後`chmod +x server.sh`
 

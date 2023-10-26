@@ -39,6 +39,14 @@ defaultContentLanguage = "en"
       url = "zh-tw/posts/"
       title = ""
     [[languages.zh-tw.menu.main]]
+      weight = 1
+      identifier = "stories"
+      pre = ""
+      post = ""
+      name = "故事"
+      url = "zh-tw/stories/"
+      title = ""
+    [[languages.zh-tw.menu.main]]
     weight = 1
     identifier = "Mastodon"
     name = "Mastodon"
