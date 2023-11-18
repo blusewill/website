@@ -1,0 +1,5 @@
+home = ["HTML", "RSS", "JSON", "BaiduUrls"]
+page = ["HTML", "MarkDown"]
+section = ["HTML", "RSS"]
+taxonomy = ["HTML"]
+term = ["HTML", "RSS"]
