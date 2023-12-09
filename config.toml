@@ -66,11 +66,6 @@ defaultContentLanguage = "en"
     url = "https://youtube.com/@blusewill"
     [[languages.zh-tw.menu.main]]
     weight = 1
-    identifier = "Gumroad"
-    name = "商店"
-    url = "https://gumroad.com/blusewill"
-    [[languages.zh-tw.menu.main]]
-    weight = 1
     identifier = "Buy me a coffee"
     name = "斗內"
     url = "https://buymeacoffee.com/blusewill"
@@ -148,11 +143,6 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     identifier = "YouTube"
     name = "YouTube"
     url = "https://youtube.com/@blusewill"
-  [[menu.main]]
-    weight = 1
-    identifier = "Gumroad"
-    name = "Store"
-    url = "https://gumroad.com/blusewill"
   [[menu.main]]
     weight = 1
     identifier = "Buy me a coffee"
