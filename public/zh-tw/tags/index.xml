@@ -1,0 +1,47 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Tags - 標籤 - 小品大大的網站</title>
+    <link>http://localhost:1313/zh-tw/tags/</link>
+    <description>Tags - 標籤 | 小品大大的網站</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-tw</language><lastBuildDate>Thu, 10 Aug 2023 12:41:19 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/zh-tw/tags/" rel="self" type="application/rss+xml" /><item>
+  <title>Windows</title>
+  <link>http://localhost:1313/zh-tw/tags/windows/</link>
+  <pubDate>Thu, 10 Aug 2023 12:41:19 &#43;0800</pubDate>
+  <author>作者</author>
+  <guid>http://localhost:1313/zh-tw/tags/windows/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>重灌</title>
+  <link>http://localhost:1313/zh-tw/tags/%E9%87%8D%E7%81%8C/</link>
+  <pubDate>Thu, 10 Aug 2023 12:41:19 &#43;0800</pubDate>
+  <author>作者</author>
+  <guid>http://localhost:1313/zh-tw/tags/%E9%87%8D%E7%81%8C/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>Mpd</title>
+  <link>http://localhost:1313/zh-tw/tags/mpd/</link>
+  <pubDate>Mon, 28 Nov 2022 23:49:14 &#43;0800</pubDate>
+  <author>作者</author>
+  <guid>http://localhost:1313/zh-tw/tags/mpd/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>Music</title>
+  <link>http://localhost:1313/zh-tw/tags/music/</link>
+  <pubDate>Mon, 28 Nov 2022 23:49:14 &#43;0800</pubDate>
+  <author>作者</author>
+  <guid>http://localhost:1313/zh-tw/tags/music/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>Setup</title>
+  <link>http://localhost:1313/zh-tw/tags/setup/</link>
+  <pubDate>Mon, 28 Nov 2022 23:49:14 &#43;0800</pubDate>
+  <author>作者</author>
+  <guid>http://localhost:1313/zh-tw/tags/setup/</guid>
+  <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>

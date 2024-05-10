@@ -51,10 +51,14 @@ My Email is : [blusewillstudio@protonmail.com](mailto:blusewillstudio@protonmail
 
 [blusewillLIVE](https://www.plurk.com/blusewillLIVE)
 
+## Bluesky
+
+[@blusewill.bsky.social](https://bsky.app/profile/blusewill.bsky.social)
+
 ## Discord
 
-blusewill (Main) <br/>
-Or <br/>
+blusewill (Main)
+
 nelsonbiker (Alt)
 
 ## Guilded
