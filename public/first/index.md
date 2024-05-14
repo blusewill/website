@@ -1,4 +1,4 @@
-# Welcome to blusewill&#39;s New Website
+# Welcome to Blusewill&#39;s New Website
 
 
 Hello Welcome to blusewill&#39;s **NEW** Website this posts is why I use the New Theme instead of the PaperMod

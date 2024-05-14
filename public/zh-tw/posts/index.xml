@@ -10,53 +10,98 @@
   <author>作者</author>
   <guid>http://localhost:1313/zh-tw/background-music/</guid>
   <description><![CDATA[<p>有時候會收到說我用的音樂是什麼，打算寫一篇文章來給一些基礎實況主或是 YouTuber 來參考一下什麼音樂適合你們的創作。</p>
-<h2 id="twitch-直播時候用的音樂" class="heading-element">
-  <a href="#twitch-%e7%9b%b4%e6%92%ad%e6%99%82%e5%80%99%e7%94%a8%e7%9a%84%e9%9f%b3%e6%a8%82" class="heading-mark"></a>Twitch 直播時候用的音樂</h2><p>Twitch 直播的時候基本上都是用有版權的音樂，原因是因為 Twitch 有 VOD 分軌功能，所以沒有特別的在乎</p>
+<h2 id="twitch-直播時候用的音樂" class="heading-element"><span>Twitch 直播時候用的音樂</span>
+  <a href="#twitch-%e7%9b%b4%e6%92%ad%e6%99%82%e5%80%99%e7%94%a8%e7%9a%84%e9%9f%b3%e6%a8%82" class="heading-mark">
+    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
+  </a>
+</h2><p>Twitch 直播的時候基本上都是用有版權的音樂，原因是因為 Twitch 有 VOD 分軌功能，所以沒有特別的在乎</p>
 <p>大概播放清單如下</p>
-<h3 id="半夜放鬆用-睡覺台" class="heading-element">
-  <a href="#%e5%8d%8a%e5%a4%9c%e6%94%be%e9%ac%86%e7%94%a8-%e7%9d%a1%e8%a6%ba%e5%8f%b0" class="heading-mark"></a>半夜放鬆用 (睡覺台)</h3><iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7MboJw1sc8hm2zE88zR8Mb?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-<h3 id="自己喜歡聽的音樂" class="heading-element">
-  <a href="#%e8%87%aa%e5%b7%b1%e5%96%9c%e6%ad%a1%e8%81%bd%e7%9a%84%e9%9f%b3%e6%a8%82" class="heading-mark"></a>自己喜歡聽的音樂</h3><iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3J8dRoj2VDDP7O6SuR81mC?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-<h3 id="玩遊戲用的音樂" class="heading-element">
-  <a href="#%e7%8e%a9%e9%81%8a%e6%88%b2%e7%94%a8%e7%9a%84%e9%9f%b3%e6%a8%82" class="heading-mark"></a>玩遊戲用的音樂</h3><iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5VAKLjCtQA2Rd2W0yHKiJ9?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-<h2 id="youtube-影片用的音樂" class="heading-element">
-  <a href="#youtube-%e5%bd%b1%e7%89%87%e7%94%a8%e7%9a%84%e9%9f%b3%e6%a8%82" class="heading-mark"></a>YouTube 影片用的音樂</h2><p>現在就要來講到 YouTube 影片用的音樂了。</p>
+<h3 id="半夜放鬆用-睡覺台" class="heading-element"><span>半夜放鬆用 (睡覺台)</span>
+  <a href="#%e5%8d%8a%e5%a4%9c%e6%94%be%e9%ac%86%e7%94%a8-%e7%9d%a1%e8%a6%ba%e5%8f%b0" class="heading-mark">
+    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
+  </a>
+</h3><iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7MboJw1sc8hm2zE88zR8Mb?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<h3 id="自己喜歡聽的音樂" class="heading-element"><span>自己喜歡聽的音樂</span>
+  <a href="#%e8%87%aa%e5%b7%b1%e5%96%9c%e6%ad%a1%e8%81%bd%e7%9a%84%e9%9f%b3%e6%a8%82" class="heading-mark">
+    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
+  </a>
+</h3><iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3J8dRoj2VDDP7O6SuR81mC?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<h3 id="玩遊戲用的音樂" class="heading-element"><span>玩遊戲用的音樂</span>
+  <a href="#%e7%8e%a9%e9%81%8a%e6%88%b2%e7%94%a8%e7%9a%84%e9%9f%b3%e6%a8%82" class="heading-mark">
+    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
+  </a>
+</h3><iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5VAKLjCtQA2Rd2W0yHKiJ9?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<h2 id="youtube-影片用的音樂" class="heading-element"><span>YouTube 影片用的音樂</span>
+  <a href="#youtube-%e5%bd%b1%e7%89%87%e7%94%a8%e7%9a%84%e9%9f%b3%e6%a8%82" class="heading-mark">
+    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
+  </a>
+</h2><p>現在就要來講到 YouTube 影片用的音樂了。</p>
 <p>我自己平常會用三個平台推出的音樂</p>
 <p>StreamBeats, OverClocked Remix, Gamechops</p>
 <p>這三個音樂平台都是沒有版權的，而且又很符合我的胃口。</p>
-<h3 id="streambeats-音樂下載串流" class="heading-element">
-  <a href="#streambeats-%e9%9f%b3%e6%a8%82%e4%b8%8b%e8%bc%89%e4%b8%b2%e6%b5%81" class="heading-mark"></a>Streambeats 音樂下載/串流</h3><h4 id="串流" class="heading-element">
-  <a href="#%e4%b8%b2%e6%b5%81" class="heading-mark"></a>串流</h4><p>你可以在各大平台像是 Apple Music, Spotify, YouTube Music 串流 StreamBeats</p>
+<h3 id="streambeats-音樂下載串流" class="heading-element"><span>Streambeats 音樂下載/串流</span>
+  <a href="#streambeats-%e9%9f%b3%e6%a8%82%e4%b8%8b%e8%bc%89%e4%b8%b2%e6%b5%81" class="heading-mark">
+    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
+  </a>
+</h3><h4 id="串流" class="heading-element"><span>串流</span>
+  <a href="#%e4%b8%b2%e6%b5%81" class="heading-mark">
+    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
+  </a>
+</h4><p>你可以在各大平台像是 Apple Music, Spotify, YouTube Music 串流 StreamBeats</p>
 <p>這邊就放上 Spotify 的給大家</p>
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/6GTRLqqiBPUqaOgyxOraHp?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-<h4 id="下載" class="heading-element">
-  <a href="#%e4%b8%8b%e8%bc%89" class="heading-mark"></a>下載</h4><p>下載的部份他們有整合進入一個 Google 雲端硬碟裡面，可以直接下載</p>
+<h4 id="下載" class="heading-element"><span>下載</span>
+  <a href="#%e4%b8%8b%e8%bc%89" class="heading-mark">
+    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
+  </a>
+</h4><p>下載的部份他們有整合進入一個 Google 雲端硬碟裡面，可以直接下載</p>
 <p><a href="https://drive.google.com/drive/folders/196AfI6vYiSwKqb7ATKKg4J_4PcwG84jC"target="_blank" rel="external nofollow noopener noreferrer">https://drive.google.com/drive/folders/196AfI6vYiSwKqb7ATKKg4J_4PcwG84jC</a></p>
-<h3 id="overclocked-remix-音樂串流下載" class="heading-element">
-  <a href="#overclocked-remix-%e9%9f%b3%e6%a8%82%e4%b8%b2%e6%b5%81%e4%b8%8b%e8%bc%89" class="heading-mark"></a>OverClocked Remix 音樂串流/下載</h3><h2 id="串流-1" class="heading-element">
-  <a href="#%e4%b8%b2%e6%b5%81-1" class="heading-mark"></a>串流</h2><p>OCReMix 的部份就是串流會比較麻煩，可以透過 Soundcloud, rainwave.cc, 還有他們的 YouTube 官方頻道</p>
+<h3 id="overclocked-remix-音樂串流下載" class="heading-element"><span>OverClocked Remix 音樂串流/下載</span>
+  <a href="#overclocked-remix-%e9%9f%b3%e6%a8%82%e4%b8%b2%e6%b5%81%e4%b8%8b%e8%bc%89" class="heading-mark">
+    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
+  </a>
+</h3><h2 id="串流-1" class="heading-element"><span>串流</span>
+  <a href="#%e4%b8%b2%e6%b5%81-1" class="heading-mark">
+    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
+  </a>
+</h2><p>OCReMix 的部份就是串流會比較麻煩，可以透過 Soundcloud, rainwave.cc, 還有他們的 YouTube 官方頻道</p>
 <p><a href="https://rainwave.cc/ocremix/"target="_blank" rel="external nofollow noopener noreferrer">Rainwave</a></p>
 <p><a href="https://www.youtube.com/ocremix"target="_blank" rel="external nofollow noopener noreferrer">YouTube</a></p>
 <p>Soundcloud 的部份就給大家聽一首歌吧</p>
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/235302460&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/ocremix" title="OverClocked ReMix" target="_blank" style="color: #cccccc; text-decoration: none;">OverClocked ReMix</a> · <a href="https://soundcloud.com/ocremix/04-caravan-bowser-super-mario-3d-world-flexstyle-xprtnovice" title="04 Caravan Bowser (Super Mario 3D World) [Flexstyle, XPRTNovice]" target="_blank" style="color: #cccccc; text-decoration: none;">04 Caravan Bowser (Super Mario 3D World) [Flexstyle, XPRTNovice]</a></div>
-<h3 id="音樂下載" class="heading-element">
-  <a href="#%e9%9f%b3%e6%a8%82%e4%b8%8b%e8%bc%89" class="heading-mark"></a>音樂下載</h3><p>而下載音樂的部份，可以到他們的官方網站 <a href="https://ocremix.org/"target="_blank" rel="external nofollow noopener noreferrer">https://ocremix.org/</a> 尋找想要的音樂然後下載</p>
+<h3 id="音樂下載" class="heading-element"><span>音樂下載</span>
+  <a href="#%e9%9f%b3%e6%a8%82%e4%b8%8b%e8%bc%89" class="heading-mark">
+    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
+  </a>
+</h3><p>而下載音樂的部份，可以到他們的官方網站 <a href="https://ocremix.org/"target="_blank" rel="external nofollow noopener noreferrer">https://ocremix.org/</a> 尋找想要的音樂然後下載</p>
 <p>或是你也可以透過 BT 來下載他們全部的音樂歐</p>
 <p>BT 下載 <a href="https://ocremix.org/torrents"target="_blank" rel="external nofollow noopener noreferrer">https://ocremix.org/torrents</a></p>
-<h3 id="gamechops" class="heading-element">
-  <a href="#gamechops" class="heading-mark"></a>GameChops</h3><p>最後就是 GameChops 了，這也是最近都在用的服務，非常多的遊戲音樂 Remix 不是到 OCReMix 就是到這裡來。</p>
-<h4 id="下載-gamechops-的音樂" class="heading-element">
-  <a href="#%e4%b8%8b%e8%bc%89-gamechops-%e7%9a%84%e9%9f%b3%e6%a8%82" class="heading-mark"></a>下載 GameChops 的音樂</h4><p>GameChops 唯一的缺點就是無法免費下載一些音樂，需要透過 bandcamp 進行購買。</p>
+<h3 id="gamechops" class="heading-element"><span>GameChops</span>
+  <a href="#gamechops" class="heading-mark">
+    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
+  </a>
+</h3><p>最後就是 GameChops 了，這也是最近都在用的服務，非常多的遊戲音樂 Remix 不是到 OCReMix 就是到這裡來。</p>
+<h4 id="下載-gamechops-的音樂" class="heading-element"><span>下載 GameChops 的音樂</span>
+  <a href="#%e4%b8%8b%e8%bc%89-gamechops-%e7%9a%84%e9%9f%b3%e6%a8%82" class="heading-mark">
+    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
+  </a>
+</h4><p>GameChops 唯一的缺點就是無法免費下載一些音樂，需要透過 bandcamp 進行購買。</p>
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1324860444/size=large/bgcol=181a1b/linkcol=056cc4/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://music.gamechops.com/album/super-standards">Super Standards by Button Masher</a></iframe>
 但是你也可以到 archive.org 下載大部分的專輯
 <p>像這個就是一個例子</p>
 <iframe src="https://archive.org/embed/spindash-3" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-<h4 id="串流-gamechops-的音樂" class="heading-element">
-  <a href="#%e4%b8%b2%e6%b5%81-gamechops-%e7%9a%84%e9%9f%b3%e6%a8%82" class="heading-mark"></a>串流 GameChops 的音樂</h4><p>GameChops 主要還是在做串流的，全平台像是 YouTube Music, Spotify, Apple Music 都可以看到 GameChops 的身影</p>
+<h4 id="串流-gamechops-的音樂" class="heading-element"><span>串流 GameChops 的音樂</span>
+  <a href="#%e4%b8%b2%e6%b5%81-gamechops-%e7%9a%84%e9%9f%b3%e6%a8%82" class="heading-mark">
+    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
+  </a>
+</h4><p>GameChops 主要還是在做串流的，全平台像是 YouTube Music, Spotify, Apple Music 都可以看到 GameChops 的身影</p>
 <p>這邊就放上 GameChops 的 Spotify 給你們聽聽看</p>
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/1T7zBkQCOCacKjbnmFX7cp?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-<h2 id="總結" class="heading-element">
-  <a href="#%e7%b8%bd%e7%b5%90" class="heading-mark"></a>總結</h2><p>挑選一個好的背景音樂沒有很簡單，有時候可能會花上好幾個小時的時間挑選。</p>
+<h2 id="總結" class="heading-element"><span>總結</span>
+  <a href="#%e7%b8%bd%e7%b5%90" class="heading-mark">
+    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
+  </a>
+</h2><p>挑選一個好的背景音樂沒有很簡單，有時候可能會花上好幾個小時的時間挑選。</p>
 <p>在看完這篇文章之後，希望大家都可以找到自己喜歡的音樂歐！</p>]]></description>
 </item>
 <item>
@@ -68,8 +113,11 @@
   <description><![CDATA[<p>安裝Windows 11可以是一件麻煩的事情，尤其是你後面安裝之後刪除很多你不會用到的程式，像是抖音,Netflix等等的程式。</p>
 <p><img loading="lazy" src="https://www.bleepstatic.com/images/news/Microsoft/windows-11/s/start-menu-classic/Windows-11-start-menu.jpg" alt="Screenshot of Windows 11 Start Menu" srcset="https://www.bleepstatic.com/images/news/Microsoft/windows-11/s/start-menu-classic/Windows-11-start-menu.jpg?size=small, https://www.bleepstatic.com/images/news/Microsoft/windows-11/s/start-menu-classic/Windows-11-start-menu.jpg?size=medium 1.5x, https://www.bleepstatic.com/images/news/Microsoft/windows-11/s/start-menu-classic/Windows-11-start-menu.jpg?size=large 2x" data-title="Screenshot of Windows 11 Start Menu" style="background: url(/images/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}"/></p>
 <p>如果我們有辦法在安裝的時候直接把他刪掉會不會比較快呢?</p>
-<h2 id="安裝的一個小細節" class="heading-element">
-  <a href="#%e5%ae%89%e8%a3%9d%e7%9a%84%e4%b8%80%e5%80%8b%e5%b0%8f%e7%b4%b0%e7%af%80" class="heading-mark"></a>安裝的一個小細節</h2><p>我不知道大家打開Windows的安裝是第幾次了，但是你有沒有用過中間的那三個選單呢?</p>
+<h2 id="安裝的一個小細節" class="heading-element"><span>安裝的一個小細節</span>
+  <a href="#%e5%ae%89%e8%a3%9d%e7%9a%84%e4%b8%80%e5%80%8b%e5%b0%8f%e7%b4%b0%e7%af%80" class="heading-mark">
+    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
+  </a>
+</h2><p>我不知道大家打開Windows的安裝是第幾次了，但是你有沒有用過中間的那三個選單呢?</p>
 <p><img loading="lazy" src="https://hipay0.com/wp-content/uploads/2022/10/10-Windows-11-installation-language.webp" alt="Screenshot of Windows Installation CD" srcset="https://hipay0.com/wp-content/uploads/2022/10/10-Windows-11-installation-language.webp?size=small, https://hipay0.com/wp-content/uploads/2022/10/10-Windows-11-installation-language.webp?size=medium 1.5x, https://hipay0.com/wp-content/uploads/2022/10/10-Windows-11-installation-language.webp?size=large 2x" data-title="Screenshot of Windows Installation CD" style="background: url(/images/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}"/></p>
 <p>我想信大家都跟我一樣，會直接按下下一步的按鈕。</p>
 <p>但是你知道嗎？只要把<code>時間與貨幣格式</code>改成<code>英文(世界)</code>他就不會有任何的垃圾App。</p>
@@ -78,8 +126,11 @@
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Did you know you can install Windows 11 without any bloatware simply by selecting &quot;English (World)&quot; as the Time &amp; Currency format at the initial install? <a href="https://t.co/l5Mwr2pgmP">pic.twitter.com/l5Mwr2pgmP</a></p>&mdash; ThioJoe (@thiojoe) <a href="https://twitter.com/thiojoe/status/1686565269907636224?ref_src=twsrc%5Etfw">August 2, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <p>所以我們要把<code>世界與貨幣格式</code>改成<code>英文(世界)</code>這樣就可以減少你要刪除垃圾軟體的時間了。</p>
 <p>Ps.還可以順便停用微軟商店，如果你不會用到的話可以繼續留在這個設定</p>
-<h2 id="但是這樣才剛剛開始" class="heading-element">
-  <a href="#%e4%bd%86%e6%98%af%e9%80%99%e6%a8%a3%e6%89%8d%e5%89%9b%e5%89%9b%e9%96%8b%e5%a7%8b" class="heading-mark"></a>但是這樣才剛剛開始</h2><p>這樣解除安裝之後可能對大部分人來講已經夠了，但是我們才剛剛開始，現在我們基本上還是在很原本的Windows 11狀態。</p>
+<h2 id="但是這樣才剛剛開始" class="heading-element"><span>但是這樣才剛剛開始</span>
+  <a href="#%e4%bd%86%e6%98%af%e9%80%99%e6%a8%a3%e6%89%8d%e5%89%9b%e5%89%9b%e9%96%8b%e5%a7%8b" class="heading-mark">
+    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
+  </a>
+</h2><p>這樣解除安裝之後可能對大部分人來講已經夠了，但是我們才剛剛開始，現在我們基本上還是在很原本的Windows 11狀態。</p>
 <p>所以我們現在要派出國外科技YouTuber <a href="https://christitus.com"target="_blank" rel="external nofollow noopener noreferrer">ChrisTitusTech</a> 的<a href="https://github.com/christitustech/winutil"target="_blank" rel="external nofollow noopener noreferrer">Winutil</a>工具箱</p>
 <p>因為我們接下來要關閉的是可能會影響你的電腦效能的設定</p>
 <p>現在按下<code>Win + X</code>用管理員打開Powershell (或是終端機)</p>
@@ -87,15 +138,21 @@
 <p>接下來我們到<code>Tweaks</code>畫面，上面已經有給你一些選項，像筆電就用Laptop，桌機就按Desktop。</p>
 <p>之後按下<code>Run Tweaks</code> 他就會開始關閉一些影響效能的一些東西。</p>
 <p>之後會有一個彈窗寫All Done代表已經跑完了全部的設定。</p>
-<h3 id="刪除那不好用的edge-選用" class="heading-element">
-  <a href="#%e5%88%aa%e9%99%a4%e9%82%a3%e4%b8%8d%e5%a5%bd%e7%94%a8%e7%9a%84edge-%e9%81%b8%e7%94%a8" class="heading-mark"></a>刪除那不好用的Edge (選用)</h3><p>你的工具箱應該還是開著的吧？</p>
+<h3 id="刪除那不好用的edge-選用" class="heading-element"><span>刪除那不好用的Edge (選用)</span>
+  <a href="#%e5%88%aa%e9%99%a4%e9%82%a3%e4%b8%8d%e5%a5%bd%e7%94%a8%e7%9a%84edge-%e9%81%b8%e7%94%a8" class="heading-mark">
+    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
+  </a>
+</h3><p>你的工具箱應該還是開著的吧？</p>
 <p>如果是的話先到 <code>Install</code> 安裝你想要安裝的瀏覽器</p>
 <p>安裝完之後在到<code>Tweaks</code>打勾<code>Remove Microsoft Edge</code>之後按Run</p>
 <p>你的Edge就會消失不見了</p>
 <p>我們的乾淨Windows 11也就這樣安裝完了！</p>
 <p>有任何的問題也都可以在下面留言歐!</p>
-<h1 id="影片教學" class="heading-element">
-  <a href="#%e5%bd%b1%e7%89%87%e6%95%99%e5%ad%b8" class="heading-mark"></a>影片教學</h1>
+<h1 id="影片教學" class="heading-element"><span>影片教學</span>
+  <a href="#%e5%bd%b1%e7%89%87%e6%95%99%e5%ad%b8" class="heading-mark">
+    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
+  </a>
+</h1>
 
     
     <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
@@ -114,18 +171,27 @@
   <description><![CDATA[<p>說到音樂播放，相信大家都會想到VLC，MPC-HC，Amberoi，mpv等等的多媒體播放器</p>
 但是我告訴你，有一個音樂播放器非常的好用，它可以在自己的電腦播放，可以音樂串流，甚至可以聽音樂電台</p>
 沒錯這個東西就是我們今天的主角<strong>mpd</strong>。</p>
-<h1 id="為什麼mpd是最好用的音樂播放器" class="heading-element">
-  <a href="#%e7%82%ba%e4%bb%80%e9%ba%bcmpd%e6%98%af%e6%9c%80%e5%a5%bd%e7%94%a8%e7%9a%84%e9%9f%b3%e6%a8%82%e6%92%ad%e6%94%be%e5%99%a8" class="heading-mark"></a>為什麼mpd是最好用的音樂播放器</h1><p>當時接觸mpd是因為一個基於Arch Linux的系統<a href="https://archcraft.io/"target="_blank" rel="external nofollow noopener noreferrer">Archcraft</a>它上面有一個音樂播放器，我想說這個是什麼音樂播放器可以把目前播放的音樂寫在上面，最後竟然發現是mpd播放器就讓我如此的好奇想要讓我研究一番，最後到今天我用了mpd一個月，我可以跟大家說mpd是一個有無限潛力的音樂播放器，它可以讓你想不到音樂播放器有如此多的用途，也是我決的mpd是最好用的音樂播放器之一。</p>
-<h1 id="我目前的設定" class="heading-element">
-  <a href="#%e6%88%91%e7%9b%ae%e5%89%8d%e7%9a%84%e8%a8%ad%e5%ae%9a" class="heading-mark"></a>我目前的設定</h1><p>我現在是用<a href="https://github.com/jcorporation/myMPD"target="_blank" rel="external nofollow noopener noreferrer">myMPD</a>當做我目前的音樂播放界面，那當然不只有myMPD，mpd的音樂播放界面還有很多，以下是一些例子</p></p>
+<h1 id="為什麼mpd是最好用的音樂播放器" class="heading-element"><span>為什麼mpd是最好用的音樂播放器</span>
+  <a href="#%e7%82%ba%e4%bb%80%e9%ba%bcmpd%e6%98%af%e6%9c%80%e5%a5%bd%e7%94%a8%e7%9a%84%e9%9f%b3%e6%a8%82%e6%92%ad%e6%94%be%e5%99%a8" class="heading-mark">
+    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
+  </a>
+</h1><p>當時接觸mpd是因為一個基於Arch Linux的系統<a href="https://archcraft.io/"target="_blank" rel="external nofollow noopener noreferrer">Archcraft</a>它上面有一個音樂播放器，我想說這個是什麼音樂播放器可以把目前播放的音樂寫在上面，最後竟然發現是mpd播放器就讓我如此的好奇想要讓我研究一番，最後到今天我用了mpd一個月，我可以跟大家說mpd是一個有無限潛力的音樂播放器，它可以讓你想不到音樂播放器有如此多的用途，也是我決的mpd是最好用的音樂播放器之一。</p>
+<h1 id="我目前的設定" class="heading-element"><span>我目前的設定</span>
+  <a href="#%e6%88%91%e7%9b%ae%e5%89%8d%e7%9a%84%e8%a8%ad%e5%ae%9a" class="heading-mark">
+    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
+  </a>
+</h1><p>我現在是用<a href="https://github.com/jcorporation/myMPD"target="_blank" rel="external nofollow noopener noreferrer">myMPD</a>當做我目前的音樂播放界面，那當然不只有myMPD，mpd的音樂播放界面還有很多，以下是一些例子</p></p>
 <p>可以客製化到很恐怖的地步的終端機音樂播放界面的 : <a href="https://github.com/ncmpcpp/ncmpcpp"target="_blank" rel="external nofollow noopener noreferrer">ncmpcpp</a>
 <img loading="lazy" src="https://arcolinux.com/wp-content/uploads/2018/01/mpd-ncmpcpp.jpg" alt="ncmpcpp" srcset="https://arcolinux.com/wp-content/uploads/2018/01/mpd-ncmpcpp.jpg?size=small, https://arcolinux.com/wp-content/uploads/2018/01/mpd-ncmpcpp.jpg?size=medium 1.5x, https://arcolinux.com/wp-content/uploads/2018/01/mpd-ncmpcpp.jpg?size=large 2x" data-title="ncmpcpp" style="background: url(/images/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}"/></p>
 </p>
 <p>跟間單好用的 : <a href="https://github.com/SoongNoonien/mpdevil"target="_blank" rel="external nofollow noopener noreferrer">mpdevil</a></p>
 <p><img loading="lazy" src="https://github.com/SoongNoonien/mpdevil/raw/master/screenshots/mainwindow_1.9.0.png" alt="mpddevil" srcset="https://github.com/SoongNoonien/mpdevil/raw/master/screenshots/mainwindow_1.9.0.png?size=small, https://github.com/SoongNoonien/mpdevil/raw/master/screenshots/mainwindow_1.9.0.png?size=medium 1.5x, https://github.com/SoongNoonien/mpdevil/raw/master/screenshots/mainwindow_1.9.0.png?size=large 2x" data-title="mpddevil" style="background: url(/images/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}"/></p>
-<h1 id="mpd安裝" class="heading-element">
-  <a href="#mpd%e5%ae%89%e8%a3%9d" class="heading-mark"></a>mpd安裝</h1><p>Debian / Ubuntu (Nix) <strong>建議</strong></p>
-<div class="highlight" id="id-1"><div class="chroma">
+<h1 id="mpd安裝" class="heading-element"><span>mpd安裝</span>
+  <a href="#mpd%e5%ae%89%e8%a3%9d" class="heading-mark">
+    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
+  </a>
+</h1><p>Debian / Ubuntu (Nix) <strong>建議</strong></p>
+<div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
@@ -133,7 +199,7 @@
 <pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">nix-env -iA nixpkgs.mpd</span></span></code></pre></td></tr></table>
 </div>
 </div><p>Arch Linux</p>
-<div class="highlight" id="id-2"><div class="chroma">
+<div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
@@ -141,16 +207,19 @@
 <pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">sudo pacman -Sy mpd</span></span></code></pre></td></tr></table>
 </div>
 </div><p>Fedora <strong>(建議也使用nix)</strong></p>
-<div class="highlight" id="id-3"><div class="chroma">
+<div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
 <pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">sudo dnf install mpd</span></span></code></pre></td></tr></table>
 </div>
-</div><h1 id="mpd設定" class="heading-element">
-  <a href="#mpd%e8%a8%ad%e5%ae%9a" class="heading-mark"></a>mpd設定</h1><p>我的mpd設定長這個樣子</p>
-<div class="highlight" id="id-4"><div class="chroma">
+</div><h1 id="mpd設定" class="heading-element"><span>mpd設定</span>
+  <a href="#mpd%e8%a8%ad%e5%ae%9a" class="heading-mark">
+    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
+  </a>
+</h1><p>我的mpd設定長這個樣子</p>
+<div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt"> 1
 </span><span class="lnt"> 2
@@ -227,7 +296,7 @@
 </div>
 </div><p>但是我建議大家去下載<a href="https://raw.githubusercontent.com/andrewrk/mpd/master/doc/mpdconf.example"target="_blank" rel="external nofollow noopener noreferrer">原本的檔案</a>，這樣才比較穩定歐</p>
 或是直接在這裡複製</p>
-<div class="highlight" id="id-5"><div class="chroma">
+<div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">  1
 </span><span class="lnt">  2
@@ -1066,16 +1135,22 @@
 <code>bind_to_address</code> 指定IP位置</p>
 <code>port</code> 指定端口</p>
 <hr>
-<h2 id="音訊輸出部份" class="heading-element">
-  <a href="#%e9%9f%b3%e8%a8%8a%e8%bc%b8%e5%87%ba%e9%83%a8%e4%bb%bd" class="heading-mark"></a>音訊輸出部份</h2><p><code>audio_output</code> 音訊輸出</p>
+<h2 id="音訊輸出部份" class="heading-element"><span>音訊輸出部份</span>
+  <a href="#%e9%9f%b3%e8%a8%8a%e8%bc%b8%e5%87%ba%e9%83%a8%e4%bb%bd" class="heading-mark">
+    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
+  </a>
+</h2><p><code>audio_output</code> 音訊輸出</p>
 <code>type</code> 輸出種類如 (pulseaudio , pipewire, httpd)</p>
 <code>name</code> 輸出的名子</p></p>
 <hr>
 <p>那其他的你可以自己去研究，我在這裡就不多做說明</p>
-<h1 id="mympd架設" class="heading-element">
-  <a href="#mympd%e6%9e%b6%e8%a8%ad" class="heading-mark"></a>myMPD架設</h1><p>那myMPD架設的方式其實非常的多，以下是安裝的直令，根據系統會有些不同</p></p>
+<h1 id="mympd架設" class="heading-element"><span>myMPD架設</span>
+  <a href="#mympd%e6%9e%b6%e8%a8%ad" class="heading-mark">
+    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
+  </a>
+</h1><p>那myMPD架設的方式其實非常的多，以下是安裝的直令，根據系統會有些不同</p></p>
 <p>Debian/Ubuntu :</p>
-<div class="highlight" id="id-6"><div class="chroma">
+<div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
@@ -1102,7 +1177,7 @@
 <code> sudo pacman -Sy mympd</code> </p>
 你也可以用Docker架設</p>
 <p>Docker Compose:</p>
-<div class="highlight" id="id-7"><div class="chroma">
+<div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt"> 1
 </span><span class="lnt"> 2
@@ -1142,7 +1217,7 @@
 </span></span><span class="line"><span class="cl">    <span class="n">restart</span><span class="p">:</span> <span class="n">unless</span><span class="o">-</span><span class="n">stopped</span></span></span></code></pre></td></tr></table>
 </div>
 </div><p>Docker CLI:</p>
-<div class="highlight" id="id-8"><div class="chroma">
+<div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt"> 1
 </span><span class="lnt"> 2
@@ -1171,26 +1246,38 @@
 </span></span><span class="line"><span class="cl">  <span class="o">--</span><span class="n">restart</span> <span class="n">unless</span><span class="o">-</span><span class="n">stopped</span> \
 </span></span><span class="line"><span class="cl">  <span class="n">ghcr</span><span class="o">.</span><span class="n">io</span><span class="o">/</span><span class="n">jcorporation</span><span class="o">/</span><span class="n">mympd</span><span class="o">/</span><span class="n">mympd</span></span></span></code></pre></td></tr></table>
 </div>
-</div><h2 id="開機自啟動" class="heading-element">
-  <a href="#%e9%96%8b%e6%a9%9f%e8%87%aa%e5%95%9f%e5%8b%95" class="heading-mark"></a>開機自啟動</h2><p>你可以設定myMPD開機啟動用</p>
+</div><h2 id="開機自啟動" class="heading-element"><span>開機自啟動</span>
+  <a href="#%e9%96%8b%e6%a9%9f%e8%87%aa%e5%95%9f%e5%8b%95" class="heading-mark">
+    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
+  </a>
+</h2><p>你可以設定myMPD開機啟動用</p>
 <p><code>systemctl enable mympd</code>
 或是利用直令mympd開啟</p>
 <p>之後你就可以在網址列打localhost就可以直接到myMPD的畫面摟</p>
-<h2 id="mympd附加啟動" class="heading-element">
-  <a href="#mympd%e9%99%84%e5%8a%a0%e5%95%9f%e5%8b%95" class="heading-mark"></a>myMPD附加啟動</h2><p><code>-u, --user &lt;使用者名稱&gt;</code> 啟動的使用者名</p>
+<h2 id="mympd附加啟動" class="heading-element"><span>myMPD附加啟動</span>
+  <a href="#mympd%e9%99%84%e5%8a%a0%e5%95%9f%e5%8b%95" class="heading-mark">
+    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
+  </a>
+</h2><p><code>-u, --user &lt;使用者名稱&gt;</code> 啟動的使用者名</p>
 <code>-w, --workdir &lt;資料夾&gt;</code> 更改預設資料夾</p>
 <code>-a, --cachedir &lt;資料夾&gt;</code> 更改緩存資料夾</p>
-<h2 id="mympd設定" class="heading-element">
-  <a href="#mympd%e8%a8%ad%e5%ae%9a" class="heading-mark"></a>myMPD設定</h2><p>myMPD的預設設定資料夾是在 <code>/var/lib/mympd/config/</code>
+<h2 id="mympd設定" class="heading-element"><span>myMPD設定</span>
+  <a href="#mympd%e8%a8%ad%e5%ae%9a" class="heading-mark">
+    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
+  </a>
+</h2><p>myMPD的預設設定資料夾是在 <code>/var/lib/mympd/config/</code>
 然後裡面有一些設定我們可以來調整的這邊就講一些基礎的</p>
 <code>http_host</code> 伺服器ip位置</p>
 <code>http_port</code> 伺服器端口</p>
 <code>ssl</code> 啟動ssl，或關閉</p>
 <code>ssl_port</code> ssl端口</p></p>
-<h1 id="音樂串流" class="heading-element">
-  <a href="#%e9%9f%b3%e6%a8%82%e4%b8%b2%e6%b5%81" class="heading-mark"></a>音樂串流</h1><p>我知道你在想什麼，我們都架了一個mpd網頁伺服器了，那可不可以做到<strong>音樂串流</strong>了呢?</p>
+<h1 id="音樂串流" class="heading-element"><span>音樂串流</span>
+  <a href="#%e9%9f%b3%e6%a8%82%e4%b8%b2%e6%b5%81" class="heading-mark">
+    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
+  </a>
+</h1><p>我知道你在想什麼，我們都架了一個mpd網頁伺服器了，那可不可以做到<strong>音樂串流</strong>了呢?</p>
 <p>答案是可以的，我們首先要在mpd的設定添加一個輸出選項</p>
-<div class="highlight" id="id-9"><div class="chroma">
+<div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt"> 1
 </span><span class="lnt"> 2
@@ -1222,8 +1309,11 @@
 <p>之後我們就可以在右下看到Local playback的選項，點進去按播放就可以串流音樂了</p>
 <p><img loading="lazy" src="https://i.imgur.com/sLbFUtP.png" alt="https://i.imgur.com/sLbFUtP.png" srcset="https://i.imgur.com/sLbFUtP.png?size=small, https://i.imgur.com/sLbFUtP.png?size=medium 1.5x, https://i.imgur.com/sLbFUtP.png?size=large 2x" data-title="https://i.imgur.com/sLbFUtP.png" style="background: url(/images/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}"/></p>
 <p><em>PS.你也可以打開Autoplay來按下播放鍵自動連接服務</em></p>
-<h1 id="總結" class="heading-element">
-  <a href="#%e7%b8%bd%e7%b5%90" class="heading-mark"></a>總結</h1><p>這就是我平常怎麼播音樂的，雖說架起來麻煩但是用起來是真的好用的</p>
+<h1 id="總結" class="heading-element"><span>總結</span>
+  <a href="#%e7%b8%bd%e7%b5%90" class="heading-mark">
+    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
+  </a>
+</h1><p>這就是我平常怎麼播音樂的，雖說架起來麻煩但是用起來是真的好用的</p>
 <p>那mpd也可以做到很多事，像是可以跟一個OBS的插件Tuna用在一起，就可以在上面看到正在播放的音樂，我這還只是簡單用用而已，還不是非常進階的用法，如果你們有非常進階的mpd使用方法也可以在Twitter上面@bluesewill讓我知道拉，這邊是blusewill_Guide我們下次再見 :D</p>
 ]]></description>
 </item>
@@ -1234,11 +1324,17 @@
   <author>作者</author>
   <guid>http://localhost:1313/zh-tw/first/</guid>
   <description><![CDATA[<p>歡迎來到小品大大的<strong>新</strong>網站，這篇文章會跟你說為什麼我換了我網站的主題</p>
-<h1 id="為什麼要換主體" class="heading-element">
-  <a href="#%e7%82%ba%e4%bb%80%e9%ba%bc%e8%a6%81%e6%8f%9b%e4%b8%bb%e9%ab%94" class="heading-mark"></a>為什麼要換主體</h1><p>因為前幾天發現PaperMod不支援最新的Hugo，會報錯 <del>(其實是懶得Debug)</del></p>
+<h1 id="為什麼要換主體" class="heading-element"><span>為什麼要換主體</span>
+  <a href="#%e7%82%ba%e4%bb%80%e9%ba%bc%e8%a6%81%e6%8f%9b%e4%b8%bb%e9%ab%94" class="heading-mark">
+    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
+  </a>
+</h1><p>因為前幾天發現PaperMod不支援最新的Hugo，會報錯 <del>(其實是懶得Debug)</del></p>
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">My Website is kinda broken? <a href="https://t.co/0zw0GwPrYd">pic.twitter.com/0zw0GwPrYd</a></p>&mdash; 小品大大 aka. Blusewill LIVE (@bluesewill) <a href="https://twitter.com/bluesewill/status/1589660183391014912?ref_src=twsrc%5Etfw">November 7, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<h1 id="我還可以去以前的網站嘛" class="heading-element">
-  <a href="#%e6%88%91%e9%82%84%e5%8f%af%e4%bb%a5%e5%8e%bb%e4%bb%a5%e5%89%8d%e7%9a%84%e7%b6%b2%e7%ab%99%e5%98%9b" class="heading-mark"></a>我還可以去以前的網站嘛?</h1><p><strong>可以</strong>點擊<a href="https://old.blusewill.ml"target="_blank" rel="external nofollow noopener noreferrer">這裡</a>前往</p>
+<h1 id="我還可以去以前的網站嘛" class="heading-element"><span>我還可以去以前的網站嘛?</span>
+  <a href="#%e6%88%91%e9%82%84%e5%8f%af%e4%bb%a5%e5%8e%bb%e4%bb%a5%e5%89%8d%e7%9a%84%e7%b6%b2%e7%ab%99%e5%98%9b" class="heading-mark">
+    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
+  </a>
+</h1><p><strong>可以</strong>點擊<a href="https://old.blusewill.ml"target="_blank" rel="external nofollow noopener noreferrer">這裡</a>前往</p>
 ]]></description>
 </item>
 </channel>
