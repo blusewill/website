@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-subtitle: "Chat with me please (I am just kidding)"
+subtitle: "~~Chat with me please~~"
 date: 2022-11-20T21:20:32+08:00
 lastmod: 2023-09-04T02:08:18+08:00
 draft: false
