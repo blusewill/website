@@ -2,17 +2,7 @@
   xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml"
   ><url>
-      <loc>http://localhost:1313/zh-tw/stories/</loc><lastmod>2023-10-17T07:54:07&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-      <loc>http://localhost:1313/zh-tw/</loc><lastmod>2023-10-17T07:54:07&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-            rel="alternate"
-            hreflang="en"
-            href="http://localhost:1313/"
-            /><xhtml:link
-          rel="alternate"
-          hreflang="zh-tw"
-          href="http://localhost:1313/zh-tw/"
-          /></url><url>
-      <loc>http://localhost:1313/zh-tw/posts/</loc><lastmod>2023-09-04T02:42:10&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+      <loc>http://localhost:1313/zh-tw/posts/</loc><lastmod>2024-04-24T01:33:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority><xhtml:link
             rel="alternate"
             hreflang="en"
             href="http://localhost:1313/posts/"
@@ -21,6 +11,17 @@
           hreflang="zh-tw"
           href="http://localhost:1313/zh-tw/posts/"
           /></url><url>
+      <loc>http://localhost:1313/zh-tw/</loc><lastmod>2024-04-24T01:33:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority><xhtml:link
+            rel="alternate"
+            hreflang="en"
+            href="http://localhost:1313/"
+            /><xhtml:link
+          rel="alternate"
+          hreflang="zh-tw"
+          href="http://localhost:1313/zh-tw/"
+          /></url><url>
+      <loc>http://localhost:1313/zh-tw/background-music/</loc><lastmod>2024-04-24T01:33:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
+      <loc>http://localhost:1313/zh-tw/stories/</loc><lastmod>2023-10-17T07:54:07&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
       <loc>http://localhost:1313/zh-tw/tags/</loc><lastmod>2023-08-10T12:41:19&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
             rel="alternate"
             hreflang="en"

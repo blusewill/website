@@ -2,7 +2,7 @@
   xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml"
   ><url>
-      <loc>http://localhost:1313/</loc><lastmod>2023-12-25T10:20:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+      <loc>http://localhost:1313/</loc><lastmod>2024-03-11T01:27:07&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
             rel="alternate"
             hreflang="zh-tw"
             href="http://localhost:1313/zh-tw/"
@@ -11,7 +11,7 @@
           hreflang="en"
           href="http://localhost:1313/"
           /></url><url>
-      <loc>http://localhost:1313/posts/</loc><lastmod>2023-12-25T10:20:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+      <loc>http://localhost:1313/posts/</loc><lastmod>2024-03-11T01:27:07&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
             rel="alternate"
             hreflang="zh-tw"
             href="http://localhost:1313/zh-tw/posts/"
