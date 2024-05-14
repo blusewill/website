@@ -4,7 +4,7 @@ subtitle:
 date: {{ .Date }}
 slug: {{ substr .File.UniqueID 0 7 }}
 draft: true
-author: blusewill
+author: 
   name: blusewill
   link: https://blusewill.us.to/
   email: blusewillstudio@protonmail.com
