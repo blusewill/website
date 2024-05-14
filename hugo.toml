@@ -1033,7 +1033,7 @@ enableEmoji = true
     [params.page.comment]
       enable = true
         [params.page.comment.utterances]
-        enable = false
+        enable = true
         # owner/repo
         repo = "blusewill/website"
         issueTerm = "title"
