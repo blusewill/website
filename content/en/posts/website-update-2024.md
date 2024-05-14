@@ -14,9 +14,7 @@ keywords:
 comment: true
 weight: 0
 tags:
-  - draft  
 categories:
-  - draft
 hiddenFromHomePage: false
 hiddenFromSearch: false
 hiddenFromRss: false
