@@ -145,10 +145,7 @@ Configuration :
 
 ## 權重調整
 
-<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:54ykbopof2q2gn344mxwjejw/app.bsky.feed.post/3ksjzg2a3p327" data-bluesky-cid="bafyreifzvv7ar2lm4gj6ojmrcelqcja4zkrrbsxn2bftlio4d7i7o2f6gy"><p lang="en">Prompt :
-(leaking)1.1, leaking through clothing, Food Delivery, Pizza Delivery, Pizza Box, Night, nsfw, Wolf, blushing, Aqua Body, Vest, leaking on pants, Big Muscle, Strong Legs, Door Step, Best Quality, High Angle, Front View, Solo
-
-#AIblusewill<br><br><a href="https://bsky.app/profile/did:plc:54ykbopof2q2gn344mxwjejw/post/3ksjzg2a3p327?ref_src=embed">[image or embed]</a></p>&mdash; blusewill (<a href="https://bsky.app/profile/did:plc:54ykbopof2q2gn344mxwjejw?ref_src=embed">@blusewill.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:54ykbopof2q2gn344mxwjejw/post/3ksjzg2a3p327?ref_src=embed">May 15, 2024 at 11:33 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+![](https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:54ykbopof2q2gn344mxwjejw/bafkreiewck7pvuxo56zsadkxwvikjmzz7t5r35wwaucrumgxs7dbgcxhji@jpeg)
 
 昨天花了大概快要三個小時的時間，就為了讓他漏液
 
