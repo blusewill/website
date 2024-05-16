@@ -7,7 +7,7 @@ draft: false
 author:
   name: blusewill
   link: https://blusewill.us.to/
-  email: blusewillstuTotofox-shirtless.jpegdio@protonmail.com
+  email: blusewillstudio@protonmail.com
   avatar:
 description: 小品的瑟瑟 AI 筆記簿
 keywords:
