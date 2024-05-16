@@ -1052,6 +1052,7 @@ enableEmoji = true
         # located in "assets/"
         # Or
         # someJavascript = "https://cdn.example.com/some.js"
+        bluesky-embed = "https://embed.bsky.app/static/embed.js"
     # Page SEO config
     [params.page.seo]
       # image URL
