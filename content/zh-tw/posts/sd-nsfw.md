@@ -142,3 +142,24 @@ Configuration :
 那重要的第二點就是一定要打雙人，如果不打雙人的話很容易出來很神奇的成果。（因為我打文章測試的時候）就有出現神奇的結果。
 
 那關於這個關鍵字我是建議越後面打越好，因為打在前面有可能會出事。
+
+## 權重調整
+
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:54ykbopof2q2gn344mxwjejw/app.bsky.feed.post/3ksjzg2a3p327" data-bluesky-cid="bafyreifzvv7ar2lm4gj6ojmrcelqcja4zkrrbsxn2bftlio4d7i7o2f6gy"><p lang="en">Prompt :
+(leaking)1.1, leaking through clothing, Food Delivery, Pizza Delivery, Pizza Box, Night, nsfw, Wolf, blushing, Aqua Body, Vest, leaking on pants, Big Muscle, Strong Legs, Door Step, Best Quality, High Angle, Front View, Solo
+
+#AIblusewill<br><br><a href="https://bsky.app/profile/did:plc:54ykbopof2q2gn344mxwjejw/post/3ksjzg2a3p327?ref_src=embed">[image or embed]</a></p>&mdash; blusewill (<a href="https://bsky.app/profile/did:plc:54ykbopof2q2gn344mxwjejw?ref_src=embed">@blusewill.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:54ykbopof2q2gn344mxwjejw/post/3ksjzg2a3p327?ref_src=embed">May 15, 2024 at 11:33 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+
+昨天花了大概快要三個小時的時間，就為了讓他漏液
+
+結果這三個小時一直在嘗試看看不同的權重，也讓我覺得剛剛講的肉棒塞入應該也是可以用
+
+那基本上你要做權重設定的話，就是在後面打上數字
+
+以 1.0 為一個基準點，然後往上加
+
+那基本上除非你要很極端，要不然基本上 1.1 - 1.3 就夠了
+
+昨天也有產生出 1.9 的，那張照片是性慾高漲到還沒射我都覺得神了
+
+也謝謝 [豪焰](https://x.com/Howlblaze?s=09) 昨天一直在陪我研究權重啦
