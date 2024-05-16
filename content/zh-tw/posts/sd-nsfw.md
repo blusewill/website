@@ -1,5 +1,5 @@
 ---
-title: Stable Diffusion 產出色圖筆記
+title: Stable Diffusion 產出色圖筆記 （持續更新中）
 subtitle: 密碼是 SD-NSFW-FURRY 轉成小寫
 date: 2024-05-14T23:05:58+08:00
 slug: 093cd2e
