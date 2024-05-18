@@ -3,7 +3,7 @@ title: zoxide 一個可以在終端機快速移動資料夾的工具
 subtitle:
 date: 2024-05-19T00:06:12+08:00
 slug: 8ce0a21
-draft: true
+draft: false
 author: 
   name: blusewill
   link: https://blusewill.us.to/
