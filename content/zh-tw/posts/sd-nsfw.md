@@ -15,12 +15,8 @@ comment: true
 weight: 0
 tags:
   - Stable Diffusion
-  - NSFW
-  - Audlt Only
 categories:
-  - AI
-  - Stable Diffusion
-hiddenFromHomePage: false
+  - 小品的筆記簿
 hiddenFromSearch: false
 hiddenFromRss: false
 hiddenFromRelated: false
