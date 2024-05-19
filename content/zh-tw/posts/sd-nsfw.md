@@ -2,6 +2,7 @@
 title: Stable Diffusion 產出色圖筆記 （持續更新中）
 subtitle: 密碼是 SD-NSFW-FURRY 轉成小寫
 date: 2024-05-14T23:05:58+08:00
+lastmod: 2024-05-20T00:47:50+08:00
 slug: 093cd2e
 draft: false
 author:
@@ -156,3 +157,13 @@ Configuration :
 昨天也有產生出 1.9 的，那張照片是性慾高漲到還沒射我都覺得神了
 
 也謝謝 [豪焰](https://x.com/Howlblaze?s=09) 昨天一直在陪我研究權重啦
+
+## UI 更新
+
+由於從 Windows 換到 Linux 產圖
+
+今天 UI 更新成 [StableSwarmUI](https://github.com/Stability-AI/StableSwarmUI)
+
+效率確實有變快，但是需要一點學習成本。
+
+但是同時也可以研究很多功能，但是 ComfyUI 目前應該還不會碰到。
