@@ -1,3 +1,4 @@
+---
 title: Quitting Soundtrack Edit Community. (For real)
 subtitle:
 date: 2024-05-19T11:30:12+08:00
