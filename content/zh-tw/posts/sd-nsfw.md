@@ -2,7 +2,7 @@
 title: Stable Diffusion 產出色圖筆記 （持續更新中）
 subtitle: 密碼是 SD-NSFW-FURRY 轉成小寫
 date: 2024-05-14T23:05:58+08:00
-lastmod: 2024-05-20T00:47:50+08:00
+lastmod: 2024-05-20T23:47:50+08:00
 slug: 093cd2e
 draft: false
 author:
@@ -167,3 +167,39 @@ Configuration :
 效率確實有變快，但是需要一點學習成本。
 
 但是同時也可以研究很多功能，但是 ComfyUI 目前應該還不會碰到。
+
+## 上背景
+
+上背景有可能很難也有可能很簡單。
+
+我自己會先去想像那個地方大概是怎樣。要用什麼地點呈現
+
+但是有時候就不是想要的樣子，這時候就要換位思考想
+
+像是我最新的圖
+
+![](https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:54ykbopof2q2gn344mxwjejw/bafkreieeaq3mv45bxfq2uagiak5rfvhmq2uc7rdgzaiw4qp6bl26p7gff4@jpeg)
+
+原本是要用 Prison 的 prompt
+
+因為這一張直覺都會想像到 Prison
+
+但是 Prison 他真的會生產出監獄來，所以我們這時候就要下簡單一點
+
+所以這一張背景下的是 `gray brick wall` 雖說沒有全部都是灰色。
+
+但是還是產出了大概我想像的場景。
+
+## 不同的角度
+
+有時候不同的拍攝角度很重要，正常來說你可以用相機拍照的術語
+
+像是
+
+`pov` 從下往上
+
+`front view` 正正的拍
+
+`High Angle` 從上往下拍
+
+等等的拍攝角度都可以帶來不同的場景，大家也去玩看看吧！
