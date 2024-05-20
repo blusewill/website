@@ -35,7 +35,7 @@ password: sd-nsfw-furry
 
 # 未滿 18 歲請離開現場，這邊是我的 Stable Diffusion 1.5 模型筆記。專門在講色圖我的產生方法，會介意的也請迴避摟！
 
-
+> 因為 GitHub 的[使用者條款](https://docs.github.com/zh/site-policy/acceptable-use-policies/github-sexually-obscene-content)，不得放入色情內容進入 GitHub Repo 中，要看原圖要前往我的[藍天](https://bsky.app/profile/blusewill.bsky.social)來看圖片歐
 
 最近重灌 Windows 過後，不知道看到空出來的 C 槽都會給我要把它填滿的想法 (這是什麼起怪的癖好....) 所以就打算來玩玩看 Stable Diffusion。
 
@@ -142,8 +142,6 @@ Configuration :
 
 ## 權重調整
 
-![](https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:54ykbopof2q2gn344mxwjejw/bafkreiewck7pvuxo56zsadkxwvikjmzz7t5r35wwaucrumgxs7dbgcxhji@jpeg)
-
 昨天花了大概快要三個小時的時間，就為了讓他漏液
 
 結果這三個小時一直在嘗試看看不同的權重，也讓我覺得剛剛講的肉棒塞入應該也是可以用
@@ -177,8 +175,6 @@ Configuration :
 但是有時候就不是想要的樣子，這時候就要換位思考想
 
 像是我最新的圖
-
-![](https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:54ykbopof2q2gn344mxwjejw/bafkreieeaq3mv45bxfq2uagiak5rfvhmq2uc7rdgzaiw4qp6bl26p7gff4@jpeg)
 
 原本是要用 Prison 的 prompt
 
