@@ -130,6 +130,8 @@ Configuration :
 
 ## 如何整隻肉棒塞進去！
 
+[本次參考](https://bsky.app/profile/blusewill.bsky.social/post/3ksegdfn26i2c)
+
 這個就好玩了，到底要玩到什麼程度才會這樣呢？
 
 這個比較特別的地方是要使用一個關鍵字，`deep throat`
@@ -141,6 +143,8 @@ Configuration :
 那關於這個關鍵字我是建議越後面打越好，因為打在前面有可能會出事。
 
 ## 權重調整
+
+[本次參考](https://bsky.app/profile/blusewill.bsky.social/post/3ksjzg2a3p327)
 
 昨天花了大概快要三個小時的時間，就為了讓他漏液
 
@@ -162,11 +166,15 @@ Configuration :
 
 今天 UI 更新成 [StableSwarmUI](https://github.com/Stability-AI/StableSwarmUI)
 
+![StableSwarmUI](../../img/SD/StableSwarmUI.png)
+
 效率確實有變快，但是需要一點學習成本。
 
 但是同時也可以研究很多功能，但是 ComfyUI 目前應該還不會碰到。
 
 ## 上背景
+
+[本次參考](https://bsky.app/profile/blusewill.bsky.social/post/3kswitek3qs22)
 
 上背景有可能很難也有可能很簡單。
 
@@ -188,6 +196,8 @@ Configuration :
 
 ## 不同的角度
 
+[本次參考](https://bsky.app/profile/blusewill.bsky.social/post/3ksegdfn26i2c)
+
 有時候不同的拍攝角度很重要，正常來說你可以用相機拍照的術語
 
 像是
@@ -199,3 +209,17 @@ Configuration :
 `High Angle` 從上往下拍
 
 等等的拍攝角度都可以帶來不同的場景，大家也去玩看看吧！
+
+## 衣服們
+
+[本次參考](https://bsky.app/profile/blusewill.bsky.social/post/3kt3bqsxav22w)
+
+剛剛講過了脫衣服，要不然來講穿什麼好了
+
+那當然，有些模型會根據場景來穿衣服
+
+但是如果是雙人場景的話，衣服就要思考一下要穿什麼
+
+像是我這邊就給橘色他上了吊嘎 (Tank Top) 然後醫生就不打，因為場景是診間，所以會自動穿上醫生服
+
+那還有褲子也是可以這樣指定的，像是運動短褲 (Sport Shorts) 也是可以的歐
