@@ -48,7 +48,7 @@ VPN 是一個賺錢項目，多賺錢呢
 
 但是你不知道的是，這兩間其實都是同一家廠商
 
-![NordVPN Merge with Surfshark VPN](../img/vpn-2024/NordVPN-Merge-Surfshark.png)
+![NordVPN Merge with Surfshark VPN](../../img/vpn-2024/NordVPN-Merge-Surfshark.png)
 
 他們的客服可能是不同人，但是技術可能都是一樣的。
 
@@ -68,7 +68,7 @@ VPN 的連線跟一個橋很像，而沒有人可以上這座橋，這也是很�
 
 我們來看一下 NordVPN 宣傳甚麼
 
-![Claims about NordVPN Security etc...](../img/vpn-2024/NordVPN-Claim.png)
+![Claims about NordVPN Security etc...](../../img/vpn-2024/NordVPN-Claim.png)
 
 Hmm 先進技術？
 
@@ -76,7 +76,7 @@ Hmm 先進技術？
 
 免受陌生人窺視？其實為甚麼今天拿 NordVPN 來當範例是因為 NordVPN 有被資料外洩過，但是 NordVPN 承認說沒有使用者的資料被外洩，但是是真的還是假的呢，目前沒有人知道。
 
-![NordVPN Data Breach](../img/vpn-2024/NordVPN-databreach.png)
+![NordVPN Data Breach](../../img/vpn-2024/NordVPN-databreach.png)
 
 還有一些 YouTuber 說 VPN 可以替代防毒軟體的，千萬不要相信阿！
 
@@ -96,7 +96,7 @@ Hmm 先進技術？
 
 那他們的支付方式也很多元
 
-![Mullvad Payment Method](../img/vpn-2024/mullvad-payment-method.png)
+![Mullvad Payment Method](../../img/vpn-2024/mullvad-payment-method.png)
 
 你可以看到有一堆你想都沒有想過的，但是 mullvad 很多都是給國外使用者的，所以你大概只能用加密貨幣，信用卡還有 Paypal 了
 
@@ -106,7 +106,7 @@ Hmm 先進技術？
 
 雖說我剛剛都說 VPN 很安全，但是 [Tor](https://www.torproject.org/) 也是一個不錯的選項
 
-![TorProjectWebsite](../img/vpn-2024/Tor-Project.png)
+![TorProjectWebsite](../../img/vpn-2024/Tor-Project.png)
 
 Tor 最有名的應該就是暗網了吧，但是你不知道的是 Tor 這個技術也是一個非常安全的技術。
 
