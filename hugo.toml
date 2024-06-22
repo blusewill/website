@@ -749,10 +749,10 @@ enableEmoji = true
 
   # Analytics config
   [params.analytics]
-    enable = false
+    enable = true
     # Google Analytics
     [params.analytics.google]
-      id = ""
+      id = "G-LD46M1WJGJ"
       # whether to anonymize IP
       anonymizeIP = true
     # Fathom Analytics
