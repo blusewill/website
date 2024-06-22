@@ -17,7 +17,6 @@ tags:
   - Twitch
   - OBS
   - Streamer
-  - 設定  
 categories:
   - 直播工具教學
 hiddenFromHomePage: false
@@ -35,7 +34,7 @@ repost:
 
 <!--more-->
 
-有時候有沒有想說可以在 Twitch 直播的時候播放音樂，但是直播結束之後整個片段都被靜音了呢？
+有時候有沒有想說在 Twitch 直播的時候播放音樂，但是直播結束之後整個片段都被靜音了呢？
 
 我非常的討厭這件事情，所以今天我要教你如何設定 VOD Track 將音樂從 VOD 中分開！
 
