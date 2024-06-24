@@ -3,7 +3,7 @@ title: Twitch 實況主必學！將音樂從 VOD 分開！
 subtitle:
 date: 2024-06-23T00:49:40+08:00
 slug: 6e86ed2
-draft: true
+draft: false
 author: 
   name: blusewill
   link: https://blusewill.us.to/
@@ -17,7 +17,6 @@ tags:
   - Twitch
   - OBS
   - Streamer
-  - 設定  
 categories:
   - 直播工具教學
 hiddenFromHomePage: false
@@ -35,11 +34,15 @@ repost:
 
 <!--more-->
 
-有時候有沒有想說可以在 Twitch 直播的時候播放音樂，但是直播結束之後整個片段都沒有聲音了呢？
+有時候有沒有想說在 Twitch 直播的時候播放音樂，但是直播結束之後整個片段都被靜音了呢？
 
 我非常的討厭這件事情，所以今天我要教你如何設定 VOD Track 將音樂從 VOD 中分開！
 
 ## 前製作業 (分軌)
+
+首先要做的事情就是把我們的聲音分開拉！
+
+不用擔心，這對大部份人來講都不會太難
 
 ### Windows
 
@@ -63,7 +66,7 @@ repost:
 
 我這邊沒有 MacOS 的裝置，但是基本上大同小異
 
-這邊給予兩個程式研究 [BlackHole 2ch](https://rogueamoeba.com/loopback/) 還有 [loopback](https://existential.audio/blackhole/)
+這邊給予兩個程式給有 MacOS 的人研究 [BlackHole 2ch](https://rogueamoeba.com/loopback/) 還有 [Loopback](https://existential.audio/blackhole/)
 
 ### Linux
 
@@ -71,11 +74,17 @@ repost:
 
 https://github.com/blusewill/bash-script/blob/main/Streamaudio/audio-setup.sh
 
-之後我們就可以在音效設定要分配到那一個分軌，我這邊是用 PulseAudio Control Panel `pavucontrol`
+之後我們就可以在音效設定要分配到那一個分軌，我這邊是用 PulseAudio Volume Control `pavucontrol`
+
+![pavucontrol](../../img/vod-track/pavucontrol.png)
 
 之後我們在新增擷取音效輸出分別給不同的分軌就可以成功分軌了！
 
+![新增擷取音效輸出](../../img/vod-track/audio-capture-linux.png)
+
 那接下來就是一樣，去設定把桌面音效設定成無！
+
+![Linux OBS 音效設定](../../img/vod-track/audio-setting-linux.png)
 
 Linux 這邊的分軌也就設定好了歐，是時候來設定 VOD 分軌了！
 
