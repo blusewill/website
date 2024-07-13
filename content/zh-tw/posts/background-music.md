@@ -48,13 +48,16 @@ Twitch 直播的時候基本上都是用有版權的音樂，原因是因為 Twi
 ### 玩遊戲用的音樂
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5VAKLjCtQA2Rd2W0yHKiJ9?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
+### 寫程式用的音樂
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6x70sjvs2tBRUoCEVgKqJV?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 ## YouTube 影片用的音樂
 
 現在就要來講到 YouTube 影片用的音樂了。
 
-我自己平常會用三個平台推出的音樂
+我自己平常會用四個平台推出的音樂
 
-StreamBeats, OverClocked Remix, Gamechops
+StreamBeats, OverClocked Remix, Gamechops, CHOMPO
 
 這三個音樂平台都是沒有版權的，而且又很符合我的胃口。
 
@@ -95,7 +98,7 @@ BT 下載 https://ocremix.org/torrents
 
 ### GameChops
 
-最後就是 GameChops 了，這也是最近都在用的服務，非常多的遊戲音樂 Remix 不是到 OCReMix 就是到這裡來。
+再來就是 GameChops 了，這也是最近都在用的服務，非常多的遊戲音樂 Remix 不是到 OCReMix 就是到這裡來。
 
 #### 下載 GameChops 的音樂
 GameChops 唯一的缺點就是無法免費下載一些音樂，需要透過 bandcamp 進行購買。
@@ -111,6 +114,31 @@ GameChops 主要還是在做串流的，全平台像是 YouTube Music, Spotify, 
 這邊就放上 GameChops 的 Spotify 給你們聽聽看
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/1T7zBkQCOCacKjbnmFX7cp?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+### CHOMPO
+
+最後就是我們的 2D 小恐龍 CHOMPO！
+
+CHOMPO 是一個~~盜用 Fortnite~~的音樂服務，裡面有很多非常有名的 DJ 像是
+
+Tokyo Machine, Hyper Potions, MYLK
+
+都有在 CHOMPO 上面發行他們的音樂！
+
+#### 串流 CHOMPO 的音樂
+
+你可以透過 
+[YouTube Music](https://music.youtube.com/channel/UCT_rvig_6XwdnQ2nseVSdSA)
+[Spotify](https://open.spotify.com/artist/57RgCFctPZxV6fT5YZ5xfT?si=p9hZmD7FQnm4kUPhHZGi6w)
+來播放 2D 小恐龍授權的音樂！
+
+#### 下載 CHOMPO 的音樂
+
+CHOMPO 目前需要付費才可以下載他們的音樂，你需要去他們的 [Pateron](https://www.patreon.com/CHOMPO) 來支持他們，才可以下載
+
+也很便宜，一個月只要 1.25 美元就可以全套帶回家！
+
+相信我，你一定不會後悔訂閱 CHOMPO 的！
 
 ## 總結
 挑選一個好的背景音樂沒有很簡單，有時候可能會花上好幾個小時的時間挑選。
