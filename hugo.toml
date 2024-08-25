@@ -25,10 +25,10 @@ defaultContentLanguage = "en"
 copyright = ""
 
 # whether to use robots.txt
-enableRobotsTXT = true
+enableRobotsTXT = false
 
 # whether to use git commit log
-enableGitInfo = true
+enableGitInfo = false
 
 # whether to use emoji code
 enableEmoji = true
@@ -191,7 +191,7 @@ enableEmoji = true
 # -------------------------------------------------------------------------------------
 
 [related]
-  includeNewer = false
+  includeNewer = true 
   threshold = 80
   toLower = false
 [[related.indices]]
@@ -416,7 +416,7 @@ enableEmoji = true
   # remember to set up your site subtitle by `params.header.subtitle.name`
   indexWithSubtitle = false
   # FixIt 0.2.14 | NEW FixIt will, by default, inject a theme meta tag in the HTML head on the home page only.
-  # You can turn it off, but we would really appreciate if you don’t, as this is a good way to watch FixIt's popularity on the rise.
+  # You can turn it off, but we would really appreciate if you don't, as this is a good way to watch FixIt's popularity on the rise.
   disableThemeInject = false
 
   # Author Configuration
@@ -488,25 +488,49 @@ enableEmoji = true
       ignoreFieldNorm = false
 
   # Header config
-  [params.header]
+  [languages.en.params.header]
     # FixIt 0.2.13 | CHANGED desktop header mode ["sticky", "normal", "auto"]
     desktopMode = "sticky"
     # FixIt 0.2.13 | CHANGED mobile header mode ["sticky", "normal", "auto"]
     mobileMode = "auto"
     # Header title config
-    [params.header.title]
+    [languages.en.params.header.title]
       # URL of the LOGO
       logo = ""
       # title name
-      name = ""
+      name = "blusewill's Website"
       # you can add extra information before the name (HTML format is supported), such as icons
       pre = ""
       # you can add extra information after the name (HTML format is supported), such as icons
       post = ""
       # whether to use typeit animation for title name
-      typeit = false
+      typeit = true
     # FixIt 0.2.12 | NEW Header subtitle config
-    [params.header.subtitle]
+    [languages.en.params.header.subtitle]
+      # subtitle name
+      name = ""
+      # whether to use typeit animation for subtitle name
+      typeit = false
+
+  [languages.zh-TW.params.header]
+    # FixIt 0.2.13 | CHANGED desktop header mode ["sticky", "normal", "auto"]
+    desktopMode = "sticky"
+    # FixIt 0.2.13 | CHANGED mobile header mode ["sticky", "normal", "auto"]
+    mobileMode = "auto"
+    # Header title config
+    [languages.zh-TW.params.header.title]
+      # URL of the LOGO
+      logo = ""
+      # title name
+      name = "小品大大的網站"
+      # you can add extra information before the name (HTML format is supported), such as icons
+      pre = ""
+      # you can add extra information after the name (HTML format is supported), such as icons
+      post = ""
+      # whether to use typeit animation for title name
+      typeit = true
+    # FixIt 0.2.12 | NEW Header subtitle config
+    [languages.zh-TW.params.header.subtitle]
       # subtitle name
       name = ""
       # whether to use typeit animation for subtitle name
@@ -621,7 +645,7 @@ enableEmoji = true
     [languages.en.params.home.posts]
       enable = false
       # special amount of posts in each home posts page
-      paginate = 6
+      paginate = 0
 
   [languages.zh-TW.params.home]
     # amount of RSS pages
