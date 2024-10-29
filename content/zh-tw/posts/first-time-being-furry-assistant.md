@@ -2,6 +2,7 @@
 title: 去獸展第一次當上馬內的故事
 subtitle: 非常的累...真的
 date: 2024-10-30T02:07:16+08:00
+lastmod: 2024-10-30T02:07:16+08:00
 slug: 72bdecb
 draft: false
 author: 
