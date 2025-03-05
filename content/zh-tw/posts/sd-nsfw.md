@@ -16,6 +16,7 @@ comment: true
 weight: 0
 tags:
   - Stable Diffusion
+  - Notes
 categories:
   - 小品的筆記簿
 hiddenFromSearch: false
