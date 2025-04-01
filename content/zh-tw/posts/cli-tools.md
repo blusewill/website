@@ -2,7 +2,7 @@
 title: 好用的終端機工具筆記 （持續更新中）
 subtitle:
 date: 2024-05-19T21:09:57+08:00
-lastmod: 2024-05-20T00:47:50+08:006
+lastmod: 2024-05-20T00:47:50+08:00
 slug: 6adac2b
 draft: false
 author: 

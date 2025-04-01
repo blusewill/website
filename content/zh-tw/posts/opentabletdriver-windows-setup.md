@@ -2,7 +2,7 @@
 title: 在 Windows 上面設定 OpenTabletDriver
 subtitle:
 date: 2024-11-27T01:54:16+08:00
-lastmod: 2024-11-27T01:54:16+08:0
+lastmod: 2024-11-27T01:54:16+08:00
 0slug: 7cbfed0
 draft: false 
 author: 
