@@ -1,10 +1,10 @@
 ---
 title: Windows 11 消除了 BypassNRO！？
 subtitle: 別擔心，這邊教你最快繞過方法
-date: 2025-04-04T16:46:34+08:00
-lastmod: 2025-04-04T16:46:34+08:00
+date: 2025-04-06T17:56:50+08:00
+lastmod: 2025-04-06T17:56:50+08:00
 slug: 6d193ae
-draft: true
+draft: false
 author: 
   name: blusewill
   link: https://blusewill.us.to/
@@ -53,7 +53,11 @@ repost:
 
 打上 `start ms-cxh:localonly`
 
+![start ms-cxh:localonly](../../img/BypassNRO/localonly-oobe.png)
+
 你就會看到他會出現創建一個使用者，然後你就可以打上帳號名稱跟密碼
+
+![create_user](../../img/BypassNRO/localonly-create-user.png)
 
 按下下一步之後就可以只接跳過全部的設定，直接登入！
 
@@ -123,13 +127,21 @@ shutdown /r /t 0
 
 第一步是按下 `Shift + F10` 打上 `regedit` 打開登錄檔
 
+![Example of Regedit](../../img/BypassNRO/regedit.png)
+
 之後找到`HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\OOBE` 的機碼
+
+![Regedit Path Example](../../img/BypassNRO/regedit_path_example.png)
 
 裡面在右鍵新增一個 `DWORD（32-位元）` 的值，然後取名叫做 BypassNRO
 
 之後點開來，設定為 1
 
+![Regedit BypassNRO Value](../../img/BypassNRO/BypassNRO_value.png)
+
 之後回到 `cmd` 輸入 `shutdown /r /t 0` 把電腦重新開機就可以設定好了！
+
+![Shutdown Command Exmaple](../../img/BypassNRO/shutdown_command_example.png)
 
 <del>講實話的，為什麼不要直接打一開始的指令就好了</del>
 
@@ -193,5 +205,8 @@ MicroWin 除了可以幫你減輕 Windows 的重量，其實他還可以幫你�
 
 我們就下一篇文章見拉！
 
+## 影片教學
+
+{{< youtube VTjF-IBmOLM >}}
 
 <!--more-->
