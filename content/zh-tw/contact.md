@@ -61,10 +61,6 @@ blusewill (Main)
 
 nelsonbiker (Alt)
 
-## Guilded
-
-[blusewill](https://guilded.gg/u/blusewillofficial)
-
 # [Phoenixim](https://phoenixim.ddns.net/) Server
 
 AOL Instant Messenger : blusewill [Click Here to Add to the Buddy List](aim:addbuddy?screenname=blusewill)
