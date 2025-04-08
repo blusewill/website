@@ -152,7 +152,7 @@ Linux 目前的系統有分以下兩種模式
 
 這是目前最穩定且最多教學的系統，最適合初學者了
 
-之後我們在來安裝 [Arch Linux](https://archlinux.org)
+之後我們再來安裝 [Arch Linux](https://archlinux.org)
 
 這個雖說沒有到很穩定，但是他在 Linux 界因為套件支援度的原因，所以很知名！
 
