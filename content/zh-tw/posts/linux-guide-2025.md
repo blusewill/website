@@ -312,7 +312,7 @@ Linux 系統**一定**要設定密碼，要不然你會沒有辦法使用很多�
 
 如果你是安裝 KDE 你會看到 SDDM
 
-![SDDM](https://preview.redd.it/i-tweaked-the-default-plasma-sddm-theme-to-make-the-clock-v0-y4rvm703qyla1.png?width=1920&format=png&auto=webp&s=6cf44de9951bdd931a06987fc5a9c0b80e5f92bc)
+![SDDM](../../img/Linux-Guide-2025/SDDM-login.png)
 
 那一樣就是使用密碼登入，你就可以登入了！
 
