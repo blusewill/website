@@ -188,7 +188,7 @@ https://www.debian.org/download.zh-tw.html
 
 ### 安裝設定
 
-![Debian Installer Language](../img/Linux-Guide-2025/Debian-installer-language.png)
+![Debian Installer Language](../../img/Linux-Guide-2025/Debian-installer-language.png)
 
 第一個步驟就是選擇語言，你選擇一個你偏好的語言就好。
 
@@ -196,21 +196,21 @@ https://www.debian.org/download.zh-tw.html
 
 之後選擇你的地區
 
-![Debian Installer Location](../img/Linux-Guide-2025/Debian-installer-location.png) 
+![Debian Installer Location](../../img/Linux-Guide-2025/Debian-installer-location.png) 
 
 再來設定你的鍵盤，基本上都是預設就好
 
-![Debian Installer Keyboard Layout](../img/Linux-Guide-2025/Debian-installer-keyboard-layout.png)
+![Debian Installer Keyboard Layout](../../img/Linux-Guide-2025/Debian-installer-keyboard-layout.png)
 
 之後他就會開始跑設定，就等等他一下！
 
 再來設定你的主機名稱
 
-![Debian installer Hostname](../img/Linux-Guide-2025/Debian-installer-hostname.png)
+![Debian installer Hostname](../../img/Linux-Guide-2025/Debian-installer-hostname.png)
 
 然後網域名稱留空，日常使用不會用到
 
-![Debian Installer Root Account](../img/Linux-Guide-2025/Debian-installer-root.png)
+![Debian Installer Root Account](../../img/Linux-Guide-2025/Debian-installer-root.png)
 
 ### 使用者設定
 
@@ -220,7 +220,7 @@ https://www.debian.org/download.zh-tw.html
 
 那我這邊就不設定了
 
-![Debian Account Setup](../img/Linux-Guide-2025/Debian-installation-account-setup.png)
+![Debian Account Setup](../../img/Linux-Guide-2025/Debian-installation-account-setup.png)
 
 之後我們來設定使用者，這邊他會要你填寫全名
 
@@ -228,7 +228,7 @@ https://www.debian.org/download.zh-tw.html
 
 那 Debian 也很好的幫你把全名跟使用者名稱都設定成一樣的，直接按下一步就好
 
-![Debian Account Password](../img/Linux-Guide-2025/Debian-installer-password.png)
+![Debian Account Password](../../img/Linux-Guide-2025/Debian-installer-password.png)
 
 之後到了設定密碼，這個地方很重要！
 
@@ -238,17 +238,17 @@ Linux 系統**一定**要設定密碼，要不然你會沒有辦法使用很多�
 
 ### 磁碟分割
 
-![Debian Installer Disk Utilty](../img/Linux-Guide-2025/Debian-installer-disk-utilty.png)
+![Debian Installer Disk Utilty](../../img/Linux-Guide-2025/Debian-installer-disk-utilty.png)
 
 之後我們就到了分割的部份，那你可以看到他這邊有導引，算是一個不錯的功能
 
 那我們這邊就使用整顆硬碟 **注意：這會把你的所有資料都格式化掉**
 
-![Debian Installer Select Hard Drive](../img/Linux-Guide-2025/Debian-installer-select-harddrive.png)
+![Debian Installer Select Hard Drive](../../img/Linux-Guide-2025/Debian-installer-select-harddrive.png)
 
 選擇我們的硬碟之後按繼續，你就會發現一些神奇的選項
 
-![Debian Installer Split Partition](../img/Linux-Guide-2025/Debian-split-partition.png)
+![Debian Installer Split Partition](../../img/Linux-Guide-2025/Debian-split-partition.png)
 
 其實 Linux 可以把其中一個資料夾變成硬碟，不像是 Windows 有分 C:\ D:\
 
@@ -258,7 +258,7 @@ Linux 系統**一定**要設定密碼，要不然你會沒有辦法使用很多�
 
 那當然今天我們只有用一顆硬碟，所以我們就選最上面的不要獨立。
 
-![Debian Installer Partition Confirm](../img/Linux-Guide-2025/Debian-installer-partition-end.png)
+![Debian Installer Partition Confirm](../../img/Linux-Guide-2025/Debian-installer-partition-end.png)
 
 之後我們就可以結束並且寫到磁碟中了！
 
@@ -274,7 +274,7 @@ Linux 系統**一定**要設定密碼，要不然你會沒有辦法使用很多�
 
 會在這個畫面顯示出來
 
-![Debian Installer Tasksel](../img/Linux-Guide-2025/Debian-installer-tasksel.png)
+![Debian Installer Tasksel](../../img/Linux-Guide-2025/Debian-installer-tasksel.png)
 
 那這就是其他上千個系統為什麼都長的不一樣的地方
 
@@ -298,13 +298,13 @@ Linux 系統**一定**要設定密碼，要不然你會沒有辦法使用很多�
 
 那他這邊預設是 GNOME 就安裝 GNOME 吧
 
-![Debian Installation Complete](../img/Linux-Guide-2025/Debian-installer-install-complete.png)
+![Debian Installation Complete](../../img/Linux-Guide-2025/Debian-installer-install-complete.png)
 
 然後我們就安裝完成了！可以重開了
 
 ## 進入系統
 
-![GDM](../img/Linux-Guide-2025/GDM-login.png)
+![GDM](../../img/Linux-Guide-2025/GDM-login.png)
 
 之後你就會看到鎖定畫面，依照你安裝的不同系統，會有不同的樣式
 
@@ -358,7 +358,7 @@ WM (Window Manager) 代表的是**視窗管理器**，有像是 Hyprland, bspwm,
 
 這個是 Hyprland 的樣子
 
-![hyprland example](../img/Linux-Guide-2025/WM-Exmaple.png)
+![hyprland example](../../img/Linux-Guide-2025/WM-Exmaple.png)
 
 你可以看到他會自動並排，這算是 WM 的特點，加上因為都使用快捷鍵的原因
 
