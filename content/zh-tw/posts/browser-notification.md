@@ -54,7 +54,7 @@ repost:
 
 我說的不是那種新聞電子報，我說的是類似這樣的東西
 
-![](../../img/Browser-notification/Screenshot_win11-test_2025-04-14_01:13:38.png)
+![](../../img/Browser-notification/Screenshot_win11-test_2025-04-14_01_13_38.png)
 
 雖說他原本的利益是要取代 RSS 但是後面被變到這種地步，好像也不是好事
 
