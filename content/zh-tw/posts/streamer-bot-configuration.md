@@ -127,7 +127,9 @@ YouTube 帳號就跟登入 Twitch 帳號一樣簡單
 
 選擇帳號這邊有很重要的一點
 
-要記得勾選上面
+要記得勾選上面的管理你的 YouTube 帳號
+
+![Allow Manage Your YouTube Account](../../img/streamer-bot-configuration/manage_youtube-account.png)
 
 之後就可以登入了！
 
