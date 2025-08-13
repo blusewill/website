@@ -2,7 +2,7 @@
 title: Streamer.bot 筆記 (持續更新中)
 subtitle:
 date: 2025-06-21T01:59:00+08:00
-lastmod: 2025-06-21T01:59:00+08:00
+lastmod: 2025-06-21T17:28:00+08:00
 slug: ea7ec9c
 draft: false
 author: 
@@ -34,6 +34,8 @@ repost:
 
 # See details front matter: https://fixit.lruihao.cn/documentation/content-management/introduction/#front-matter
 ---
+
+# 目前文章使用 Streamer.bot 0.2.8 會在 Streamer.bot 1.0.0 發布後更新此教學，如果需要提前觀看 Streamer.bot 1.0.0 的教學，[請按這個地方](https://chimerical-halva-267111.netlify.app/zh-tw/posts/ea7ec9c)
 
 不知道你們想到 Twitch 或是 YouTube 上面的機器人你們會想到什麼。
 
