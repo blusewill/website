@@ -35,6 +35,8 @@ repost:
 # See details front matter: https://fixit.lruihao.cn/documentation/content-management/introduction/#front-matter
 ---
 
+# 目前文章使用 Streamer.bot 0.2.8 會在 Streamer.bot 1.0.0 發布後更新此教學，如果需要提前觀看 Streamer.bot 1.0.0 的教學，[請按這個地方](https://chimerical-halva-267111.netlify.app/zh-tw/posts/ea7ec9c)
+
 不知道你們想到 Twitch 或是 YouTube 上面的機器人你們會想到什麼。
 
 是 Nightbot 還是像是 StreamElements 或 Streamlabs 會附送給你的機器人呢？
