@@ -522,7 +522,7 @@ https://widgets.nutty.gg/multistream-alerts/settings/
 
 但是這個測試就很麻煩了，你會需要建立一個新的 Streamer.bot 的 Event
 
-然後在上面的 Trigger 添加一個你想要測試的東西，我這邊是用 Twitch > Channel > Follow
+然後在上面的 Trigger 添加一個你想要測試的東西，我這邊是用 Add > Twitch > Channel > Follow
 
 然後對它按下右鍵，按下 Simulate Event (Edit)
 
