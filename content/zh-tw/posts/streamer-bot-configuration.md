@@ -2,7 +2,7 @@
 title: Streamer.bot 筆記 (持續更新中)
 subtitle:
 date: 2025-06-21T01:59:00+08:00
-lastmod: 2025-06-21T01:59:00+08:00
+lastmod: 2025-08-13T17:13:00+08:00
 slug: ea7ec9c
 draft: false
 author: 
@@ -59,11 +59,11 @@ repost:
 
 按下左手邊的 Download Now
 
-![streamer.bot 的網站](../img/streamer-bot-configuration/Streamerbot_website.png)
+![streamer.bot 的網站](../../img/streamer-bot-configuration/Streamerbot_website.png)
 
 然後你就會帶到下載頁面，我們就按下左邊的 Streamer.bot 就好了！
 
-![Streamer.bot Download Stable Release](../img/streamer-bot-configuration/Streamer.bot%20Download%20Stable%20Release.png)
+![Streamer.bot Download Stable Release](../../img/streamer-bot-configuration/Streamer.bot%20Download%20Stable%20Release.png)
 
 之後你就會開始下載一個壓縮檔，我們把它節壓縮之後打開裡面的 `Streamer.bot.exe` 就會啟動你的 Streamer.bot 了。
 
@@ -73,7 +73,7 @@ repost:
 
 當你第一次打開 Streamer.bot 的時候一定就會想說。
 
-![New Streamer.bot UI](../img/streamer-bot-configuration/streamer-bot.png)
+![New Streamer.bot UI](../../img/streamer-bot-configuration/streamer-bot.png)
 
 這個我上次看到的教學不一樣！
 
@@ -85,7 +85,7 @@ repost:
 
 也就代表我們不用在看到這種畫面拉！
 
-![Streamer-bot-old-ui](../img/streamer-bot-configuration/Streamer.bot_old.png)
+![Streamer-bot-old-ui](../../img/streamer-bot-configuration/Streamer.bot_old.png)
 
 ## 綁定 Twitch/YouTube/Kick 帳號
 
@@ -93,7 +93,7 @@ repost:
 
 我們在首頁按下第三個選項 Platforms，或是在右邊選擇 Platforms
 
-![Streamer.bot Homepage Platforms](../img/streamer-bot-configuration/Homepage-platforms.png)
+![Streamer.bot Homepage Platforms](../../img/streamer-bot-configuration/Homepage-platforms.png)
 
 按下去之後你就會看到三個平台
 
@@ -103,7 +103,7 @@ Twitch YouTube Kick 跟 Trovo
 
 我們到 Twitch 或 Kick 之後按下 看到 Accounts 的部份
 
-![Twitch Accounts](../img/streamer-bot-configuration/Twitch%20Accounts.png)
+![Twitch Accounts](../../img/streamer-bot-configuration/Twitch%20Accounts.png)
 
 這時候你就會看到它分上下兩個帳號，上面是你要拿來直播的帳號，下面是拿來當機器人的帳號
 
@@ -113,7 +113,7 @@ Twitch YouTube Kick 跟 Trovo
 
 之後就會長這樣子！
 
-![Logined Twitch Account](../img/streamer-bot-configuration/Twitch_Loggedin.png)
+![Logined Twitch Account](../../img/streamer-bot-configuration/Twitch_Loggedin.png)
 
 就表示你的帳號已經登入了！
 
@@ -123,11 +123,11 @@ YouTube 帳號就跟登入 Twitch 帳號一樣簡單
 
 你只是你需要先同意條約
 
-![YouTube streamer.bot ToS](../img/streamer-bot-configuration/Streamer.bot_YouTube_ToS.png)
+![YouTube streamer.bot ToS](../../img/streamer-bot-configuration/Streamer.bot_YouTube_ToS.png)
 
 按下同意之後也是到 Account 這個地方
 
-![YouTube Account](../img/streamer-bot-configuration/sign%20in%20with%20Google.png)
+![YouTube Account](../../img/streamer-bot-configuration/sign%20in%20with%20Google.png)
 
 然後按下 Sign in With Google 的按紐
 
@@ -135,7 +135,7 @@ YouTube 帳號就跟登入 Twitch 帳號一樣簡單
 
 要記得勾選上面的管理你的 YouTube 帳號
 
-![Allow Manage Your YouTube Account](../img/streamer-bot-configuration/manage_youtube-account.png)
+![Allow Manage Your YouTube Account](../../img/streamer-bot-configuration/manage_youtube-account.png)
 
 之後就可以登入了！
 
@@ -143,7 +143,7 @@ YouTube 帳號就跟登入 Twitch 帳號一樣簡單
 
 所以你需要打開下面的的 Auto Connect 的開關才可以每次打開 Streamer.bot 的時候自動連接到 YouTube
 
-![Auto Connect YouTube](../img/streamer-bot-configuration/Auto%20Connect%20YouTube.png)
+![Auto Connect YouTube](../../img/streamer-bot-configuration/Auto%20Connect%20YouTube.png)
 
 這樣子我們雙平台的帳號就都設定完成了！
 
@@ -155,7 +155,7 @@ YouTube 帳號就跟登入 Twitch 帳號一樣簡單
 
 而且不需要任何的插件，你只需要去 **OBS 上面的工具 > WebSocket 伺服器設定**
 
-![OBS Websocket Setup](../img/streamer-bot-configuration/obs-webscoket-setting-menu.png)
+![OBS Websocket Setup](../../img/streamer-bot-configuration/obs-webscoket-setting-menu.png)
 
 之後打勾第一個選項 **啟用 WebSocket 伺服器**
 
@@ -163,31 +163,31 @@ YouTube 帳號就跟登入 Twitch 帳號一樣簡單
 
 如果你不想要設定密碼的話可以關閉，那你也可以設定密碼。
 
-![OBS Websocket](../img/streamer-bot-configuration/OBS%20Websocket%20Settings.png)
+![OBS Websocket](../../img/streamer-bot-configuration/OBS%20Websocket%20Settings.png)
 
 如果想要查看你的密碼的話，你可以按下下面的**顯示連線資訊**來查看密碼。
 
-![OBS Show Connection Info](../img/streamer-bot-configuration/OBS_Show_Connection_Info.png)
+![OBS Show Connection Info](../../img/streamer-bot-configuration/OBS_Show_Connection_Info.png)
 
 設定好之後按下確定，我們就可以回到 Streamer.bot 的首頁（左上角的 Home 按鈕）
 
 然後按下第四個選項 Stream Apps
 
-![Stream-apps-homepage-streamer.bot](../img/streamer-bot-configuration/Stream-apps-homepage-streamer.bot.png)
+![Stream-apps-homepage-streamer.bot](../../img/streamer-bot-configuration/Stream-apps-homepage-streamer.bot.png)
 
 然後按下 OBS Studio 的選項
 
-![Select Stream Apps](../img/streamer-bot-configuration/Select-Stream-Apps.png)
+![Select Stream Apps](../../img/streamer-bot-configuration/Select-Stream-Apps.png)
 
 之後你就會帶到這個畫面！
 
-![Stream Apps OBS Streamer.bots](../img/streamer-bot-configuration/streamer-bot-obs.png)
+![Stream Apps OBS Streamer.bots](../../img/streamer-bot-configuration/streamer-bot-obs.png)
 
 然後對中間的視窗按下右鍵，按下 Add
 
 之後你就會看到這個畫面
 
-![OBS Add Connection](../img/streamer-bot-configuration/Add_OBS_Connection.png)
+![OBS Add Connection](../../img/streamer-bot-configuration/Add_OBS_Connection.png)
 
 在 Name 幫你的 OBS 連線取名
 
@@ -223,11 +223,11 @@ YouTube 帳號就跟登入 Twitch 帳號一樣簡單
 
 通常如果你是第一次用 Streamer.bot 基本上都是空的
 
-![Empty Actions](../img/streamer-bot-configuration/empty_acitons.png)
+![Empty Actions](../../img/streamer-bot-configuration/empty_acitons.png)
 
 所以我們要新增新的動作的話，就在左邊最大的框框 Actions 按下右鍵，之後按下 Add
 
-![Add Action](../img/streamer-bot-configuration/Add_Action_Easy_Version.png)
+![Add Action](../../img/streamer-bot-configuration/Add_Action_Easy_Version.png)
 
 你就會看到這裡的選項怎麼這麼多，那由於這邊還是簡易的設定，所以目前你不會動到 Group 以下的設定。
 
@@ -249,7 +249,7 @@ YouTube 帳號就跟登入 Twitch 帳號一樣簡單
 
 我們對他按下右鍵，之後到 Add 展開之後，你就會發現怎麼會有這麼多選項！？
 
-![Trigger Options](../img/streamer-bot-configuration/Trigger%20Options.png)
+![Trigger Options](../../img/streamer-bot-configuration/Trigger%20Options.png)
 
 沒錯！記得我剛剛說他什麼都能做到嗎？
 
@@ -265,13 +265,13 @@ YouTube 帳號就跟登入 Twitch 帳號一樣簡單
 
 它就會跳出這個視窗
 
-![Command Triggered](../img/streamer-bot-configuration/command_triggered.png)
+![Command Triggered](../../img/streamer-bot-configuration/command_triggered.png)
 
 你可以在中間選擇選你想要的指令，那想要新增新的指令就按下左下角的 Create Command
 
 之後就會出現這個畫面
 
-![Add Command](../img/streamer-bot-configuration/Add%20Command.png)
+![Add Command](../../img/streamer-bot-configuration/Add%20Command.png)
 
 這個就是添加指令的畫面。
 
@@ -301,7 +301,7 @@ YouTube 帳號就跟登入 Twitch 帳號一樣簡單
 
 接下來我們看到 Sources 的部份，這個代表的是要在哪些地方觸發
 
-![Command Trigger Source](../img/streamer-bot-configuration/command_triggered_source.png)
+![Command Trigger Source](../../img/streamer-bot-configuration/command_triggered_source.png)
 
 我們展開之後就可以看到 Twitch 聊天室，還有 YouTube 聊天室等等的東西
 
@@ -309,7 +309,7 @@ YouTube 帳號就跟登入 Twitch 帳號一樣簡單
 
 然後接下來我們展開下面的 Cooldown (冷卻時間)
 
-![Command Trigger Cooldown](../img/streamer-bot-configuration/command_trigger_cooldown.png)
+![Command Trigger Cooldown](../../img/streamer-bot-configuration/command_trigger_cooldown.png)
 
 如果你不想要有人同時一直刷同一個指令的話，你就可以在下面的冷卻時間設定。
 
@@ -325,7 +325,7 @@ YouTube 帳號就跟登入 Twitch 帳號一樣簡單
 
 接下來是右邊的 Permissions (權限設定)
 
-![Streamer.bot Permission Type](../img/streamer-bot-configuration/command_triggered_permission_type.png)
+![Streamer.bot Permission Type](../../img/streamer-bot-configuration/command_triggered_permission_type.png)
 
 我們看向上面的 Grant Type
 
@@ -347,11 +347,11 @@ Streamer.bot 很棒的地方就是他幫你分配成了兩類
 
 那 Group Permissions 它這邊有 Mod (大劍們) 跟 Subscribers (訂閱者) 還有 VIPs
 
-![user_permissions panel streamer.bot](../img/streamer-bot-configuration/User_permissions_streamer.bot.png)
+![user_permissions panel streamer.bot](../../img/streamer-bot-configuration/User_permissions_streamer.bot.png)
 
 那 User Permissions 的意思就是你可以分派給不同的使用者，上面選擇 User Permissions 之後呢，按下下面的 Add User(s) 就可以選擇使用者
 
-![Search User Permission](../img/streamer-bot-configuration/user_permissions_search.png)
+![Search User Permission](../../img/streamer-bot-configuration/user_permissions_search.png)
 
 你可以在上面搜尋你要找的 ID 然後按兩下添加到權限裡面！
 
@@ -365,7 +365,7 @@ Streamer.bot 很棒的地方就是他幫你分配成了兩類
 
 像是這個樣子
 
-![Commands 分頁](../img/streamer-bot-configuration/Commands_Tab.png)
+![Commands 分頁](../../img/streamer-bot-configuration/Commands_Tab.png)
 
 所以如果你想要分類的話，你可以透過 Groups
 
@@ -375,7 +375,7 @@ Streamer.bot 很棒的地方就是他幫你分配成了兩類
 
 最後呢！設定下來就會是這個樣子！
 
-![Finished Add Command Settings](../img/streamer-bot-configuration/finish_add_command_settings.png)
+![Finished Add Command Settings](../../img/streamer-bot-configuration/finish_add_command_settings.png)
 
 我這邊就設定這個在群組 `test group` 的指令 `test` 
 
@@ -392,7 +392,7 @@ Streamer.bot 很棒的地方就是他幫你分配成了兩類
 
 但是...我們還沒有說要讓他來幫我們做什麼啊！
 
-![](../img/streamer-bot-configuration/empty_acitons.png)
+![](../../img/streamer-bot-configuration/empty_acitons.png)
 
 這時後我們就可以看右下角的 Sub-Actions
 
@@ -400,7 +400,7 @@ Streamer.bot 很棒的地方就是他幫你分配成了兩類
 
 我們對 Sub-Actions 按下右鍵，你也可以看到跟 Triggers 一樣非常非常多的事情可以做。
 
-![Sub Actions Context Menu](../img/streamer-bot-configuration/Sub-Actions-context-menu.png)
+![Sub Actions Context Menu](../../img/streamer-bot-configuration/Sub-Actions-context-menu.png)
 
 那這邊就是可以讓你開始發揮創意的地方！
 
@@ -422,7 +422,7 @@ Streamer.bot 很棒的地方就是他幫你分配成了兩類
 
 那我這邊先使用 Twitch 的當作示範，但是 YouTube 的應該也很類似。
 
-![Send Message to Channel](../img/streamer-bot-configuration/send_message_to_channel.png)
+![Send Message to Channel](../../img/streamer-bot-configuration/send_message_to_channel.png)
 
 看到這個畫面之後呢，你就可以在上面打上任何你想要的訊息！
 
@@ -442,15 +442,15 @@ Streamer.bot 很棒的地方就是他幫你分配成了兩類
 
 我們只要按下上面的 Chat
 
-![Streamer.bot Chat Location](../img/streamer-bot-configuration/streamer-bot-chat-open-location.png)
+![Streamer.bot Chat Location](../../img/streamer-bot-configuration/streamer-bot-chat-open-location.png)
 
 就可以打開 Streamer.bot 的聊天室了！
 
-![Streamer.bot Chat](../img/streamer-bot-configuration/streamer_bot_chat.png)
+![Streamer.bot Chat](../../img/streamer-bot-configuration/streamer_bot_chat.png)
 
 這時候我們就只要打上我剛剛的 `!test`
 
-![streamer.bot test message](../img/streamer-bot-configuration/test_message_streamer_bot.png)
+![streamer.bot test message](../../img/streamer-bot-configuration/test_message_streamer_bot.png)
 
 你就可以看到我的測試訊息發送出去了！
 
@@ -460,7 +460,7 @@ Streamer.bot 很棒的地方就是他幫你分配成了兩類
 
 所以我的 Twitch 有紀錄下來這個訊息！
 
-![Twitch test message](../img/streamer-bot-configuration/Twitch_test_command.png)
+![Twitch test message](../../img/streamer-bot-configuration/Twitch_test_command.png)
 
 你看，就連機器人都知道要訂閱我的網站 RSS 了！
 
@@ -502,7 +502,7 @@ Streamer.bot 很棒的地方就是他幫你分配成了兩類
 
 然後將上面的連接複製貼上到 OBS 裡面，就可以使用這個聊天室系統了
 
-![](../img/streamer-bot-configuration/multichat-configuration.png)
+![](../../img/streamer-bot-configuration/multichat-configuration.png)
 
 官方影片教學
 
@@ -553,9 +553,9 @@ https://widgets.nutty.gg/multistream-alerts/settings/
 
 訊息輸出像是這樣！
 
-![Raid Command](../img/streamer-bot-configuration/raid_example.png)
+![Raid Command](../../img/streamer-bot-configuration/raid_example.png)
 
-![Raid Command Twitch Example](../img/streamer-bot-configuration/Raid_Exmaple_Twitch.png)
+![Raid Command Twitch Example](../../img/streamer-bot-configuration/Raid_Exmaple_Twitch.png)
 
 然後同時它也會開啟 Raid！
 
@@ -567,15 +567,15 @@ U0JBRR+LCAAAAAAABADVV8+P3DQUviPxP4SRVlzq2fxwJklvZcSPSoBQW7igHhz7JWs1iYPjzMyqWqmI
 
 你需要把上面這一行複製起來，然後在 Streamer.bot 的上面按下 Import 的按紐
 
-![Streamer.bot Import](../img/streamer-bot-configuration/Streamer_bot_import.png)
+![Streamer.bot Import](../../img/streamer-bot-configuration/Streamer_bot_import.png)
 
 然後你就會看到上面寫著 Import String
 
-![Import Commands String](../img/streamer-bot-configuration/import-command-string.png)
+![Import Commands String](../../img/streamer-bot-configuration/import-command-string.png)
 
 就會出現關於這個指令的資訊！
 
-![Add Command](../img/streamer-bot-configuration/Add%20Command.png)
+![Add Command](../../img/streamer-bot-configuration/Add%20Command.png)
 
 按下右下方 Import 的按紐，你就可以導入了！
 
@@ -583,7 +583,7 @@ U0JBRR+LCAAAAAAABADVV8+P3DQUviPxP4SRVlzq2fxwJklvZcSPSoBQW7igHhz7JWs1iYPjzMyqWqmI
 
 對他按下右鍵，然後按下 Enabled
 
-![Enable Commands](../img/streamer-bot-configuration/Enable%20Commands.png)
+![Enable Commands](../../img/streamer-bot-configuration/Enable%20Commands.png)
 
 你就可以啟用這個指令了！
 
