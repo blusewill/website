@@ -57,9 +57,13 @@ repost:
 
 你只要去到他們的官方網站 https://streamer.bot/
 
-按下左手邊的 Streamer.bot v0.2.8
+按下左手邊的 Download Now
 
 ![streamer.bot 的網站](../../img/streamer-bot-configuration/Streamerbot_website.png)
+
+然後你就會帶到下載頁面，我們就按下左邊的 Streamer.bot 就好了！
+
+![Streamer.bot Download Stable Release](../../img/streamer-bot-configuration/Streamer.bot%20Download%20Stable%20Release.png)
 
 之後你就會開始下載一個壓縮檔，我們把它節壓縮之後打開裡面的 `Streamer.bot.exe` 就會啟動你的 Streamer.bot 了。
 
