@@ -35,8 +35,6 @@ repost:
 # See details front matter: https://fixit.lruihao.cn/documentation/content-management/introduction/#front-matter
 ---
 
-# 目前文章使用 Streamer.bot 0.2.8 會在 Streamer.bot 1.0.0 發布後更新此教學，如果需要提前觀看 Streamer.bot 1.0.0 的教學，[請按這個地方](https://chimerical-halva-267111.netlify.app/zh-tw/posts/ea7ec9c)
-
 不知道你們想到 Twitch 或是 YouTube 上面的機器人你們會想到什麼。
 
 是 Nightbot 還是像是 StreamElements 或 Streamlabs 會附送給你的機器人呢？
@@ -75,37 +73,39 @@ repost:
 
 當你第一次打開 Streamer.bot 的時候一定就會想說。
 
-什麼！？這是目前市面上功能最多的機器人系統？
+![New Streamer.bot UI](../../img/streamer-bot-configuration/streamer-bot.png)
 
-![Streamer.bot UI](../../img/streamer-bot-configuration/Streamer.bot.png)
+這個我上次看到的教學不一樣！
 
-對，你沒有看錯。
+也跟我上次進來這網站的時候不一樣！
 
-但是也不要慌張，它們最近也快要更新 UI 了！
+沒錯！我上次說了 Streamer.bot 目前正在更換 UI
 
-換成 UWP 的樣式
+目前已經完全更換成了 UWP 的樣式
 
-![Streamer bot alpha](../../img/streamer-bot-configuration/Streamer.bot_alpha.png)
+也就代表我們不用在看到這種畫面拉！
 
-所以在期待一下，雖說這樣用 UWP 有可能會導致 Linux 無法透過 Wine 進行使用。
+![Streamer-bot-old-ui](../../img/streamer-bot-configuration/Streamer.bot_old.png)
 
-但是由於目前它們還在 Debug 所以可能還不會發布這個版本！
+## 綁定 Twitch/YouTube/Kick 帳號
 
-## 綁定 Twitch/YouTube 帳號
+綁定這三個帳號應該是最大的優勢，畢竟你需要在這些平台直播。
 
-綁定這兩個帳號應該是最大的優勢，畢竟你需要在這些平台直播。
+我們在首頁按下第三個選項 Platforms，或是在右邊選擇 Platforms
 
-我們到上面的 Platforms 你就會看到三個平台
+![Streamer.bot Homepage Platforms](../../img/streamer-bot-configuration/Homepage-platforms.png)
 
-Twitch YouTube 跟 Trovo
+按下去之後你就會看到三個平台
 
-### 綁定 Twitch 帳號
+Twitch YouTube Kick 跟 Trovo
 
-我們到 Twitch 之後按下 Accounts
+### 綁定 Twitch/Kick 帳號
+
+我們到 Twitch 或 Kick 之後按下 看到 Accounts 的部份
 
 ![Twitch Accounts](../../img/streamer-bot-configuration/Twitch%20Accounts.png)
 
-這時候你就會看到它分兩邊，左邊是你要拿來直播的帳號，右邊是拿來當機器人的帳號
+這時候你就會看到它分上下兩個帳號，上面是你要拿來直播的帳號，下面是拿來當機器人的帳號
 
 > 你不一定要登入機器人的帳號，他會預設設定直播中的帳號為機器人帳號
 
@@ -125,7 +125,7 @@ YouTube 帳號就跟登入 Twitch 帳號一樣簡單
 
 ![YouTube streamer.bot ToS](../../img/streamer-bot-configuration/Streamer.bot_YouTube_ToS.png)
 
-按下同意之後也是到上面的 Account
+按下同意之後也是到 Account 這個地方
 
 ![YouTube Account](../../img/streamer-bot-configuration/sign%20in%20with%20Google.png)
 
@@ -141,7 +141,7 @@ YouTube 帳號就跟登入 Twitch 帳號一樣簡單
 
 但是等等！YouTube 不知道為什麼就不能跟 Twitch 一樣預設自動連接。
 
-所以你需要按下右上的 Auto Connect 的按鈕才可以每次打開 Streamer.bot 的時候自動連接到 YouTube
+所以你需要打開下面的的 Auto Connect 的開關才可以每次打開 Streamer.bot 的時候自動連接到 YouTube
 
 ![Auto Connect YouTube](../../img/streamer-bot-configuration/Auto%20Connect%20YouTube.png)
 
@@ -169,13 +169,21 @@ YouTube 帳號就跟登入 Twitch 帳號一樣簡單
 
 ![OBS Show Connection Info](../../img/streamer-bot-configuration/OBS_Show_Connection_Info.png)
 
-設定好之後按下確定，我們就可以回到 Streamer.bot
+設定好之後按下確定，我們就可以回到 Streamer.bot 的首頁（左上角的 Home 按鈕）
 
-選擇上面的 Stream Apps 裡面的 OBS
+然後按下第四個選項 Stream Apps
+
+![Stream-apps-homepage-streamer.bot](../../img/streamer-bot-configuration/Stream-apps-homepage-streamer.bot.png)
+
+然後按下 OBS Studio 的選項
+
+![Select Stream Apps](../../img/streamer-bot-configuration/Select-Stream-Apps.png)
+
+之後你就會帶到這個畫面！
 
 ![Stream Apps OBS Streamer.bots](../../img/streamer-bot-configuration/streamer-bot-obs.png)
 
-然後對下面白白的視窗按下右鍵，按下 Add 
+然後對中間的視窗按下右鍵，按下 Add
 
 之後你就會看到這個畫面
 
@@ -185,7 +193,7 @@ YouTube 帳號就跟登入 Twitch 帳號一樣簡單
 
 如果有密碼的話，輸入 Websocket 的密碼
 
-之後你會需要打勾下面的 Auto Connect on Startup
+之後你會需要打開下面的 Auto Connect on Startup
 
 還有 Reconnect on Disconnect
 
@@ -194,6 +202,8 @@ YouTube 帳號就跟登入 Twitch 帳號一樣簡單
 如果有密碼的話，你需要在 Password 的地方輸入你的密碼！
 
 如果沒有密碼的話，直接按下 OK 你的 OBS 就連線成功了！
+
+> 如果沒有連線到的話，可以對 OBS 連接按下右鍵，然後按下最下面的 Connect
 
 ### OBS 插件推薦
 
@@ -215,9 +225,7 @@ YouTube 帳號就跟登入 Twitch 帳號一樣簡單
 
 ![Empty Actions](../../img/streamer-bot-configuration/empty_acitons.png)
 
-你會看到一個 Right click to add actions!
-
-然後我們就對他按下右鍵，按下 Add
+所以我們要新增新的動作的話，就在左邊最大的框框 Actions 按下右鍵，之後按下 Add
 
 ![Add Action](../../img/streamer-bot-configuration/Add_Action_Easy_Version.png)
 
@@ -239,7 +247,7 @@ YouTube 帳號就跟登入 Twitch 帳號一樣簡單
 
 接下來我們看向右上角，也就是 Triggers
 
-我們對他按下右鍵，你就會發現怎麼會有這麼多選項！？
+我們對他按下右鍵，之後到 Add 展開之後，你就會發現怎麼會有這麼多選項！？
 
 ![Trigger Options](../../img/streamer-bot-configuration/Trigger%20Options.png)
 
@@ -253,7 +261,7 @@ YouTube 帳號就跟登入 Twitch 帳號一樣簡單
 
 那我們現在就先從簡單的指令開始。
 
-我們對 Triggers 按右鍵 Core > Commands > Command Triggered
+我們對 Triggers 按右鍵 Add > Core > Commands > Command Triggered
 
 它就會跳出這個視窗
 
@@ -263,7 +271,7 @@ YouTube 帳號就跟登入 Twitch 帳號一樣簡單
 
 之後就會出現這個畫面
 
-![Add Command](../../img/streamer-bot-configuration/Add%20Command.png)
+![Add Command](../../img/streamer-bot-configuration/Add%20Commands.png)
 
 這個就是添加指令的畫面。
 
@@ -293,11 +301,15 @@ YouTube 帳號就跟登入 Twitch 帳號一樣簡單
 
 接下來我們看到 Sources 的部份，這個代表的是要在哪些地方觸發
 
-像是你可以看到上面有 Twitch 聊天室，還有 YouTube 聊天室等等的東西
+![Command Trigger Source](../../img/streamer-bot-configuration/command_triggered_source.png)
+
+我們展開之後就可以看到 Twitch 聊天室，還有 YouTube 聊天室等等的東西
 
 如果你想要兩個都要的話，你也可以複選，就可以同時在兩邊使用了。
 
-然後接下來就是下面的 Cooldown (冷卻時間)
+然後接下來我們展開下面的 Cooldown (冷卻時間)
+
+![Command Trigger Cooldown](../../img/streamer-bot-configuration/command_trigger_cooldown.png)
 
 如果你不想要有人同時一直刷同一個指令的話，你就可以在下面的冷卻時間設定。
 
@@ -312,6 +324,8 @@ YouTube 帳號就跟登入 Twitch 帳號一樣簡單
 這樣就可以避免很多很多人一直在刷指令了！
 
 接下來是右邊的 Permissions (權限設定)
+
+![Streamer.bot Permission Type](../../img/streamer-bot-configuration/command_triggered_permission_type.png)
 
 我們看向上面的 Grant Type
 
@@ -402,9 +416,9 @@ Streamer.bot 很棒的地方就是他幫你分配成了兩類
 
 那我們因為現在還在簡單的部份，所以我們這邊先設定發送訊息到聊天室看看好了！
 
-如果你是 YouTube 聊天室的話，會在 `Youtube > Send Message to Channel`
+如果你是 YouTube 聊天室的話，會在 `Add > Youtube > Send Message to Channel`
 
-那是在 Twitch 聊天室的話，就會在 `Twitch > Chat > Send Message to Channel`
+那是在 Twitch 聊天室的話，就會在 `Add > Twitch > Chat > Send Message to Channel`
 
 那我這邊先使用 Twitch 的當作示範，但是 YouTube 的應該也很類似。
 
@@ -412,7 +426,7 @@ Streamer.bot 很棒的地方就是他幫你分配成了兩類
 
 看到這個畫面之後呢，你就可以在上面打上任何你想要的訊息！
 
-之後我們看到左下，如果你有設定機器人的話它就會用機器人帳號發送
+之後我們看到下面的兩個開關，如果你有設定機器人的話它就會用機器人帳號發送
 
 如果沒有的話他就會回到你直播的帳號去！
 
@@ -478,7 +492,7 @@ Streamer.bot 很棒的地方就是他幫你分配成了兩類
 
 首先你需要做的是將 Streamer.bot 的 Websocket Server 打開
 
-![](https://nuttylmao.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fee338098-814d-46bb-a369-f731e854cb5e%2Ffdc30edb-0f4a-4a57-a82f-79661dd478ba%2Fimage.png?table=block&id=1b119969-b237-8061-b3a7-c6c0228bd5a4&spaceId=ee338098-814d-46bb-a369-f731e854cb5e&width=1360&userId=&cache=v2)
+![](https://nuttylmao.notion.site/image/attachment%3Af5956eb2-b3a1-4535-a4a0-dd67b39467ee%3Aimage.png?table=block&id=24a19969-b237-8086-b86b-d297784c811b&spaceId=ee338098-814d-46bb-a369-f731e854cb5e&width=1360&userId=&cache=v2)
 
 然後去到它們的網站開始調整設定
 
@@ -508,7 +522,7 @@ https://widgets.nutty.gg/multistream-alerts/settings/
 
 但是這個測試就很麻煩了，你會需要建立一個新的 Streamer.bot 的 Event
 
-然後在上面的 Trigger 添加一個你想要測試的東西，我這邊是用 Twitch > Channel > Follow
+然後在上面的 Trigger 添加一個你想要測試的東西，我這邊是用 Add > Twitch > Channel > Follow
 
 然後對它按下右鍵，按下 Simulate Event (Edit)
 
@@ -604,14 +618,17 @@ U0JBRR+LCAAAAAAABADVV8+P3DQUviPxP4SRVlzq2fxwJklvZcSPSoBQW7igHhz7JWs1iYPjzMyqWqmI
 
 ![Streamer.bot Import](../../img/streamer-bot-configuration/Streamer_bot_import.png)
 
+然後你就會看到上面寫著 Import String
 
-然後將它貼上到上面的 Import Strings
+![Import Commands String](../../img/streamer-bot-configuration/import-command-string.png)
+
+就會出現關於這個指令的資訊！
 
 ![Import Commands](../../img/streamer-bot-configuration/Import%20Commands.png)
 
-之後按下右下方 Import 的按紐，你就可以導入了！
+按下右下方 Import 的按紐，你就可以導入了！
 
-那預設導入的指令都是停用的，所以你需要到上方的 Commands 找到 Raid
+那預設導入的指令都是停用的，所以你需要到左邊或首頁的 Commands 找到 Raid
 
 對他按下右鍵，然後按下 Enabled
 
