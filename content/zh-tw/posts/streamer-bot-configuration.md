@@ -35,8 +35,6 @@ repost:
 # See details front matter: https://fixit.lruihao.cn/documentation/content-management/introduction/#front-matter
 ---
 
-# 目前文章使用 Streamer.bot 0.2.8 會在 Streamer.bot 1.0.0 發布後更新此教學，如果需要提前觀看 Streamer.bot 1.0.0 的教學，[請按這個地方](https://chimerical-halva-267111.netlify.app/zh-tw/posts/ea7ec9c)
-
 不知道你們想到 Twitch 或是 YouTube 上面的機器人你們會想到什麼。
 
 是 Nightbot 還是像是 StreamElements 或 Streamlabs 會附送給你的機器人呢？
@@ -273,7 +271,7 @@ YouTube 帳號就跟登入 Twitch 帳號一樣簡單
 
 之後就會出現這個畫面
 
-![Add Command](../../img/streamer-bot-configuration/Add%20Command.png)
+![Add Command](../../img/streamer-bot-configuration/Add%20Commands.png)
 
 這個就是添加指令的畫面。
 
@@ -577,7 +575,7 @@ U0JBRR+LCAAAAAAABADVV8+P3DQUviPxP4SRVlzq2fxwJklvZcSPSoBQW7igHhz7JWs1iYPjzMyqWqmI
 
 就會出現關於這個指令的資訊！
 
-![Add Command](../../img/streamer-bot-configuration/Add%20Command.png)
+![Add Command](../../img/streamer-bot-configuration/Import%20Commands.png)
 
 按下右下方 Import 的按紐，你就可以導入了！
 
