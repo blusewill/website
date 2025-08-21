@@ -2,7 +2,7 @@
 title: Streamer.bot 筆記 (持續更新中)
 subtitle:
 date: 2025-06-21T01:59:00+08:00
-lastmod: 2025-08-16T20:58:00+08:00
+lastmod: 2025-08-21T21:47:00+08:00
 slug: ea7ec9c
 draft: false
 author: 
@@ -86,6 +86,12 @@ repost:
 也就代表我們不用在看到這種畫面拉！
 
 ![Streamer-bot-old-ui](../../img/streamer-bot-configuration/Streamer.bot_old.png)
+
+然後如果你是 Linux 使用者的話，我已經幫你們測試完畢了！
+
+Streamer.bot 1.0.0 可以在 Linux 內使用！
+
+![Streamer.bot 1.0.0 Running on Linux](../../img/streamer-bot-configuration/Streamer.bot-linux.png)
 
 ## 綁定 Twitch/YouTube/Kick 帳號
 
