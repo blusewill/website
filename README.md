@@ -1,4 +1,4 @@
-Welcome to blusewill's Orginial Repo of my website [blusewill.us.to](https://blusewill.us.to) 
+Welcome to blusewill's Orginial Repo of my website [blusewill.top](https://blusewill.top/) and [blusewill.us.to](https://blusewill.us.to/) 
 
 Here you can see any pull request and other things and Deploy Status
 

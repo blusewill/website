@@ -14,7 +14,7 @@
 title = "blusewill's Website"
 
 # Hostname (and path) to the root
-baseURL = "https://blusewill.us.to"
+baseURL = "https://blusewill.top"
 
 # theme list
 theme = ["FixIt"] # enable in your site config file

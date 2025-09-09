@@ -2,7 +2,7 @@
 title: Streamer.bot 筆記 (持續更新中)
 subtitle:
 date: 2025-06-21T01:59:00+08:00
-lastmod: 2025-08-21T21:47:00+08:00
+lastmod: 2025-09-09T23:18:00+08:00
 slug: ea7ec9c
 draft: false
 author: 
@@ -73,6 +73,23 @@ repost:
 
 當你第一次打開 Streamer.bot 的時候一定就會想說。
 
+什麼！？這是目前市面上功能最多的機器人系統？
+
+![Streamer.bot UI](../../img/streamer-bot-configuration/Streamer.bot.png)
+
+對，你沒有看錯。
+
+但是也不要慌張，它們最近也快要更新 UI 了！
+
+換成 UWP 的樣式
+
+![Streamer bot alpha](../../img/streamer-bot-configuration/Streamer.bot_alpha.png)
+
+所以在期待一下，雖說這樣用 UWP 有可能會導致 Linux 無法透過 Wine 進行使用。
+
+但是由於目前它們還在 Debug 所以可能還不會發布這個版本！
+
+## 綁定 Twitch/YouTube 帳號
 ![New Streamer.bot UI](../../img/streamer-bot-configuration/streamer-bot.png)
 
 這個我上次看到的教學不一樣！
@@ -233,6 +250,8 @@ YouTube 帳號就跟登入 Twitch 帳號一樣簡單
 
 所以我們要新增新的動作的話，就在左邊最大的框框 Actions 按下右鍵，之後按下 Add
 
+然後我們就對他按下右鍵，按下 Add
+
 ![Add Action](../../img/streamer-bot-configuration/Add_Action_Easy_Version.png)
 
 你就會看到這裡的選項怎麼這麼多，那由於這邊還是簡易的設定，所以目前你不會動到 Group 以下的設定。
@@ -277,7 +296,7 @@ YouTube 帳號就跟登入 Twitch 帳號一樣簡單
 
 之後就會出現這個畫面
 
-![Add Command](../../img/streamer-bot-configuration/Add%20Commands.png)
+![Add Command](../../img/streamer-bot-configuration/Add%20Command.png)
 
 這個就是添加指令的畫面。
 
@@ -587,6 +606,244 @@ https://nutty.gg/
 你可以直接抓下來到你的 Streamer.bot!
 
 當然他的網站裡面也有非常多獨特的小工具，你也可以進行使用！
+
+## Streamer.bot Decks
+
+你需要一個遙控器控制你的 OBS 直播嗎？
+
+還是你開戶外台的時候需要一個控制家裡直播的工具呢？
+
+這時候 Streamer.bot Decks 就很適合你！
+
+![streamer.bot decks](../../img/streamer-bot-configuration/streamer.bot-decks.png)
+
+它就跟 Elgato StreamDeck 很像，但是它現在可以在任何的地方使用手機或其他設備操控！
+
+實現遠端控制直播還有遠端監控你的 OBS 狀態！
+
+### 後端設定！
+
+首先你要先有 Streamer.bot 的帳號！
+
+那要註冊的話，你會先需要一個 Discord 帳號！
+
+你可以到 https://discord.com/ 進行註冊
+
+之後我們到 [Streamer.bot](https://streamer.bot/) 的網站
+
+然後按下右上角的 Sign in
+
+![streamer.bot website sign in](../../img/streamer-bot-configuration/Streamer.bot-website-sign-in.png)
+
+登入或註冊好之後我們到 Streamer.bot 按下左下角的 Login 之後按 Login
+
+![streamer.bot login](../../img/streamer-bot-configuration/streamer.bot-account-login.png)
+
+之後 Discord 驗證會跳出來，你就按驗證之後你就成功登入 Streamer.bot 拉！
+
+![Streamer.bot Account Logged in](../../img/streamer-bot-configuration/streamer.bot-account-logged-in.png)
+
+### 創建 Streamer.bot Decks
+
+之後我們就可以到 https://streamer.bot/decks 來設定我們的 Decks 了
+
+> 或是你可以到官網按右上角的帳號頭像，然後選擇 Decks 它也會給你帶到同樣的頁面！
+
+之後你就會看到你目前沒有 Decks
+
+但是不用擔心，你只要按下右上角的 New Deck
+
+![Creating New Deck](../../img/streamer-bot-configuration/Creating%20new%20deck.png)
+
+之後它就會彈出這個畫面！
+
+![alt text](../../img/streamer-bot-configuration/New_Deck_Configuration.png)
+
+最上面就是幫你的 Deck 取名，你就打你喜歡的名子
+
+然後下面的 Remote Connection 就是允許遠端遙控
+
+那 Public Access 的話就不要打開，因為只要 Public Access 打開的話你的觀眾就可以控制你的 OBS 了。
+
+所以我們保持 Public Access 關閉！
+
+![Streamer.bot Decks](../../img/streamer-bot-configuration/streamer-bot-decks-ui.png)
+
+那進來之後就會長的像上面這樣，一格一格的！
+
+你可以在上面命名你的 Deck 這一頁是要做什麼的！
+
+像是控制 OBS 就可以命名為 OBS
+
+控制 Twitch 就可以叫它控制 Twitch
+
+## 設定功能
+
+接下來我們就來看到中間了，我們隨便選中間的一個框框
+
+你就會看到上面寫這你想要添加什麼功能！
+
+![Add Deck Items](../../img/streamer-bot-configuration/Add_Deck_Items.png)
+
+上面有按鈕，開關，資訊顯示，還有滑條。
+
+那我們就先從簡單的按鈕開始！
+
+### 按鈕
+
+按下去之後你就會看到這些東西
+
+![Button Text Content](../../img/streamer-bot-configuration/Button_Text_Content.png)
+
+你可以在 Text Content 設定這個按鈕的標題，文字的顏色，字體的大小，還有圖示！
+
+像我想要一個綠色的標題 Send Message 我就只要在 Titles 輸入 Send Message
+
+之後在 Text Color 設定綠色的 Hex 數值 #18ff0dff
+
+就可以設定好我們的文字了！
+
+那我們接下來到上面的 Actions
+
+![Streamer.bot Decks](../../img/streamer-bot-configuration/actions_streamerbot_decks.png)
+
+這邊你可以設定呢，這個按鈕按下去放開，或是按下去的瞬間，還有按住要特別做什麼動作。
+
+然後下面的 Streamer.bot Instance 就是你要使用什麼 Streamer.bot 的連接下去設定。
+
+之後 Action 就是他要執行的動作拉！
+
+那我剛剛在 Streamer.bot 裡面用好了一個 Decks Example 的指令
+
+![](../../img/streamer-bot-configuration/Decks%20Exmaple.png)
+
+現在我們要做的事情就是將 Action 設定為 Decks Example
+
+![](../../img/streamer-bot-configuration/Actions_Tab_Setup_Example.png)
+
+它就可以發送指令了！
+
+![](../../img/streamer-bot-configuration/streamer.bot_send_message_example.png)
+
+### 開關
+
+開關也是一樣的道理，你就只要在新增一個開關。
+
+你就可以看到上面可以設定按紐開跟關的時候要使用什麼文字
+
+然後應該要用什麼顏色！這就跟剛剛的按鈕一樣！
+
+但是我們現在到 Actions 你就可以看到這個按鈕開跟關要做什麼新的動作
+
+![toggle_state](../../img/streamer-bot-configuration/toggle_action.png)
+
+那在 Streamer.bot Decks 這邊，雖說執行成功它會幫你切換開關
+
+但是建議在 Streamer.bot 中設定這個開關的狀態！
+
+在 `Add > Streamer.bot > Decks > Item Set State` 裡面可以控制這個開關目前狀態是開還是關閉！
+
+![Setting up Switch Streamer.bot Config](../../img/streamer-bot-configuration/streamer-bot-setting-up-switch.png)
+
+之後就可以設計開關的 Actions 了！像是我這邊一樣還是發送訊息！
+
+讓它去看這開關目前是開啟還是關閉！
+
+![Streamer.bot Decks Switch on](../../img/streamer-bot-configuration/streamer-bot-decks-switch-on.png)
+
+![Streamer.bot Decks Switch off](../../img/streamer-bot-configuration/streamer-bot-decks-switch-off.png)
+
+這就是基礎的開關設計了！
+
+### 狀態顯示器
+
+![status indicator](../../img/streamer-bot-configuration/status_indicator_example.png)
+
+這應該是這裡面最複雜的了，這裡面會牽扯到很多設定，還有變數等等的東西
+
+不用緊張，我們慢慢來替你解釋怎麼設定這些東西！
+
+首先我們先講一下如何設定數值的最高跟最低！
+
+建立 Status Indicator 之後，我們直接按到最後一頁的 Settings
+
+![status-indicator-settings](../../img/streamer-bot-configuration/Status-indicator-settings.png)
+
+之後往下滑，你就會看到很多可以設定的東西。
+
+那這邊比較重要的是 `Min` 跟 `Max`
+
+代表的是最小跟最大值。
+
+如果你的數值會超過 0 ~ 100 的話就需要在這邊設定
+
+那我這次示範是不會超過，所以我就先放著！
+
+這邊設定好過後我們就可以到 Streamer.bot 設定這個數值了！
+
+我這邊先新增一個隨機數字產生器，這樣就可以創建 `%randomNumber%` 這個數值
+
+接下來就是要設定上面目前是多少了！
+
+我們一樣到我們 Streamer.bot 的 Sub-Action 按下右鍵 `Add > Streamer.bot > Decks > Item Set Value`
+
+![Item Set Value](../../img/streamer-bot-configuration/decks-item-set-value.png)
+
+之後選擇好你的顯示器的框框之後，我們就只要在 Value 打上你的數值名稱，像是這邊就是 `%randomNumber%`
+
+那像這樣設定好之後呢，我們就可以在 Decks 上面設定這個動作
+
+> 或是你也可以設定使用 Timed Actions 於一段時間自動觸發
+
+那這樣就可以顯示任何的數值了！不管是目前的觀看人數，還是目前的訂閱人數都可以這樣顯示！
+
+### 滑條
+
+那滑條跟狀態顯示器一樣，都是可以修改數值的！
+
+也是一樣在 Settings 就可以修改！
+
+那大神們可以使用 OBS Raw 就可以設計出遠端控制 OBS 音量。
+
+但是因為我能力有限，所以我就打算做一個簡單的顯示器。
+
+那滑條的數值的變數是 value
+
+![Streamer.bot Slide](../../img/streamer-bot-configuration/streamer-bot-decks-slide.png)
+
+所以我們只要在 Actions 裡面設定 `%value%`
+
+![slide indicator settings](../../img/streamer-bot-configuration/slider-display-indicator-example.png)
+
+那這樣不管我怎麼拉，旁邊的 Indicator 就都會同步！
+
+![slide indicator](../../img/streamer-bot-configuration/slide-indicator.png)
+
+這就是滑條最簡單的用法！
+
+## 發送通知
+
+![Decks Notifications](../../img/streamer-bot-configuration/decks-notifications.png)
+
+我覺得通知非常的好用，除了可以拿來 Debug 以外，還可以讓你間單的知道一些資訊！
+
+像是你的目前場景是什麼阿，都可以使用變數進行設定。
+
+那要新增的話就是到 `Add > Streamer.bot > Decks > Deck Notify`
+
+就可以新增通知了！
+
+![Deck Notify Streamer.bot Settings](../../img/streamer-bot-configuration/Deck-notify-settings.png)
+
+你可以在這邊的 title 輸入你的標題，Description 內輸入你的內容
+
+當然也可以導入變數！你如果想要通知不同東西的話都可以這樣子做！
+
+像是在我的 IRL 戶外直播就用了通知我現在在 OBS 的哪一個場景！
+
+這樣子就不會出現我忘記切場景的問題了！
+
+那以上就是 Streamer.bot Decks 的基礎教學，希望這部份有對想要開 IRL 台的有一些幫助！那我們就下個部份見拉！
 
 ## 自己設計的小工具/指令
 
