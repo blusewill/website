@@ -73,26 +73,9 @@ repost:
 
 當你第一次打開 Streamer.bot 的時候一定就會想說。
 
-什麼！？這是目前市面上功能最多的機器人系統？
+什麼！？這個我上次看到的教學不一樣！
 
-![Streamer.bot UI](../../img/streamer-bot-configuration/Streamer.bot.png)
-
-對，你沒有看錯。
-
-但是也不要慌張，它們最近也快要更新 UI 了！
-
-換成 UWP 的樣式
-
-![Streamer bot alpha](../../img/streamer-bot-configuration/Streamer.bot_alpha.png)
-
-所以在期待一下，雖說這樣用 UWP 有可能會導致 Linux 無法透過 Wine 進行使用。
-
-但是由於目前它們還在 Debug 所以可能還不會發布這個版本！
-
-## 綁定 Twitch/YouTube 帳號
 ![New Streamer.bot UI](../../img/streamer-bot-configuration/streamer-bot.png)
-
-這個我上次看到的教學不一樣！
 
 也跟我上次進來這網站的時候不一樣！
 
