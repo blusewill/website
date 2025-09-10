@@ -296,7 +296,7 @@ YouTube 帳號就跟登入 Twitch 帳號一樣簡單
 
 之後就會出現這個畫面
 
-![Add Command](../../img/streamer-bot-configuration/Add%20Command.png)
+![Add Command](../../img/streamer-bot-configuration/Add%20Commands.png)
 
 這個就是添加指令的畫面。
 
