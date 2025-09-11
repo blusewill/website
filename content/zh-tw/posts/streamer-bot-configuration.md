@@ -97,7 +97,7 @@ Streamer.bot 1.0.0 可以在 Linux 內使用！
 
 綁定這三個帳號應該是最大的優勢，畢竟你需要在這些平台直播。
 
-我們在首頁按下第三個選項 Platforms，或是在右邊選擇 Platforms
+我們在首頁按下第三個選項 Platforms，或是在左邊選擇 Platforms
 
 ![Streamer.bot Homepage Platforms](../../img/streamer-bot-configuration/Homepage-platforms.png)
 
