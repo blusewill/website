@@ -4,7 +4,7 @@ subtitle: 還是好好的打字比較好
 date: 2025-09-21T00:55:00+08:00
 lastmod: 2025-09-21T00:55:00+08:00 
 slug: 8d3ffc5
-draft: true
+draft: false
 author: 
   name: blusewill
   link: https://blusewill.top/
