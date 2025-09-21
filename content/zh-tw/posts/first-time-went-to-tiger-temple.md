@@ -112,11 +112,11 @@ repost:
 
 ![](../../img/first-time-went-to-tiger-temple/temple-place-image.png)
 
-這間是台中的[義虎堂虎爺廟](https://osm.org/go/5ibhvvaLF?m=)
+這間是台中的[義虎堂虎爺廟](https://osm.org/go/5ibhvvIun?layers=ND&m=&node=13159813777)
 
-<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=120.67126393318178%2C24.319543747309197%2C120.67480444908144%2C24.321767947472548&amp;layer=mapnik&amp;marker=24.320655852268704%2C120.67303419113159" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=24.320656&amp;mlon=120.673034#map=19/24.320656/120.673034">View Larger Map</a></small>
+<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=120.67119151353839%2C24.31921133602097%2C120.67473202943805%2C24.32143554201625&amp;layer=mapnik&amp;marker=24.320323443896385%2C120.67296177148819" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=24.320323&amp;mlon=120.672962#map=19/24.320323/120.672962&amp;layers=ND">View Larger Map</a></small>
 
-有考慮快要接近[獸無限](https://blusewill.top/zh-tw/72bdecb/)的時候再去一次，求去回都行車平安。
+有考慮快要接近[獸無限](https://blusewill.top/zh-tw/posts/72bdecb/)的時候再去一次，求去回都行車平安。
 
 所以你去那邊說不定還會看到我喔！
 

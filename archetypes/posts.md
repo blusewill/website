@@ -7,7 +7,7 @@ slug: {{ substr .File.UniqueID 0 7 }}
 draft: true
 author: 
   name: blusewill
-  link: https://blusewill.us.to/
+  link: https://blusewill.top/
   email: blusewillstudio@protonmail.com
   avatar:
 description:
