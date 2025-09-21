@@ -114,7 +114,7 @@ repost:
 
 這間是台中的[義虎堂虎爺廟](https://osm.org/go/5ibhvvIun?layers=ND&m=&node=13159813777)
 
-<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=120.67119151353839%2C24.31921133602097%2C120.67473202943805%2C24.32143554201625&amp;layer=mapnik&amp;marker=24.320323443896385%2C120.67296177148819" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=24.320323&amp;mlon=120.672962#map=19/24.320323/120.672962&amp;layers=ND">View Larger Map</a></small>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3635.7462724015827!2d120.67038387580715!3d24.32048386665115!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x34691031526cdbc1%3A0x5929470c7bcf48d!2z576p6JmO5aCC6JmO54i65buf77yI6ZaL5pS-5pma6ZaT5Y-D5ouc77yJ!5e0!3m2!1szh-TW!2stw!4v1758475388876!5m2!1szh-TW!2stw" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 有考慮快要接近[獸無限](https://blusewill.top/zh-tw/posts/72bdecb/)的時候再去一次，求去回都行車平安。
 
