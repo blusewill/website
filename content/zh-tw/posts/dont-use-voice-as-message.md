@@ -4,7 +4,7 @@ subtitle: 還是好好的打字比較好
 date: 2025-09-21T00:55:00+08:00
 lastmod: 2025-09-21T00:55:00+08:00 
 slug: 8d3ffc5
-draft: false
+draft: true
 author: 
   name: blusewill
   link: https://blusewill.top/
@@ -50,9 +50,9 @@ repost:
 
 1. 你的停頓點太多，講話太快，話語難以理解
 
-
 1. 別人在聲音吵雜的地方或是不方便聆聽
 
+1. 別人要回去找內容的時候，會需要聽過好幾個語音訊息才能找到他要的
 
 雖說我知道用講的可以讓你省下打字的時間或是你讓某些客戶感受到你的溫度
 
