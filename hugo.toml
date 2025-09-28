@@ -17,7 +17,7 @@ title = "blusewill's Website"
 baseURL = "https://blusewill.top"
 
 # theme list
-theme = ["FixIt"] # enable in your site config file
+theme = ["FixIt", "cmpt-translate"] # enable in your site config file
 
 # determines default content language ["en", "zh-TW", "fr", "pl", ...]
 defaultContentLanguage = "en"
@@ -535,6 +535,12 @@ enableEmoji = true
       name = ""
       # whether to use typeit animation for subtitle name
       typeit = false
+  
+  [params.customPartials]
+  menuDesktop = [ "inject/translate-menu-desktop.html", ]
+  menuMobile = [ "inject/translate-menu-mobile.html", ]
+  assets = [ "inject/cmpt-translate.html", ]
+
 
   # FixIt 0.2.18 | NEW Breadcrumb config
   [params.breadcrumb]
