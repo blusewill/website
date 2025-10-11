@@ -2,7 +2,7 @@
 title: Windows 11 消除了 BypassNRO！？
 subtitle: 別擔心，這邊教你最快繞過方法
 date: 2025-04-06T17:56:50+08:00
-lastmod: 2025-04-06T17:56:50+08:00
+lastmod: 2025-10-11T17:56:50+08:00
 slug: 6d193ae
 draft: false
 author: 
@@ -47,7 +47,53 @@ repost:
 
 好廢話說到這邊，我們就開始教你如何跳過吧！
 
-## 最簡單一行指令做法
+## 直接在 OOBE 帶入設定檔
+
+下面的繞過即將要無效了，所以目前最新的方法就是直接載入 autounattend.xml 進入這個安裝階段裡面。
+
+那這個文件的運作方式我在下面也解釋的很清楚了，如果有興趣設定自己的設定檔的話可以[按這裡看更多](./#使用-autounattendxml-安裝)
+
+那因為這現在是未來唯一的方法，所以我幫大家設計好了一個設定檔！
+
+https://github.com/blusewill/bypassnro
+
+那這個設定檔呢會直接讓你跳過全部的設定畫面，直接進入桌面。
+
+那如果你還是想要設定一些像是輸入法等等的東西之類
+
+可以使用原作者 Chris Titus Tech 所製作的版本
+
+https://github.com/ChrisTitusTech/bypassnro
+
+那當你決定好你的版本之後呢，你就可以按下 `Shift + F10`
+
+叫出命令提示字元
+
+之後以你想要使用的版本打上不同的指令
+
+我的版本：
+`curl -L blusewill.top/oobe -o skip.cmd && skip.cmd`
+
+Chris Titus Tech 的版本：
+`curl -L christitus.com/bypass -o skip.cmd && skip.cmd`
+
+![](../../img/BypassNRO/inject-xml-file.png)
+
+之後按下 Enter 讓他跑一下之後 Windows 會自動重新開機
+
+如果是使用我的版本的話，基本上不會在回到 OOBE 的畫面了
+
+會直接登入 Windows 系統
+
+但是如果你是用 ChrisTitusTech 的腳本的話，你就可以手動設定國家跟輸入法！
+
+![](../../img/BypassNRO/bypassed-oobe.png)
+
+缺點就是，這種腳本目前還**無法設定自訂使用者名稱** （除非自行更改 xml 檔案）
+
+希望以後會開發出可以自訂使用者名稱的腳本吧
+
+## 最簡單一行指令做法 (即將在未來版本失效)
 
 首先在 OOBE 也就是設定國家的那個畫面按下 `Shift + F10`
 
@@ -62,6 +108,9 @@ repost:
 按下下一步之後就可以只接跳過全部的設定，直接登入！
 
 這是目前比執行 `bypassNRO.cmd` 還要快的方法！
+
+> 2025/10/11 號更新，微軟真不愧是你，在最新的內測版本將這個東西修掉了！
+> 不知道什麼時候會發布到最新的穩定版本，所以大家現在能用就用吧，或是參考上面最新的方案
 
 ## 改註冊表
 
