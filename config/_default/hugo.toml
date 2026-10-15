@@ -399,6 +399,9 @@ collection_list = false
 collection_navigation = false
 end_flag = ""
 
+[params.cookieconsent]
+enable = false
+
 [params.author]
 name = ""
 email = ""
