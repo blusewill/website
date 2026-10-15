@@ -38,7 +38,7 @@ Well I accept all kinds of thing you send to me but **PLEASE PLEASE** don't send
 
 ## Email
 
-My Email is : [blusewillstudio@protonmail.com](mailto:blusewillstudio@protonmail.com)
+My Email is : [owner@blusewill.top](mailto:owner@blusewill.top)
 
 ## Mastodon
 [@bluesewill@mastodon.social](https://mastodon.social/@bluesewill)
@@ -47,7 +47,7 @@ My Email is : [blusewillstudio@protonmail.com](mailto:blusewillstudio@protonmail
 
 [@bluesewill](https://twitter.com/bluesewill)
 
-## Plunk
+## Plurk
 
 [blusewillLIVE](https://www.plurk.com/blusewillLIVE)
 
