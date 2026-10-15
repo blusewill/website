@@ -1,0 +1,796 @@
+title = "blusewill's Website"
+baseURL = "https://blusewill.top"
+theme = ["FixIt", "cmpt-translate"]
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+timeZone = "Asia/Taipei"
+copyright = "Copyrighted by blusewill Studio 2026"
+enableRobotsTXT = true
+enableGitInfo = true
+enableEmoji = true
+hasCJKLanguage = true
+titleCaseStyle = "ap"
+capitalizeListTitles = false
+ignoreLogs = []
+
+[languages.en]
+languageCode = "en"
+languageName = "English"
+contentDir = "content/en"
+weight = 1
+
+[languages.zh-tw]
+languageCode = "zh-TW"
+languageName = "繁體中文"
+title = "小品大大的網站"
+contentDir = "content/zh-tw"
+weight = 2
+
+[language.en.params.header]
+desktop_mode = "sticky"
+mobile_mode = "auto"
+blur = false
+
+[[languages.en.menus.main]]
+identifier = "posts"
+name = "Posts"
+url = "posts/"
+weight = 1
+[languages.en.menus.main.params]
+class = ""
+draft = "false"
+icon = "fa-solid fa-scroll"
+
+[[languages.en.menus.main]]
+identifier = "categories"
+name = "Categories"
+url = "/categories/"
+weight = 2
+[languages.en.menus.main.params]
+class = ""
+draft = "false"
+icon = "fa-solid fa-folder"
+
+[[languages.en.menus.main]]
+identifier = "tags"
+name = "Tags"
+url = "/tags/"
+weight = 3
+[languages.en.menus.main.params]
+class = ""
+draft = "false"
+icon = "fa-solid fa-tag"
+[[languages.en.menus.main]]
+identifier = "contact"
+name = "Contact"
+url = "/contact/"
+weight = 4
+[languages.en.menus.main.params]
+class = ""
+draft = "false"
+icon = "fa-solid fa-address-card"
+
+[[languages.zh-tw.menus.main]]
+identifier = "posts"
+name = "貼文"
+url = "/zh-tw/posts/"
+weight = 1
+[languages.zh-tw.menus.main.params]
+class = ""
+draft = "false"
+icon = "fa-solid fa-scroll"
+
+[[languages.zh-tw.menus.main]]
+identifier = "categories"
+name = "分類"
+url = "/zh-tw/categories/"
+weight = 2
+[languages.zh-tw.menus.main.params]
+class = ""
+draft = "false"
+icon = "fa-solid fa-folder"
+
+[[languages.zh-tw.menus.main]]
+identifier = "tags"
+name = "標籤"
+url = "/zh-tw/tags/"
+weight = 3
+[languages.zh-tw.menus.main.params]
+class = ""
+draft = "false"
+icon = "fa-solid fa-tag"
+[[languages.zh-tw.menus.main]]
+identifier = "contact"
+name = "聯絡"
+url = "/zh-tw/contact/"
+weight = 4
+[languages.zh-tw.menus.main.params]
+class = ""
+draft = "false"
+icon = "fa-solid fa-address-card"
+
+
+
+[languages.zh-tw.params.home]
+
+[languages.zh-tw.params.home.profile]
+enable = true
+only_first_page = false
+gravatar_email = ""
+avatar_url = "https://blusewill.top/img/pfp.webp"
+title = "小品大大"
+subtitle = "YouTuber | 直播主 | 不會3D建模的3D建模師 | Linux使用者_"
+typeit = true
+social = true
+disclaimer = ""
+
+[languages.zh-tw.params.home.posts]
+enable = false
+
+[languages.zh-tw.params.social]
+GitHub = "blusewill"
+Linkedin = ""
+Twitter = "bluesewill"
+Instagram = "ninjago_blusewill"
+Facebook = "blusewilltest"
+Youtubechannel = "UC1Fa_Q0ysOfZhe2HWPi6dZw"
+Reddit = "blusewillstudio"
+Spotify = "vbgn4252qy1uxiqg28qjzk2tq"
+Steam = "blusewill"
+Twitch = "blusewill"
+Mastodon = "@bluesewill"
+Ko-Fi = "blusewill"
+DiscordInvite = "D4aZjcZvz"
+Bluesky = "blusewill"
+Email = "owner@blusewill.top"
+RSS = true
+
+[frontmatter]
+_merge = "shallow"
+lastmod = [
+  "lastmod",
+  ":git",
+  ":fileModTime",
+  ":default",
+]
+
+[module]
+
+[module.hugoVersion]
+min = "0.166.0"
+
+[markup]
+_merge = "shallow"
+
+[markup.highlight]
+codeFences = true
+noClasses = false
+anchorLineNos = false
+guessSyntax = true
+lineNos = true
+lineNumbersInTable = true
+
+[markup.goldmark]
+duplicateResourceFiles = false
+
+[markup.goldmark.extensions]
+definitionList = true
+footnote = true
+linkify = true
+linkifyProtocol = 'https'
+strikethrough = false
+table = true
+taskList = true
+typographer = true
+
+[markup.goldmark.extensions.extras]
+
+[markup.goldmark.extensions.extras.delete]
+enable = true
+
+[markup.goldmark.extensions.extras.insert]
+enable = true
+
+[markup.goldmark.extensions.extras.mark]
+enable = true
+
+[markup.goldmark.extensions.extras.subscript]
+enable = true
+
+[markup.goldmark.extensions.extras.superscript]
+enable = true
+
+[markup.goldmark.extensions.passthrough]
+enable = true
+
+[markup.goldmark.extensions.passthrough.delimiters]
+block = [
+  [
+    '\[',
+    '\]'
+  ],
+  [
+    '$$',
+    '$$'
+  ]
+]
+inline = [
+  [
+    '\(',
+    '\)'
+  ],
+  [
+    '$',
+    '$'
+  ]
+]
+
+[markup.goldmark.parser]
+
+[markup.goldmark.parser.attribute]
+block = true
+title = true
+
+[markup.goldmark.renderer]
+hardWraps = false
+unsafe = true
+xhtml = false
+
+[sitemap]
+changefreq = "weekly"
+disable = false
+filename = "sitemap.xml"
+priority = 0.5
+
+[permalinks]
+
+[permalinks.page]
+
+[permalinks.section]
+
+[permalinks.taxonomy]
+
+[permalinks.term]
+
+[privacy]
+
+[privacy.x]
+enableDNT = true
+
+[privacy.youtube]
+privacyEnhanced = true
+
+[outputFormats]
+
+[outputFormats.archives]
+path = "archives"
+baseName = "index"
+mediaType = "text/html"
+isPlainText = false
+isHTML = true
+permalinkable = true
+notAlternative = true
+
+[outputFormats.offline]
+path = "offline"
+baseName = "index"
+mediaType = "text/html"
+isPlainText = false
+isHTML = true
+permalinkable = true
+notAlternative = true
+
+[outputFormats.link]
+path = "link"
+baseName = "index"
+mediaType = "text/html"
+isPlainText = false
+isHTML = true
+permalinkable = true
+notAlternative = true
+
+[outputFormats.readme]
+baseName = "readme"
+mediaType = "text/markdown"
+isPlainText = true
+isHTML = false
+notAlternative = true
+
+[outputFormats.baidu_urls]
+baseName = "baidu_urls"
+mediaType = "text/plain"
+isPlainText = true
+isHTML = false
+notAlternative = true
+
+[outputFormats.search]
+baseName = "search"
+mediaType = "application/json"
+rel = "search"
+isPlainText = true
+isHTML = false
+permalinkable = true
+
+[outputFormats.manifest]
+baseName = "site"
+mediaType = "application/manifest+json"
+rel = "manifest"
+isPlainText = true
+isHTML = false
+
+[outputFormats.llms]
+baseName = "llms"
+mediaType = "text/plain"
+isPlainText = true
+isHTML = false
+notAlternative = true
+
+[outputs]
+_merge = "shallow"
+home = [
+  "html",
+  "rss",
+  "archives",
+  "search",
+  "offline",
+  "manifest",
+  "link"
+]
+page = [
+  "html",
+  "markdown"
+]
+section = [
+  "html",
+  "rss"
+]
+taxonomy = [ "html" ]
+term = [
+  "html",
+  "rss"
+]
+
+[taxonomies]
+_merge = "shallow"
+category = "categories"
+tag = "tags"
+collection = "collections"
+author = "authors"
+
+[build]
+noJSConfigInAssets = true
+
+[params]
+version = "1.0.X"
+description = ""
+keywords = []
+default_theme = "auto"
+fingerprint = ""
+date_format = "2006-01-02"
+images = []
+with_site_title = true
+title_delimiter = "-"
+index_with_subtitle = false
+enable_translation_merge = false
+tooltip = true
+author_archive = true
+disable_theme_inject = false
+
+capitalize_titles = true
+summary_plainify = false
+author_avatar = true
+hidden_from_home_page = false
+hidden_from_search = false
+hidden_from_related = false
+hidden_from_feed = false
+twemoji = false
+lightgallery = false
+ruby = true
+fraction = true
+fontawesome = true
+license = '<a rel="license external nofollow noopener noreferrer" href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">CC BY-NC-SA 4.0</a>'
+page_style = "normal"
+auto_bookmark = false
+show_lastmod = true
+word_count = true
+reading_time = true
+instant_page = false
+collection_list = false
+collection_navigation = false
+end_flag = ""
+
+[params.author]
+name = ""
+email = ""
+link = ""
+avatar = ""
+
+[params.link]
+external_icon = true
+
+[params.link.guard]
+enable = false
+mode = "modal"
+allow_domains = []
+
+[params.image]
+cache_remote = false
+optimise = false
+black_list = []
+
+[params.codeblock]
+wrapper = true
+mode = "classic"
+wrapper_class = ""
+max_shown_lines = 10
+shadow = "never"
+copyable = true
+downloadable = false
+fullscreen = false
+line_nos_toggler = true
+line_wrap_toggler = true
+editable = false
+
+[params.json_viewer]
+enable = true
+expand_depth = 1
+copyable = true
+sort = false
+boxed = true
+
+[params.filetree]
+level = 1
+folder_slash = false
+ignore_list = []
+highlight_list = []
+
+[params.mermaid]
+wrapper = true
+cdn = "https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.esm.min.mjs"
+zenuml = ""
+themes = [
+  "default",
+  "dark"
+]
+security_level = "loose"
+look = "handDrawn"
+font_family = ""
+layout_loaders = []
+layout = "dagre"
+
+[params.toc]
+enable = true
+keep_static = false
+auto = true
+position = "end"
+ordered = false
+start_level = 2
+end_level = 6
+decrease_h1 = false
+
+[params.disclaimer]
+enable = false
+type = "ai"
+content = ""
+
+[params.expiration_reminder]
+enable = false
+reminder = 90
+warning = 180
+close_comment = false
+
+[params.heading]
+capitalize = false
+
+[params.heading.number]
+enable = false
+only_main_section = true
+
+[params.table]
+number = false
+sort = true
+
+[params.math]
+enable = true
+type = "katex"
+
+[params.math.katex]
+copy_tex = true
+throw_on_error = false
+error_color = "#ff4949"
+
+[params.math.katex.macros]
+
+[params.math.mathjax]
+cdn = "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+
+[params.math.mathjax.packages]
+
+[params.math.mathjax.macros]
+
+[params.math.mathjax.loader]
+load = [ "ui/safe" ]
+
+[params.math.mathjax.loader.paths]
+
+[params.math.mathjax.options]
+enable_menu = true
+skip_html_tags = [
+  "script",
+  "noscript",
+  "style",
+  "textarea",
+  "pre",
+  "code",
+  "math",
+  "select",
+  "option",
+  "mjx-container"
+]
+ignore_html_class = "mathjax_ignore"
+
+[params.math.mathjax.options.include_html_tags]
+
+[params.mapbox]
+access_token = ""
+light_style = "mapbox://styles/mapbox/light-v11"
+dark_style = "mapbox://styles/mapbox/dark-v11"
+navigation = true
+geolocate = true
+scale = true
+fullscreen = true
+
+[params.post_chat]
+enable = false
+key = ""
+user_mode = "iframe"
+add_button = true
+default_input = false
+left = ""
+bottom = ""
+width = ""
+height = ""
+fill = ""
+background_color = ""
+upload_web = true
+show_invite_link = true
+user_title = ""
+user_desc = ""
+black_dom = []
+frame_width = ""
+frame_height = ""
+user_icon = ""
+default_chat_questions = []
+default_search_questions = []
+hot_words = true
+
+[params.post_summary]
+enable = false
+key = ""
+title = ""
+theme = ""
+post_url = ""
+blacklist = ""
+word_limit = 1000
+typing_animate = true
+beginning_text = ""
+loading_text = true
+
+[params.post_link]
+markdown = true
+source = true
+edit = true
+report = true
+editor = "vscode"
+
+[params.share]
+enable = true
+Twitter = true
+Facebook = true
+Reddit = true
+Line = true
+Instapaper = false
+
+[params.comment]
+enable = true
+
+[params.comment.utterances]
+enable = true
+repo = "blusewill/website"
+issue_term = "pathname"
+label = ""
+light_theme = "github-light"
+dark_theme = "github-dark"
+
+[params.robots]
+allow_crawlers = false
+
+[params.library]
+
+[params.library.css]
+
+[params.library.js]
+
+[params.search]
+enable = true
+type = "fuse"
+content_length = 4000
+placeholder = ""
+max_result_length = 10
+snippet_length = 30
+highlight_tag = "em"
+absolute_url = false
+anchorify = true
+
+[params.search.fuse]
+is_case_sensitive = false
+min_match_char_length = 2
+find_all_matches = false
+location = 0
+threshold = 0.3
+distance = 100
+ignore_location = false
+use_extended_search = false
+ignore_field_norm = false
+
+[params.breadcrumb]
+enable = false
+sticky = true
+show_home = false
+separator = "/"
+capitalize = true
+
+[params.navigation]
+in_section = false
+reverse = false
+
+[params.footer]
+enable = true
+copyright = true
+author = true
+since = "2017"
+
+[params.footer.powered]
+enable = true
+hugo_logo = true
+theme_logo = true
+
+[params.footer.order]
+powered = 1
+copyright = 0
+statistics = 0
+visitor = 0
+beian = 0
+
+[params.archives]
+paginate = 20
+date_format = "01-02"
+
+[params.section]
+paginate = 20
+date_format = "01-02"
+
+[params.section.feed]
+limit = -1
+full_text = false
+
+[params.list]
+paginate = 20
+date_format = "01-02"
+
+[params.list.feed]
+limit = -1
+full_text = false
+
+[params.recently_updated]
+archives = true
+section = true
+list = true
+days = 30
+max_count = 10
+
+[params.tag_cloud]
+enable = false
+min = 14
+max = 32
+peak_count = 10
+orderby = "name"
+
+[params.home]
+
+[params.home.profile]
+enable = true
+only_first_page = false
+gravatar_email = ""
+avatar_url = "https://blusewill.top/img/pfp.webp"
+title = "blusewill"
+subtitle = "YouTuber | Streamer | Aspiring 3D Modeler | Linux User"
+typeit = true
+social = true
+disclaimer = ""
+
+[params.home.posts]
+enable = false
+
+[params.social]
+GitHub = "blusewill"
+Linkedin = ""
+Twitter = "bluesewill"
+Instagram = "ninjago_blusewill"
+Facebook = "blusewilltest"
+Youtubechannel = "UC1Fa_Q0ysOfZhe2HWPi6dZw"
+Reddit = "blusewillstudio"
+Spotify = "vbgn4252qy1uxiqg28qjzk2tq"
+Steam = "blusewill"
+Twitch = "blusewill"
+Mastodon = "@bluesewill"
+Ko-Fi = "blusewill"
+DiscordInvite = "D4aZjcZvz"
+Bluesky = "blusewill"
+Email = "owner@blusewill.top"
+RSS = true
+
+[params.typeit]
+speed = 30
+cursor_speed = 1000
+cursor_char = "_"
+duration = -1
+loop = false
+
+[params.repo_version]
+name = "FixIt"
+url = "https://github.com/hugo-fixit/FixIt/releases/tag/v"
+
+[params.seo]
+cover = "https://blusewill.top/img/pfp.webp"
+thumbnail_url = ""
+images = []
+
+[params.seo.publisher]
+name = "blusewill"
+logo_url = "https://blusewill.top/img/pfp.webp"
+
+[params.analytics]
+enable = true
+
+[params.analytics.google]
+id = "G-LD46M1WJGJ"
+anonymize_ip = true
+
+[params.compatibility]
+polyfill = false
+object_fit = false
+
+[params.back_to_top]
+enable = true
+scrollpercent = false
+
+[params.reading_progress]
+enable = true
+start = "start"
+position = "top"
+reversed = false
+light = ""
+dark = ""
+height = "2px"
+
+[params.pace]
+enable = false
+color = "blue"
+theme = "minimal"
+
+[params.feed]
+limit = 10
+full_text = true
+
+[params.feed.follow]
+feed_id = ""
+user_id = ""
+
+[params.taxonomy_icons]
+
+[params.print]
+expand_admonition = true
+expand_code = true
+expand_details = true
+expand_file_tree = false
