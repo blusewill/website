@@ -2,6 +2,7 @@
 title: 我是怎麼在瀏覽器跑 Flash 的？
 subtitle:
 date: 2024-05-16T01:09:12+08:00
+lastmod: 2024-05-16T01:09:12+08:00
 slug: 4c96bbd
 draft: false
 author: 

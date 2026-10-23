@@ -2,6 +2,7 @@
 title: 叫機器狼來幫你介紹！新酷音輸入法
 subtitle:
 date: 2024-06-23T20:46:49+08:00
+lastmod: 2024-06-23T20:46:49+08:00
 slug: 202995c
 draft: false
 author: 
