@@ -8,8 +8,8 @@ draft: true
 author: 
   name: blusewill
   link: https://blusewill.top/
-  email: blusewillstudio@protonmail.com
-  avatar:
+  email: owner@blusewill.top
+  avatar: 
 description:
 keywords:
 comment: true
