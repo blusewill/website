@@ -9,7 +9,7 @@ author:
   name: blusewill
   link: https://blusewill.top/
   email: owner@blusewill.top
-  avatar: 
+  avatar: /img/pfp.webp
 description:
 keywords:
 comment: true
