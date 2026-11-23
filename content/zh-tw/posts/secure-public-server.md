@@ -125,7 +125,7 @@ Windows : `%USERPROFILE%\.ssh`
 > Ctrl + W 可以進行搜尋
 
 ```
-ChallengeResponseAuthentication no
+KbdInteractiveAuthentication no
 PasswordAuthentication no
 UsePAM no
 ```
@@ -227,7 +227,7 @@ Arch : `sudo pacman -S fail2ban`
 
 之後將他啟動！
 
-systemd : `sudo systemd enable fail2ban --now`
+systemd : `sudo systemctl enable fail2ban --now`
 
 OpenRC : 
 
