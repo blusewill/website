@@ -624,6 +624,8 @@ allow_crawlers = false
 [params.library.css]
 
 [params.library.js]
+GoogleAds = "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5939927725969160"
+
 
 [params.search]
 enable = true
