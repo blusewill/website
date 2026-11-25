@@ -1,6 +1,6 @@
 ---
 title: VPS 應該要買哪家？
-subtitle: 避開這些紅旗就好了！
+subtitle: 想買 VPS 嗎？這邊幫你整理出廠商出來！
 date: 2026-11-25T16:47:30+08:00
 lastmod: 2026-11-25T16:47:30+08:00
 slug: cede28f
