@@ -35,7 +35,7 @@ repost:
 
 不知道你在看這個網站的時候有沒有看到右上角有一個**認親列表**
 
-![Website Banner](/zh-tw/img/convention/librewolf_Onx7IzktXu.png)
+![Website Banner](/zh-tw/img/convention/librewolf_Onx7IzktXu.webp)
 
 那是我如果去參加線下活動的時候會用到的功能！
 
@@ -51,7 +51,7 @@ repost:
 
 所以我排版的第一個版本是用表格的方式下去排版的
 
-![First Version](/zh-tw/img/convention/librewolf_Y0yJ6Vlpek.png)
+![First Version](/zh-tw/img/convention/librewolf_Y0yJ6Vlpek.webp)
 
 但是這第一個版本延伸出來的問題就是，沒什麼東西可以放
 
@@ -61,7 +61,7 @@ repost:
 
 同時也把 1.0 換過去了！自己手 Key 資料好累 (X
 
-![Second Version](/zh-tw/img/convention/librewolf_3lpJlxfo3S.png)
+![Second Version](/zh-tw/img/convention/librewolf_3lpJlxfo3S.webp)
 
 ## 2.0 新功能
 
